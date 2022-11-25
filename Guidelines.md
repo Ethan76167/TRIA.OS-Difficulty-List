@@ -18,7 +18,7 @@ EXAMPLE:
 2. Maps must not be a buff to an already existing map.
 3. No joke maps.
 4. The admins have the right to reject your submissions based on varying factors.
-5. If a map is currently broken and is seeking fixes, please label the map as (BROKEN) before the Map Name, also **bold** formatted.
+5. If a map is currently broken and is seeking fixes, please label the map as (!) infront of the map name, also **bold** formatted. Do not list a map that is not planning to be fixed.
 6. Reach out to us in the official Discord should you be unsure of a map's worthiness, or if you would like to switch the placement of a map.
 7. The ID should be the official ID uploaded by one of the map's creators.
 
