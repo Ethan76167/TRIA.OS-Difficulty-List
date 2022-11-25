@@ -1,4 +1,4 @@
-List Format: Name (Main Creator) [ID] [Video]
+List Format: Name by Main Creator [ID] [Video]
 
 1. **(BROKEN) Endzone** by Nightlife Devs [ID: 2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM] 
 2. **Kneeling Shore** by Tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
