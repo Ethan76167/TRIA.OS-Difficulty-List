@@ -5,7 +5,7 @@ to listing the hardest recognized maps of TRIA.os. If you are in need
 of extra help, you can reach out in our server here:
 https://discord.gg/gzY665w2K2
 
-Instructions on contributing are also available in the server.
+Instructions on contributing are also available in the server, at `#how-to-contribute`.
 
 FORMAT FOR ADDING AN ENTRY:
 (LIST NO.) **Map Name** by Creators [ID] [YouTube Video Link]
@@ -24,8 +24,8 @@ EXAMPLE:
 -- FORMAT GUIDELINES
 1. If there are multiple creators, please list your team name instead.
 2. If your map does not have a team name, list the main creator/host instead.
-3. If the map has a custom ID (Generally found in featured maps), please list in the ID as `numerical ID/custom ID`
-4. The YouTube video has to be map completion video. Nothing else.
+3. If the map has a custom ID (Generally found in featured maps), please list in the ID as `numerical ID/custom ID`. Example: `10148804609/kneeling`
+4. The YouTube video has to be a map completion video. Nothing else.
 
 Again if you have any questions, feel free to contact us on Discord!
 \- RockyTanker and the Listing Admins
