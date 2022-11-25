@@ -5,6 +5,8 @@ to listing the hardest recognized maps of TRIA.os. If you are in need
 of extra help, you can reach out in our server here:
 https://discord.gg/gzY665w2K2
 
+Instructions on contributing are also available in the server.
+
 FORMAT FOR ADDING AN ENTRY:
 (LIST NO.) **Map Name** by Creators [ID] [YouTube Video Link]
 
