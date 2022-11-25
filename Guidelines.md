@@ -16,7 +16,7 @@ EXAMPLE:
 -- GENERAL GUIDELINES
 1. The entry for new submissions must be a recognized map of TRIA.
 2. Maps must not be a challenge or buff to an already existing map.
-3. Maps being submitted must be QUALITY maps (No layout maps please).
+3. Entries being submitted must be QUALITY maps (No layout maps please).
 4. No joke maps.
 5. The admins have the right to reject your submissions based on varying factors.
 6. If a map is currently broken and is seeking fixes, please label the map as (BROKEN) before the Map Name, also **bold** formatted.
