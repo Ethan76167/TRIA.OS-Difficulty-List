@@ -14,13 +14,14 @@ EXAMPLE:
 2. **Kneeling Shore** by Tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 
 -- GENERAL GUIDELINES
-1. The entry for new submissions must be a recognized map of TRIA.
-2. Maps must not be a challenge or buff to an already existing map.
-3. Entries being submitted must be QUALITY maps (No layout maps please).
-4. No joke maps.
-5. The admins have the right to reject your submissions based on varying factors.
-6. If a map is currently broken and is seeking fixes, please label the map as (BROKEN) before the Map Name, also **bold** formatted.
-7. Should you be unsure of a map's worthiness to be added, reach out to us in the official Discord.
+1. The entry for new submissions must be a recognized map made **for** TRIA.os.
+2. Maps must not be a buff to an already existing map.
+3. No joke maps.
+4. The admins have the right to reject your submissions based on varying factors.
+5. If a map is currently broken and is seeking fixes, please label the map as (BROKEN) before the Map Name, also **bold** formatted.
+6. Should you be unsure of a map's worthiness to be added, reach out to us in the official Discord.
+7. The ID should be the official ID uploaded by one of the map's creators.
+8. The map should be verified possible.
 
 -- FORMAT GUIDELINES
 1. If there are multiple creators, please list your team name instead.
@@ -29,4 +30,4 @@ EXAMPLE:
 4. The YouTube video has to be a map completion video (Perferably the official verification video). Nothing else.
 
 Again if you have any questions, feel free to contact us on Discord!
-\- RockyTanker and the Listing Admins
+https://discord.gg/kesuwCMwKQ
