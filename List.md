@@ -1,12 +1,5 @@
-- Kneeling Shores
-- Layers
-- Vivid
-- Cubic Void
-- Dystopia
-- Electron Memories
-- Electrical Malfunction 
-- Aurelius
-- Monoscape
-- Reactor meltdown
-- Crimson Castle
-- Resurgo
+
+
+- 1 Kneeling Shore
+- 2 Layers
+- 3 Vivid
