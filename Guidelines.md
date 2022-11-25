@@ -25,7 +25,7 @@ EXAMPLE:
 1. If there are multiple creators, please list your team name instead.
 2. If your map does not have a team name, list the main creator/host instead.
 3. If the map has a custom ID (Generally found in featured maps), please list in the ID as `numerical ID/custom ID`. Example: `10148804609/kneeling`
-4. The YouTube video has to be a map completion video. Nothing else.
+4. The YouTube video has to be a map completion video (Perferably the official verification video). Nothing else.
 
 Again if you have any questions, feel free to contact us on Discord!
 \- RockyTanker and the Listing Admins
