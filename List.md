@@ -7,6 +7,6 @@
 7. Electrical Malfunction 
 8. Aurelius
 9. Monoscape
-10. Reactor meltdown
+10. Reactor Meltdown
 11. Crimson Castle
 12. Resurgo
