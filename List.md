@@ -1,10 +1,10 @@
 **THE OFFICIAL TRIA.OS DIFFICULTY LIST**
 
 1. **(BROKEN) Endzone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM] 
-2. **Kneeling Shore** by Tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
+2. **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 3. **Layers** by Enszo [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
 4. **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
-5. **Cubic Void** by Not_Grif [8877269572/cubicvoid] [https://www.youtube.com/watch?v=KzbVhvUwGZE]
+5. **Cubic Void** by not_grif [8877269572/cubicvoid] [https://www.youtube.com/watch?v=KzbVhvUwGZE]
 6. **Electron Memories** by Ethan76167 [6801708781/em2] [https://www.youtube.com/watch?v=i7mry60b0O8] 
 7. **Phantasm** by SkullerySuffering [7118747757] [https://youtu.be/Fng07Pw5IGc]
 8. **Sector Alpha** by ramzfgg [8217249980] [https://www.youtube.com/watch?v=LQAr_axVtNs] 
