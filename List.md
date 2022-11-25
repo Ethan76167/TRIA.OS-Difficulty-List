@@ -1,12 +1,12 @@
-1. Kneeling Shores
-2. Layers
-3. Vivid
-4. Cubic Void
-5. Dystopia
-6. Electron Memories
-7. Electrical Malfunction 
-8. Aurelius
-9. Monoscape
-10. Reactor Meltdown
-11. Crimson Castle
-12. Resurgo
+1. **Kneeling Shores** [Creator: Tac_taillike] [Video: https://www.youtube.com/watch?v=kEGJxiDmx6Y] [ID: 10148804609/kneeling]
+2. **Layers** [Creator: Enszo] [Video: https://www.youtube.com/watch?v=Yja6SpZVU_U] [ID: 8559494055/layers]
+3. **Vivid** [Creator: Enszo] [Video: https://www.youtube.com/watch?v=4lzsf2e3x5A] [ID: 9953134578/vivd]
+4. **Cubic Void** [Creator: Not_Grif] [Video: https://www.youtube.com/watch?v=KzbVhvUwGZE] [ID: cubicvoid] 
+5.** Dystopia** [Creator: Enszo] [Video: https://www.youtube.com/watch?v=EkHgt_REn1Q] [ID: 3300287803/dystopia]
+6. **Electron Memories** [Creator: Ethan] [Video: https://www.youtube.com/watch?v=i7mry60b0O8] [ID: 6801708781/em2] 
+7. **Electrical Malfunction** [Creator: Ethan] [Video: https://www.youtube.com/watch?v=kQquFCls1PE] [ID: 6618228591/em/em1] 
+8. **Aurelius** [Creator: Svilar] [Video: https://www.youtube.com/watch?v=-XEKXAPq9-Q] [ID: aurelius]
+9. **Monoscape** [Creator: Enszo] [Video: https://www.youtube.com/watch?v=32TfEAUHCG0] [ID: 4510155155/monoscape]
+10. **Reactor Meltdown** [Creator: Affluent_Riley] [Video: https://www.youtube.com/watch?v=KkpoIXJV5Bg] [ID: 8522750354]
+11. **Crimson Castle** [Creator: Enszo] [Video: https://www.youtube.com/watch?v=jdYqPZVXt_4] [ID: 6661054375/crimson]
+12. **TRIA: RESURGO** [Creator: Tria Team] [Video: https://www.youtube.com/watch?v=LyZ_adkqZCk] [ID: 6697139730/resurgo] 
