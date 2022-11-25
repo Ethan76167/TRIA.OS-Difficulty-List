@@ -21,13 +21,9 @@ EXAMPLE:
 5. If a map is currently broken and is seeking fixes, please label the map as (BROKEN) before the Map Name, also **bold** formatted.
 6. Should you be unsure of a map's worthiness to be added, reach out to us in the official Discord.
 7. The ID should be the official ID uploaded by one of the map's creators.
-8. The map should be verified possible.
 
 -- FORMAT GUIDELINES
 1. If there are multiple creators, please list your team name instead.
 2. If your map does not have a team name, list the main creator/host instead.
 3. If the map has a custom ID (Generally found in featured maps), please list in the ID as `numerical ID/custom ID`. Example: `10148804609/kneeling`
-4. The YouTube video has to be a map completion video (Preferably the official verification video). Nothing else.
-
-Again if you have any questions, feel free to contact us on Discord!
-https://discord.gg/kesuwCMwKQ
+4. A YouTube video with the map completion (Preferably the official verification video) has to be added.
