@@ -1,12 +1,12 @@
--Kneeling Shores
--Layers
---Vivid
--Cubic Void
--Dystopia
--Electron Memories
--Electrical Malfunction 
--Aurelius
--Monoscape
--Reactor meltdown
--Crimson Castle
--Resurgo
+- Kneeling Shores
+- Layers
+- Vivid
+- Cubic Void
+- Dystopia
+- Electron Memories
+- Electrical Malfunction 
+- Aurelius
+- Monoscape
+- Reactor meltdown
+- Crimson Castle
+- Resurgo
