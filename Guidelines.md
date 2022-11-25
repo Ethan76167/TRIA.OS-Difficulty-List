@@ -1,4 +1,4 @@
-**GUIDELINES IN ADDING TRIA MAPS**
+> **GUIDELINES IN ADDING TRIA MAPS**
 
 Welcome to the official TRIA.os Difficulty List, a map list dedicated 
 to listing the hardest recognized maps of TRIA.os. If you are in need
@@ -13,7 +13,7 @@ FORMAT FOR ADDING AN ENTRY:
 EXAMPLE:
 2. **Kneeling Shore** by Tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 
--- GENERAL GUIDELINES
+> **GENERAL GUIDELINES**
 1. The entry for new submissions must be a recognized map made **for** TRIA.os.
 2. Maps must not be a buff to an already existing map.
 3. No joke maps.
@@ -22,7 +22,7 @@ EXAMPLE:
 6. Should you be unsure of a map's worthiness to be added, reach out to us in the official Discord.
 7. The ID should be the official ID uploaded by one of the map's creators.
 
--- FORMAT GUIDELINES
+> **FORMAT GUIDELINES**
 1. If there are multiple creators, please list your team name instead.
 2. If your map does not have a team name, list the main creator/host instead.
 3. If the map has a custom ID (Generally found in featured maps), please list in the ID as `numerical ID/custom ID`. Example: `10148804609/kneeling`
