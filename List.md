@@ -1,4 +1,5 @@
-List Format: **Name** by Main Creator [ID] [Video]
+List Format: **Name** by Creators [ID] [Video]
+`IF THERE ARE MULTIPLE CREATORS, PLEASE LIST IT AS A TEAM NAME`
 
 1. **(BROKEN) Endzone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM] 
 2. **Kneeling Shore** by Tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
