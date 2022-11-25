@@ -1,8 +1,8 @@
 **THE OFFICIAL TRIA.OS DIFFICULTY LIST**
 
 1. **(BROKEN) Endzone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM] 
-2. **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
-3. **Layers** by Enszo [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
+2. **Layers** by Enszo [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
+3. **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 4. **Lingering Enterprise** by xxJAFARBYxx and TheDedderDed [6879515840] [https://www.youtube.com/watch?v=USzT84i5WVA&ab_channel=Dweb]
 5. **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
 6. **Cubic Void** by not_grif [8877269572/cubicvoid] [https://www.youtube.com/watch?v=KzbVhvUwGZE]
@@ -17,6 +17,7 @@
 15. **Aurelius** by Svilar [6966714293/aurelius] [https://www.youtube.com/watch?v=-XEKXAPq9-Q] 
 16. **Monoscape** by Enszo [4510155155/monoscape] [https://www.youtube.com/watch?v=32TfEAUHCG0] 
 17. **Reactor Meltdown** by Affluent Riley [8522750354] [https://www.youtube.com/watch?v=KkpoIXJV5Bg] 
-18. **Crimson Castle** by Enszo [6661054375/crimson] [https://www.youtube.com/watch?v=jdYqPZVXt_4] 
-19. **TRIA: RESURGO** by the TRIA Team [6697139730/resurgo] [https://www.youtube.com/watch?v=LyZ_adkqZCk] 
+18. **Crimson Castle** by Enszo [6661054375/crimson] [https://www.youtube.com/watch?v=jdYqPZVXt_4]
+19. **Monovoid** by Enszo [8439110516] [https://www.youtube.com/watch?v=FvzsWPFMK2Q&ab_channel=Enszo] 
+20. **TRIA: RESURGO** by the TRIA Team [6697139730/resurgo] [https://www.youtube.com/watch?v=LyZ_adkqZCk] 
 
