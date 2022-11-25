@@ -1,1 +1,3 @@
-LIST IS BAD 
+LIST IS BAD  
+Nos   
+Vivid
