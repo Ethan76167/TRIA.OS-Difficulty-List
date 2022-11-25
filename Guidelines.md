@@ -15,12 +15,13 @@ EXAMPLE:
 
 > **GENERAL GUIDELINES**
 1. The entry for new submissions must be a recognized map made **for** TRIA.os.
-2. Maps must not be a buff to an already existing map.
-3. No joke maps.
-4. The admins have the right to reject your submissions based on varying factors.
-5. If a map is currently broken and is seeking fixes, please label the map as (BROKEN) before the Map Name, also **bold** formatted.
-6. Should you be unsure of a map's worthiness to be added, reach out to us in the official Discord.
-7. The ID should be the official ID uploaded by one of the map's creators.
+2. You must consult the Discord before changing existing placements.
+3. Maps must not be a buff to an already existing map.
+4. No joke maps.
+5. The admins have the right to reject your submissions based on varying factors.
+6. If a map is currently broken and is seeking fixes, please label the map as (BROKEN) before the Map Name, also **bold** formatted.
+7. Should you be unsure of a map's worthiness to be added, reach out to us in the official Discord.
+8. The ID should be the official ID uploaded by one of the map's creators.
 
 > **FORMAT GUIDELINES**
 1. If there are multiple creators, please list your team name instead.
