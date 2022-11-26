@@ -6,6 +6,7 @@ of extra help, you can reach out in our server here:
 https://discord.gg/gzY665w2K2
 
 Instructions on contributing are also available in the server, at `#how-to-contribute`.
+Or you can watch this tutorial here:  https://youtu.be/AX8PWRI3ZKw
 
 FORMAT FOR ADDING AN ENTRY:
 (LIST NO.) **Map Name** by Creators [ID] [YouTube Video Link]
