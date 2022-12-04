@@ -6,6 +6,7 @@
 4. **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
 5. **Tempestuous Blizzard** by Zerix [11573213410] [https://www.youtube.com/watch?v=Cxd7gPp9oDs]
 6. **Cubic Void** by not_grif [8877269572/cubicvoid] [https://www.youtube.com/watch?v=KzbVhvUwGZE]
+7. **Cubic Ruins** by not_grif [7859838563] [https://www.youtube.com/watch?v=ZBhJoNfEcJM]
 8. **Crystallized** by CN08_ [10225315067] [https://www.youtube.com/watch?v=6U-OB2AQbww]
 9. **Phantasm** by SkullerySkuffling [7118747757] [https://youtu.be/Fng07Pw5IGc]
 10. **Sector Alpha** by ramzfgg [8217249980] [https://www.youtube.com/watch?v=LQAr_axVtNs]
