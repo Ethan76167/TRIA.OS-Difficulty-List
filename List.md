@@ -25,3 +25,4 @@
 23. **Crimson Castle** by Enszo [6661054375/crimsoncastle] [https://www.youtube.com/watch?v=jdYqPZVXt_4]
 24. **Monovoid** by Enszo [8439110516] [https://www.youtube.com/watch?v=FvzsWPFMK2Q&ab_channel=Enszo] 
 25. **TRIA: RESURGO** by the TRIA Team [6697139730] [https://www.youtube.com/watch?v=LyZ_adkqZCk] 
+26. **Cyber-Wave**by WhyDoIHaveNoUserName, AnormalPLYR, Literal_Cow [10587406730] https://www.youtube.com/watch?v=4yuKCJ3iH_M
