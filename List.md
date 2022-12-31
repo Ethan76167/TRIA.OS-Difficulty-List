@@ -1,6 +1,6 @@
 > **THE OFFICIAL TRIA.OS DIFFICULTY LIST**
 
-1. **[!]** **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM] 
+1. **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM] 
 2. **Ultranova** by Nebula Team [6296309617] [https://youtu.be/s9J17jEwnpY]
 3. **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 4. **Layers** by Enszo [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
