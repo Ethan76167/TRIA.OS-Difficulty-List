@@ -33,7 +33,7 @@
 > **Hard**
 
 22. **Somnium** by Chelle [8249887359/somnium] [https://www.youtube.com/watch?v=hwt0p-19y3w]
-23. **Wintry Establishment** by Ultramex3 [8216465224/outpost32] [https://www.youtube.com/watch?v=FedOCDGkqvQ]
+23. **[!] Wintry Establishment** by Ultramex3 [8216465224/outpost32] [https://www.youtube.com/watch?v=FedOCDGkqvQ]
 24. **Underground Collapse** by Sticky [10649951622/underground] [https://www.youtube.com/watch?v=B93ggGq6r-A]
 
 > **Normal**
