@@ -10,7 +10,7 @@
 8. **Crystallized** by CN08_ [10225315067] [https://www.youtube.com/watch?v=6U-OB2AQbww]
 9. **Cubic Ruins** by not_grif [7859838563] [https://www.youtube.com/watch?v=ZBhJoNfEcJM]
 10. **Sector Alpha** by ramzfgg [8217249980] [https://www.youtube.com/watch?v=LQAr_axVtNs]
-11. **Yatagarasu** by EpicaLanced [12373259837] [https://www.youtube.com/watch?v=fggzacqKuwM]
+11. **[!] Yatagarasu** by EpicaLanced [12373259837] [https://www.youtube.com/watch?v=fggzacqKuwM]
 12. **Phantasm** by SkullerySkuffling [7118747757] [https://youtu.be/Fng07Pw5IGc]
 13. **Electron Memories** by Ethan76167 [6801708781/em2] [https://www.youtube.com/watch?v=i7mry60b0O8] 
 14. **Dystopia** by Enszo [3300287803/dystopia] [https://www.youtube.com/watch?v=EkHgt_REn1Q]
