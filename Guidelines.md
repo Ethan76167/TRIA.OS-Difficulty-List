@@ -20,8 +20,15 @@ EXAMPLE:
 3. No joke maps.
 4. The admins have the right to reject your submissions based on varying factors.
 5. If a map is currently broken and is seeking fixes, please label the map as [!] infront of the map name, also **bold** formatted. Do not list a map that is not planning to be fixed.
-6. Reach out to us in the official Discord should you be unsure of a map's worthiness, or if you would like to switch the placement of a map.
-7. The ID should be the official ID uploaded by one of the map's creators.
+
+Example: **[!] Kneeling Shore**
+
+6. If the bug is map breaking (Its impossible to beat the map because of it) label the map as [!!!] infront of the map name.
+
+Example: **[!!!] Kneeling Shore**
+
+7. Reach out to us in the official Discord should you be unsure of a map's worthiness, or if you would like to switch the placement of a map.
+8. The ID should be the official ID uploaded by one of the map's creators.
 
 > **FORMAT GUIDELINES**
 1. If there are multiple creators, please list your team name instead.
