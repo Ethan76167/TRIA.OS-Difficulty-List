@@ -33,5 +33,8 @@ Example: **[!!!] Kneeling Shore**
 > **FORMAT GUIDELINES**
 1. If there are multiple creators, please list your team name instead.
 2. If your map does not have a team name, list the main creator/host instead.
-3. If the map has a custom ID (Generally found in featured maps), please list in the ID as `numerical ID/custom ID`. Example: `10148804609/kneeling`
+3. If the map has a custom ID (Generally found in featured maps), please list in the ID as `numerical ID/custom ID`. 
+
+Example: `10148804609/kneeling`
+
 4. A YouTube video with the map completion (Preferably the official verification video) has to be added.
