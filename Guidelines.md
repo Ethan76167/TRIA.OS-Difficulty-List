@@ -30,7 +30,7 @@ Example: **[!!!] Kneeling Shore**
 
 7. Reach out to us in the official Discord should you be unsure of a map's worthiness, or if you would like to switch the placement of a map.
 8. The ID should be the official ID uploaded by one of the map's creators.
-9. All maps listed (at the moment) should be Divine or harder.
+9. All maps listed (at the moment) should be Divine or harder (aside from Public map list).
 10. All Lists have a sub-guideline accoridng to its respective list, look at the bottom of this file to see them.
 
 > **FORMAT GUIDELINES**
