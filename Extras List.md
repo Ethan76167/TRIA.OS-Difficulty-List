@@ -10,6 +10,5 @@
 3. **Rooms 2** by Box [12233103006] [https://www.youtube.com/watch?v=iXLRL1_ZSDE]
 4. **Cyber Cypher** by its_ven1 [11850893033] [https://www.youtube.com/watch?v=pr_a-fsV-8Y]
 5. **Beyond** by its_ven1 [10652098390] [https://www.youtube.com/watch?v=aS-AmA4AJ48]
-6. **Industrial Hours** by TechnocraticAviation [8468182476] [https://www.youtube.com/watch?v=M-FCZRl2Aes]
-7. **The Void** by Svilar [4046421693] [https://www.youtube.com/watch?v=v6TEXC8IGj8]
-8. **Naruith** by BrayanRaposa [10542276214] [https://www.youtube.com/watch?v=aNUgzTkTSuA]
+6. **The Void** by Svilar [4046421693] [https://www.youtube.com/watch?v=v6TEXC8IGj8]
+7. **Naruith** by BrayanRaposa [10542276214] [https://www.youtube.com/watch?v=aNUgzTkTSuA]
