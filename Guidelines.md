@@ -14,7 +14,8 @@ FORMAT FOR ADDING AN ENTRY:
 EXAMPLE:
 2. **Kneeling Shore** by Tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 
-> **GENERAL GUIDELINES**
+
+> **ALL LIST GUIDELINES**
 1. The entry for new submissions must be a recognized map made **for** TRIA.os.
 2. Maps must not be a buff to an already existing map.
 3. No joke maps.
@@ -23,12 +24,13 @@ EXAMPLE:
 
 Example: **[!] Kneeling Shore**
 
-6. If the bug is map breaking (Its impossible to beat the map because of it) label the map as [!!!] infront of the map name.
+6. If the bug is map breaking (Its impossible to beat the map because of it) label the map as [!!!] infront of the map name, also **bold** formatted.
 
 Example: **[!!!] Kneeling Shore**
 
 7. Reach out to us in the official Discord should you be unsure of a map's worthiness, or if you would like to switch the placement of a map.
 8. The ID should be the official ID uploaded by one of the map's creators.
+9. All Lists have a sub-guideline accoridng to its respective list, look at the bottom of this file to see them.
 
 > **FORMAT GUIDELINES**
 1. If there are multiple creators, please list your team name instead.
@@ -38,3 +40,22 @@ Example: **[!!!] Kneeling Shore**
 Example: `10148804609/kneeling`
 
 4. A YouTube video with the map completion (Preferably the official verification video) has to be added.
+
+
+> **List.md GUIDELINES**
+
+1. All maps here must be agreed upon quality enjoyable maps.
+2. All maps here must also not be made for the intention of becoming the hardest map in TRIA.OS, this leads to unfun and sometimes cancer GP, aswell as clout chasing.
+3. All maps here must have at least 1 victor not including the creator/verifier.
+
+> **Extras.md GUIDELINES**
+
+1. This list is meant for lesser known maps that arent up to the standards of quality of the List.md. Maps here are much more leniant however they still fall under the "ALL LIST GUIDELINES" rules.
+2. Maps here are listed in a numerical fashion however in no particular order instead they are listed as either Harder or Less Hard than **Dsytopia V4**, this is to keep the list easy to manage when new maps are added.
+3. Do not include any maps already listed on the List.md.
+4. Maps here can be posted without a non creator/verfier as long as it has a creator/verifier video. If this applies label the map as (No Victors) infront of the map name, not bold formatted.
+
+> **Public List.md GUIDELINES**
+
+1. This list is specifically only for maps inside the public TRIA.OS Map list used inside of Public servers. So do not add or remove any maps unless the public map list changes in game.
+2. If you wish to change one of the listing's placement check with the community inside https://discord.gg/gzY665w2K2 first.
