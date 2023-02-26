@@ -2,7 +2,7 @@
 
 > **Hardest Maps**
 
-1. (No Victors) **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=S2F35RxXvC4]
+1. **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=S2F35RxXvC4]
 
 > **Less Hard Maps**
 1. **[!] Locus** by Phoenix [11678381718] [https://www.youtube.com/watch?v=BSErAbpDSx4]
