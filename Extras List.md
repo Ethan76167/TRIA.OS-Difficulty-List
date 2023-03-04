@@ -3,7 +3,6 @@
 > **Hardest Maps**
 
 1. **Rooms 2** by Box [12233103006] [https://www.youtube.com/watch?v=iXLRL1_ZSDE]
-2. **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=S2F35RxXvC4]
 
 > **Less Hard Maps**
 1. **[!] Locus** by Phoenix [11678381718] [https://www.youtube.com/watch?v=BSErAbpDSx4]
