@@ -1,5 +1,8 @@
 > **THE OFFICIAL TRIA.OS DIFFICULTY PUBLIC MAP LIST**
 
+> **Eternal**
+1. (No Victor) **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
+
 > **Divine**
 
 1. **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
