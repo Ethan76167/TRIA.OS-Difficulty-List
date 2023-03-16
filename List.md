@@ -1,7 +1,7 @@
 > **THE OFFICIAL TRIA.OS DIFFICULTY LIST**
 
 > **Eternal**
-1. (No Victor) **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
+1. **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
 
 > **Divine**
 1. **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM] 
