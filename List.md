@@ -36,4 +36,4 @@
 31. **Crimson Castle** by Enszo [6661054375/crimsoncastle] [https://www.youtube.com/watch?v=jdYqPZVXt_4]
 32. **Monovoid** by Enszo [8439110516] [https://www.youtube.com/watch?v=FvzsWPFMK2Q&ab_channel=Enszo] 
 33. **Matrix** by Link_Cable [8464396099] [https://www.youtube.com/watch?v=KkqilCkjhWY]
-34. **TRIA: RESURGO** by the TRIA Team [6697139730] [https://www.youtube.com/watch?v=LyZ_adkqZCk] 
+34. [!!!] **TRIA: RESURGO** by the TRIA Team [6697139730] [https://www.youtube.com/watch?v=LyZ_adkqZCk] 
