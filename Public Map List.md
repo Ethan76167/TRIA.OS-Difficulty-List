@@ -15,9 +15,10 @@
 8. **Aurelius** by Svilar [6966714293/aurelius] [https://www.youtube.com/watch?v=-XEKXAPq9-Q] 
 9. **Monoscape** by Enszo [4510155155/mono2] [https://www.youtube.com/watch?v=32TfEAUHCG0] 
 
+``5.99-6.05`` **Crimson Castle** by Enszo [6661054375/crimsoncastle] [https://www.youtu.be/jdYqPZVXt_4]
+
 > **Extreme**
 
-10. **Crimson Castle** by Enszo [6661054375/crimsoncastle] [https://www.youtube.com/watch?v=jdYqPZVXt_4]
 11. **Waving Facility** by Enszo [6773688800/facility1984] [https://www.youtube.com/watch?v=g94xhsBlTOU]
 12. **Monochrex** by Enszo [4510154372/mono1] [https://www.youtube.com/watch?v=vjfDQCSBrq0]
 13. **Dark Neon** by Svilar [3157233267/darkneon] [https://www.youtube.com/watch?v=cZKh0W6IXDI]
@@ -47,6 +48,8 @@
 
 > **Easy**
 
-28. **Mystic Remnants** by Dzrol [8587848010/mystic] [https://www.youtube.com/watch?v=VaU1PZH3Sp8]
-29. **Misty Waterfall** by Misty Waterfall Team [10042356540/misty] [https://www.youtube.com/watch?v=xi48cthM2cQ]
-30. **Windy Landscape** by RadicalRadio [10035721301/windy] [https://www.youtube.com/watch?v=sT0wWXfUODw]
+``1.53`` **Misty Waterfall** by Misty Waterfall Team [10042356540/misty] [https://www.youtu.be/xi48cthM2cQ]
+ 
+``1.45``  **Mystic Remnants** by Dzrol [8587848010/mystic] [https://www.youtu.be/VaU1PZH3Sp8]
+ 
+ ``1.18`` **Windy Landscape** by RadicalRadio [10035721301/windy] [https://www.youtu.be/sT0wWXfUODw]
