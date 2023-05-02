@@ -9,11 +9,52 @@ Instructions on contributing are also available in the server, at `#how-to-contr
 Or you can watch this tutorial here:  https://youtu.be/AX8PWRI3ZKw
 
 FORMAT FOR ADDING AN ENTRY:
-#. **Map Name** by Creators [ID] [YouTube Video Link]
+#.## **Map Name** by Creators [ID] [YouTube Video Link]
 
 EXAMPLE:
-2. **Kneeling Shore** by Tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
+6.77 **Kneeling Shore** by Tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 
+> **Map Difficulty Rating Classification Sheet**
+
+We will ask many good trust worthy players in tria to rate a maps difficulty from "0-99" [0 = easiest of its difficulty | 99 = hardest] and then we will get the average of them all.
+
+For example say we got (84, 83, 83, 84, 84)
+
+that means our final score for the map would be #.84
+
+then we use the first number naming scheme
+
+>Easy: 1
+
+>Normal: 2
+
+>Hard: 3
+
+>Insane: 4
+
+>Extreme: 5
+
+>Divine: 6
+
+>Eternal: 7
+
+And since the map is a divine it will be 6 which gives us:
+6.84
+
+Then the map gets put into a category of
+
+>Bottom: .0 - .2
+
+>Low: .21 - .4
+
+>Middle: .41 - .6
+
+>High: .61 - 8
+
+>Peak: .81 - 99
+
+Since our example map is .84 it would be Peak, this brings our final map classification as
+Peak 6.48
 
 > **ALL LIST GUIDELINES**
 1. The entry for new submissions must be a recognized map made **for** TRIA.os.
