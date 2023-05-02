@@ -52,4 +52,4 @@
  
 ``1.45``  **Mystic Remnants** by Dzrol [8587848010/mystic] [https://www.youtu.be/VaU1PZH3Sp8]
  
- ``1.18`` **Windy Landscape** by RadicalRadio [10035721301/windy] [https://www.youtu.be/sT0wWXfUODw]
+ ``1.18`` **Windy Departure** by RadicalRadio [10035721301/windy] [https://www.youtu.be/sT0wWXfUODw]
