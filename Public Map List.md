@@ -14,7 +14,7 @@
 7. **Electrical Malfunction** by Ethan76167 [6618228591/em1] [https://www.youtube.com/watch?v=kQquFCls1PE]
 8. **Aurelius** by Svilar [6966714293/aurelius] [https://www.youtube.com/watch?v=-XEKXAPq9-Q] 
 9. **Monoscape** by Enszo [4510155155/mono2] [https://www.youtube.com/watch?v=32TfEAUHCG0] 
-10. 
+
 ``6.05`` **Crimson Castle** by Enszo [6661054375/crimsoncastle] [https://www.youtu.be/jdYqPZVXt_4]
 
 > **Extreme**
