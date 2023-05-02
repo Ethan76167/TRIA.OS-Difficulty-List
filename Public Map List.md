@@ -1,7 +1,8 @@
 > **THE OFFICIAL TRIA.OS DIFFICULTY PUBLIC MAP LIST**
 
 > **Eternal**
-1. **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
+
+``7.00`` **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
 
 > **Divine**
 
