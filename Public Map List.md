@@ -6,13 +6,13 @@
 
 > **Divine**
 
-``6.87`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
+``6.70`` **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
 
-``6.84`` **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
+``6.60`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 
-``6.81`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://www.youtube.com/watch?v=KzbVhvUwGZE]
+``6.57`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://www.youtube.com/watch?v=KzbVhvUwGZE]
 
-``6.77`` **Cubic Ruins** by not_grif [7859838563] [https://www.youtube.com/watch?v=ZBhJoNfEcJM]
+``6.52`` **Cubic Ruins** by not_grif [7859838563] [https://www.youtube.com/watch?v=ZBhJoNfEcJM]
 
 ``6.46`` **Dystopia** by Enszo [3300287803/dystopia] [https://www.youtube.com/watch?v=EkHgt_REn1Q]
 
