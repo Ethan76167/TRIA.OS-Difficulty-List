@@ -46,6 +46,8 @@
 
 ``6.28`` **Electrical Malfunction** by Ethan76167 [6618228591/em1] [https://www.youtube.com/watch?v=kQquFCls1PE]
 
+``6.25`` **Kowloon Walled City** by Not_EvenARobert [13383439615] [https://www.youtube.com/watch?v=UG_doq4ogTc]
+
 ``6.21`` **Ikarus** by EduardoSO [10252415638] [https://www.youtube.com/watch?v=IHwJaZib4JE]
 
 ``6.15`` **Aurelius** by Svilar [6966714293/aurelius] [https://www.youtube.com/watch?v=-XEKXAPq9-Q] 
