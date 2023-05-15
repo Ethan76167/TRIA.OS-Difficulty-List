@@ -10,6 +10,8 @@
 
 ``6.99`` **Ultranova** by Nebula Team [6296309617] [https://youtu.be/s9J17jEwnpY]
 
+``6.90`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
+
 ``6.84`` **Layers** by Enszo [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
 
 ``6.80`` **Derelict Industry** by CN08_ [10738856300] [https://www.youtube.com/watch?v=OcUk2iv3_mk]
@@ -19,8 +21,6 @@
 ``6.65`` **Tempestuous Blizzard** by Zerix [11573213410] [https://www.youtube.com/watch?v=Cxd7gPp9oDs]
 
 ``6.62`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=S2F35RxXvC4]
-
-``6.60`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 
 ``6.57`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://www.youtube.com/watch?v=KzbVhvUwGZE]
 
