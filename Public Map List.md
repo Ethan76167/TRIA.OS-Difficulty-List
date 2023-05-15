@@ -6,9 +6,9 @@
 
 > **Divine**
 
-``6.70`` **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
+``6.90`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 
-``6.60`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
+``6.70`` **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
 
 ``6.57`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://www.youtube.com/watch?v=KzbVhvUwGZE]
 
