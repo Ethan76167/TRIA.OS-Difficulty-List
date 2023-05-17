@@ -38,9 +38,9 @@
 
 ``5.21`` **Destination Point** by Enszo [677369195/tgf] [https://www.youtube.com/watch?v=zn87HLZ49Ts]
 
-> **Insane**
+``5.10`` **Endless** by Ramzfgg [10034564767/endless] [https://www.youtube.com/watch?v=S6V_rWdKwt0]
 
-``4.98`` **Endless** by Ramzfgg [10034564767/endless] [https://www.youtube.com/watch?v=S6V_rWdKwt0]
+> **Insane**
 
 ``4.89`` **Umbralis** by Rayhan [10035071376/umb] [https://www.youtube.com/watch?v=3rdlkNEYsLk]
 
