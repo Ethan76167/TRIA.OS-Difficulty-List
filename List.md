@@ -60,8 +60,6 @@
 
 ``6.10`` **The Void** by Svilar [4046421693/thevoid] [https://www.youtube.com/watch?v=mwnohqEx3cI]
 
-``6.09`` **Reactor Meltdown** by Affluent Riley [8522750354] [https://www.youtube.com/watch?v=KkpoIXJV5Bg]
-
 ``6.07`` **Le Calme** by Rayhan [10747064552] [https://www.youtube.com/watch?v=a3W4OKYjz3c]
 
 ``6.04`` **Industrialized Heat** by The Industrialized Team [11767276048] [https://www.youtube.com/watch?v=hODLQDaGbbk] 
