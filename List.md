@@ -28,8 +28,6 @@
 
 ``6.52`` **Cubic Ruins** by not_grif [7859838563] [https://www.youtube.com/watch?v=ZBhJoNfEcJM]
 
-``6.50`` **Sector Alpha** by ramzfgg [8217249980] [https://www.youtube.com/watch?v=LQAr_axVtNs]
-
 ``6.49`` **Yatagarasu** by EpicaLanced [12373259837] [https://www.youtube.com/watch?v=fggzacqKuwM]
 
 ``6.48`` **Phantasm** by SkullerySkuffling [7118747757] [https://youtu.be/Fng07Pw5IGc]
@@ -39,6 +37,8 @@
 ``6.46`` **[!] Dystopia** by Enszo [3300287803/dystopia] [https://www.youtube.com/watch?v=EkHgt_REn1Q]
 
 ``6.41`` **Electron Memories** by Ethan76167 [6801708781/em2] [https://www.youtube.com/watch?v=i7mry60b0O8] 
+
+``6.40`` **Sector Alpha** by ramzfgg [8217249980] [https://www.youtube.com/watch?v=LQAr_axVtNs]
 
 ``6.35`` **Decayed Mineshaft** by TechnocraticAviation [6999475800] [https://www.youtube.com/watch?v=rjuEvIPRFZM]
 
