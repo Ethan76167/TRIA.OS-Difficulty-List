@@ -6,7 +6,7 @@
 
 > **Divine**
 
-``6.90`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
+``6.78`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 
 ``6.70`` **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
 
@@ -20,7 +20,7 @@
 
 ``6.28`` **Electrical Malfunction** by Ethan76167 [6618228591/em1] [https://www.youtube.com/watch?v=kQquFCls1PE]
 
-``6.15`` **Aurelius** by Svilar [6966714293/aurelius] [https://www.youtube.com/watch?v=-XEKXAPq9-Q] 
+``6.21`` **Aurelius** by Svilar [6966714293/aurelius] [https://www.youtube.com/watch?v=-XEKXAPq9-Q] 
 
 ``6.12`` **Monoscape** by Enszo [4510155155/mono2] [https://www.youtube.com/watch?v=32TfEAUHCG0] 
 
