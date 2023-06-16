@@ -2,9 +2,9 @@
 
 > **Eternal**
 
-``7.17`` **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM] 
+``7.10`` **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM] 
 
-``7.10`` **Ultranova** by Nebula Team [6296309617] [https://youtu.be/s9J17jEwnpY]
+``7.04`` **Ultranova** by Nebula Team [6296309617] [https://youtu.be/s9J17jEwnpY]
 
 ``7.00`` **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
 
@@ -12,15 +12,15 @@
 
 ``6.84`` **Layers** by Enszo [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
 
-``6.81`` **Tempestuous Blizzard** by Zerix [11573213410] [https://www.youtube.com/watch?v=Cxd7gPp9oDs]
-
 ``6.80`` **Derelict Industry** by CN08_ [10738856300] [https://www.youtube.com/watch?v=OcUk2iv3_mk]
+
+``6.79`` **Tempestuous Blizzard** by Zerix [11573213410] [https://www.youtube.com/watch?v=Cxd7gPp9oDs]
 
 ``6.78`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=DwBYGYdwH6Q]
 
 ``6.70`` **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
 
-``6.62`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=S2F35RxXvC4]
+``6.60`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=S2F35RxXvC4]
 
 ``6.58`` **Drainpipe Stream** [10680367555] [https://www.youtube.com/watch?v=5KYqD71JP6I]
 
