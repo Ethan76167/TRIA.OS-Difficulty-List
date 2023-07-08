@@ -10,13 +10,13 @@
 
 > **Divine**
 
-``6.84`` **Layers** by Enszo [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
+``6.93`` **Derelict Industry** by CN08_ [10738856300] [https://www.youtube.com/watch?v=Jd2jlFv4YYk]
 
-``6.80`` **Derelict Industry** by CN08_ [10738856300] [https://www.youtube.com/watch?v=OcUk2iv3_mk]
+``6.84`` **Layers** by Enszo [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
 
 ``6.79`` **Tempestuous Blizzard** by Zerix [11573213410] [https://www.youtube.com/watch?v=Cxd7gPp9oDs]
 
-``6.78`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=DwBYGYdwH6Q]
+``6.78`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=ectnMFW5cr0]
 
 ``6.70`` **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
 
