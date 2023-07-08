@@ -48,11 +48,13 @@
 
 ``6.28`` **Electrical Malfunction** by Ethan76167 [6618228591/em1] [https://www.youtube.com/watch?v=kQquFCls1PE]
 
+``6.22`` **Malicious Mechanics** by MalachiLeapYear [10704586333] [https://www.youtube.com/watch?v=Omy6BDDVClo]
+
 ``6.21`` **Aurelius** by Svilar [6966714293/aurelius] [https://www.youtube.com/watch?v=-XEKXAPq9-Q]
 
-``6.15`` **Ikarus** by EduardoSO [10252415638] [https://www.youtube.com/watch?v=IHwJaZib4JE]
+``6.16`` **Ominosity** by TechnocraticAviation [8237260520] [https://www.youtube.com/watch?v=_pzCh_G0EjA]
 
-``6.14`` **Ominosity** by TechnocraticAviation [8237260520] [https://www.youtube.com/watch?v=_pzCh_G0EjA]
+``6.15`` **Ikarus** by EduardoSO [10252415638] [https://www.youtube.com/watch?v=IHwJaZib4JE]
 
 ``6.13`` **Aurelius Reimagined** by Zappy [12299381972] [https://www.youtube.com/watch?v=t1Lxvd1OWCc]
 
