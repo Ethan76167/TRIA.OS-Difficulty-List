@@ -2,7 +2,7 @@
 
 > **Eternal**
 
-``7.10`` **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM] 
+``7.10`` **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
 
 ``7.04`` **Ultranova** by Nebula Team [6296309617] [https://youtu.be/s9J17jEwnpY]
 
