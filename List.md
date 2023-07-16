@@ -66,7 +66,7 @@
 
 ``6.04`` **Industrialized Heat** by The Industrialized Team [11767276048] [https://www.youtube.com/watch?v=hODLQDaGbbk] 
 
-``6.03`` **Monovoid** by Enszo [8439110516] [https://www.youtube.com/watch?v=FvzsWPFMK2Q&ab_channel=Enszo] 
+``6.02`` **Monovoid** by Enszo [8439110516] [https://www.youtube.com/watch?v=FvzsWPFMK2Q&ab_channel=Enszo] 
 
 ``6.01`` **Matrix** by Link_Cable [8464396099] [https://www.youtube.com/watch?v=KkqilCkjhWY]
 
