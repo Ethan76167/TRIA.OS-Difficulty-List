@@ -6,7 +6,7 @@
 
 2. ``7.04`` **Ultranova** by Nebula Team [6296309617] [https://youtu.be/s9J17jEwnpY]
 
-3. ``7.03`` **Eternal Punishment** by midlecs [6717933469] [https://streamable.com/bsuds5]
+3. ``7.03`` **Eternal Punishment** by midlecs [6717933469] [https://www.youtube.com/watch?v=qSwJ6ItPugE]
 
 4. ``7.00`` **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
 
