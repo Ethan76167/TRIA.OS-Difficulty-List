@@ -46,7 +46,7 @@
 
 ``4.75`` **Paranormal Tombs** by Paranormal Tombs Team [10079685257/para] [https://www.youtube.com/watch?v=ra_I3FbRbhQ]
 
-``4.74`` **Magma Chambers** by Galaxy & Affluent Riley [8471907562/magma] [https://www.youtube.com/watch?v=Cn2_nLnkUz4]
+``4.74`` **Magma Chambers** by Galaxy [8471907562/magma] [https://www.youtube.com/watch?v=Cn2_nLnkUz4]
 
 ``4.73`` **Lush Remnant** by Marz [10630559808/lush] [https://www.youtube.com/watch?v=05Pi_igT1gw]
 
