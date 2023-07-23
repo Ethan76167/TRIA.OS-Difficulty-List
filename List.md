@@ -26,17 +26,17 @@
 
 11. ``6.70`` **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
 
-12. ``6.68`` **[!] Halcyon || Orange Sector 2.0** by Literal_Cow [9293714116] [https://www.youtube.com/watch?v=BAyn0JZJbLI]
+12. ``6.69`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=znC9mcKD5QE]
 
-13. ``6.63`` **Hyxla Factory** by AlexGamerPro347 [10263934212] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
+13. ``6.68`` **[!] Halcyon || Orange Sector 2.0** by Literal_Cow [9293714116] [https://www.youtube.com/watch?v=BAyn0JZJbLI]
 
-14. ``6.62`` **Overflowing Industry** by ALEXLS8 [10742566948] [https://www.youtube.com/watch?v=0SKmlLfJhig]
+14. ``6.63`` **Hyxla Factory** by AlexGamerPro347 [10263934212] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
 
-15. ``6.62`` **Beyond** by its_ven1 [10652098390] [https://www.youtube.com/watch?v=aS-AmA4AJ48]
+15. ``6.62`` **Overflowing Industry** by ALEXLS8 [10742566948] [https://www.youtube.com/watch?v=0SKmlLfJhig]
 
-16. ``6.61`` **Hard Reset** by ItzJey112 [13229449398] [https://www.youtube.com/watch?v=uKJFOJFfaNo]
+16. ``6.62`` **Beyond** by its_ven1 [10652098390] [https://www.youtube.com/watch?v=aS-AmA4AJ48]
 
-17. ``6.60`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=S2F35RxXvC4]
+17. ``6.61`` **Hard Reset** by ItzJey112 [13229449398] [https://www.youtube.com/watch?v=uKJFOJFfaNo]
 
 18. ``6.57`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://www.youtube.com/watch?v=KzbVhvUwGZE]
 
