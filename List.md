@@ -30,7 +30,7 @@
 
 13. ``6.63`` **Hyxla Factory** by AlexGamerPro347 [10263934212] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
 
-14. ``6.62`` **Overflowing Indsustry** by ALEXLS8 [10742566948] [https://www.youtube.com/watch?v=0SKmlLfJhig]
+14. ``6.62`` **Overflowing Industry** by ALEXLS8 [10742566948] [https://www.youtube.com/watch?v=0SKmlLfJhig]
 
 15. ``6.62`` **Beyond** by its_ven1 [10652098390] [https://www.youtube.com/watch?v=aS-AmA4AJ48]
 
