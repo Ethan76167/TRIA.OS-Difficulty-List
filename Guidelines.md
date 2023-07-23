@@ -57,11 +57,10 @@ Since our example map is .84 it would be Peak, this brings our final map classif
 Peak 6.48
 
 > **BOTH LIST GUIDELINES**
-1. The entry for new submissions must be a recognized map made **for** TRIA.os.
-2. Maps must not be a buff to an already existing map.
-3. No joke maps.
-4. The admins have the right to reject your submissions based on varying factors.
-5. If a map is currently broken/bugged and is seeking fixes but still beatable, please label the map as [!] infront of the map name, also **bold** formatted. Do not list a map that is not planning to be fixed.
+1. Maps must not be a buff to an already existing map.
+2. No joke maps.
+3. The admins have the right to reject your submissions based on varying factors.
+4. If a map is currently broken/bugged and is seeking fixes but still beatable, please label the map as [!] infront of the map name, also **bold** formatted. Do not list a map that is not planning to be fixed.
 
 Example: **[!] Kneeling Shore**
 
@@ -70,9 +69,8 @@ Example: **[!] Kneeling Shore**
 Example: **[!!!] Kneeling Shore**
 
 7. Reach out to us in the official Discord should you be unsure of a map's worthiness, or if you would like to switch the placement of a map.
-8. The ID should be the official ID uploaded by one of the map's creators.
-9. All maps listed (at the moment) should be Divine or harder (aside from Public map list).
-10. All Lists have a sub-guideline accoridng to its respective list, look at the bottom of this file to see them.
+8. All maps listed be Divine or harder (aside from Public map list).
+9. All Lists have a sub-guideline accoridng to its respective list, look at the bottom of this file to see them.
 
 > **FORMAT GUIDELINES**
 1. If there are multiple creators, please list your team name instead.
@@ -81,13 +79,11 @@ Example: **[!!!] Kneeling Shore**
 
 Example: `10148804609/kneeling`
 
-4. A YouTube video with the map completion (Preferably the official verification video) has to be added.
+4. A YouTube video with the map completion (preferably a good quality one or the best quality you can find) has to be added.
 
 
 > **List.md GUIDELINES**
 
-The point of this list is to give players a fun enjoyable list of hard maps to play to improve their skill in a orderly fashion.
+The point of this list is to give players a fun enjoyable list of hard maps to play, that have variety, to improve their skill in a orderly fashion.
 
-1. All maps here must be agreed upon quality enjoyable maps.
-2. All maps here must also not be made for the intention of becoming the hardest map in TRIA.OS, this leads to unfun and sometimes cancer GP, aswell as clout chasing.
-3. All maps here must have at least 1 victor not including the creator/verifier.
+1. All maps here must be agreed upon quality enjoyable maps (this bar has recently been adjusted to be any map greater than or equal to Eternal Punishment quality after some community merging and so as to avoid [potential removals through bias alone)
