@@ -88,15 +88,15 @@
 
 42. ``6.31`` **Emergency Exit** by RaxdiiGames [7845448691] [https://www.youtube.com/watch?v=d8O6NuOZXgY]
 
-43. ``6.29`` **Gotten** by BetaDev9 [12189178798] [https://www.youtube.com/watch?v=FbUJt9iFrGY]
+43. ``6.30`` **Malicious Mechanics** by MalachiLeapYear [10704586333] [https://www.youtube.com/watch?v=rkl19HsuUsg]
 
-44. ``6.28`` **Electrical Malfunction** by Ethan76167 [6618228591/em1] [https://www.youtube.com/watch?v=kQquFCls1PE]
+44. ``6.29`` **Gotten** by BetaDev9 [12189178798] [https://www.youtube.com/watch?v=FbUJt9iFrGY]
 
-45. ``6.27`` **Decayed Mineshaft** by TechnocraticAviation [6999475800] [https://www.youtube.com/watch?v=rjuEvIPRFZM]
+45. ``6.28`` **Electrical Malfunction** by Ethan76167 [6618228591/em1] [https://www.youtube.com/watch?v=kQquFCls1PE]
 
-46. ``6.24`` **Red-Sector Facility** sakuraki_jj [10751567935] [https://www.youtube.com/watch?v=tFqTMB8b92c]
+46. ``6.27`` **Decayed Mineshaft** by TechnocraticAviation [6999475800] [https://www.youtube.com/watch?v=rjuEvIPRFZM]
 
-47. ``6.22`` **Malicious Mechanics** by MalachiLeapYear [10704586333] [https://www.youtube.com/watch?v=Omy6BDDVClo]
+47. ``6.24`` **Red-Sector Facility** sakuraki_jj [10751567935] [https://www.youtube.com/watch?v=tFqTMB8b92c]
 
 48. ``6.21`` **Aurelius** by Svilar [6966714293/aurelius] [https://www.youtube.com/watch?v=-XEKXAPq9-Q]
 
