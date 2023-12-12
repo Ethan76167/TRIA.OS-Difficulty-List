@@ -2,21 +2,21 @@
 
 > **Eternal**
 
-1. ``7.62`` **The Sin** by S_D1am0nd [13832843365] [https://www.youtube.com/watch?v=TYPNKpdwha4]
+1. ``7.54`` **The Sin** by S_D1am0nd [13832843365] [https://www.youtube.com/watch?v=TYPNKpdwha4]
 
 2. ``7.10`` **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
 
-3. ``7.09`` **Hyper Speed** by S_D1am0nd [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
+3. ``7.08`` **Hyper Speed** by S_D1am0nd [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
 4. ``7.08`` **Ultranova** by Nebula Team [6296309617] [https://youtu.be/s9J17jEwnpY]
 
 5. ``7.05`` **Agitato 3.0** by alex28901 [14568951404] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
 
-6. ``7.03`` **Eternal Punishment** by midlecs [6717933469] [https://www.youtube.com/watch?v=qSwJ6ItPugE]
-
-7. ``7.00`` **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
+6. ``7.00`` **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
 
 > **Divine**
+
+7. ``6.99`` **Eternal Punishment** by midlecs [6717933469] [https://www.youtube.com/watch?v=qSwJ6ItPugE]
 
 8. ``6.93`` **Derelict Industry** by CN08_ [10738856300] [https://www.youtube.com/watch?v=Jd2jlFv4YYk]
 
@@ -28,15 +28,15 @@
 
 12. ``6.82`` **DISTORTION** by ssgam_eR [12555344855] [https://www.youtube.com/watch?v=nchdYslFl6o]
 
-13. ``6.79`` **Tempestuous Blizzard** by Zerix [11573213410] [https://www.youtube.com/watch?v=ZruAoI524Ac]
+13. ``6.78`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=ectnMFW5cr0]
 
-14. ``6.78`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=ectnMFW5cr0]
+14. ``6.72`` **Tempestuous Blizzard** by Zerix [11573213410] [https://www.youtube.com/watch?v=ZruAoI524Ac]
 
 15. ``6.70`` **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
 
 16. ``6.69`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=znC9mcKD5QE]
 
-17. ``6.66`` **Hard Reset** by ItzJey112 [13229449398] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
+17. ``6.68`` **Hard Reset** by ItzJey112 [13229449398] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
 
 18. ``6.65`` **White Void** by CN08_ [13684573360] [https://www.youtube.com/watch?v=jDzAVZJeFuM]
 
@@ -46,25 +46,25 @@
 
 21. ``6.62`` **Beyond** by its_ven1 [10652098390] [https://www.youtube.com/watch?v=aS-AmA4AJ48]
 
-22. ``6.60`` **The Escape : Nuclear Toxicity** by ivosander [6937092299] [https://www.youtube.com/watch?v=H-NXuRYP_qQ]
+22. ``6.59`` **Ascension to Heaven** by MaxingPar [10482761852] [https://www.bilibili.com/video/BV1oh4y197WQ]
 
-23. ``6.59`` **Ascension to Heaven** by MaxingPar [10482761852] [https://www.bilibili.com/video/BV1oh4y197WQ]
+23. ``6.58`` **Solar** by fippy505 [10681810379] [https://www.youtube.com/watch?v=LLOPXcqdRWY]
 
-24. ``6.58`` **Solar** by fippy505 [10681810379] [https://www.youtube.com/watch?v=LLOPXcqdRWY]
+24. ``6.57`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://www.youtube.com/watch?v=KzbVhvUwGZE]
 
-25. ``6.57`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://www.youtube.com/watch?v=KzbVhvUwGZE]
+25. ``6.56`` **Magmatic Cove** by XxgamerkidbroxX [12321127116] [https://youtu.be/pIXUT6lDpkY]
 
-26. ``6.56`` **Magmatic Cove** by XxgamerkidbroxX [12321127116] [https://youtu.be/pIXUT6lDpkY]
+26. ``6.56`` **Drainpipe Stream** by WhyDoIHaveNoUserName [10680367555] [https://www.youtube.com/watch?v=5KYqD71JP6I]
 
-27. ``6.56`` **Drainpipe Stream** by WhyDoIHaveNoUserName [10680367555] [https://www.youtube.com/watch?v=5KYqD71JP6I]
+27. ``6.55`` **Crystallized** by CN08_ [10225315067] [https://www.youtube.com/watch?v=6U-OB2AQbww]
 
-28. ``6.55`` **Crystallized** by CN08_ [10225315067] [https://www.youtube.com/watch?v=6U-OB2AQbww]
+28. ``6.54`` **Cyber Cypher** by its_ven1 [11850893033] [https://www.youtube.com/watch?v=pZwoft5BvXM]
 
-29. ``6.54`` **Cyber Cypher** by its_ven1 [11850893033] [https://www.youtube.com/watch?v=pZwoft5BvXM]
+29. ``6.52`` **Cubic Ruins** by not_grif [7859838563] [https://www.youtube.com/watch?v=ZBhJoNfEcJM]
 
-30. ``6.52`` **Cubic Ruins** by not_grif [7859838563] [https://www.youtube.com/watch?v=ZBhJoNfEcJM]
+30. ``6.51`` **Yatagarasu** by EpicaLanced [12373259837] [https://www.youtube.com/watch?v=fggzacqKuwM]
 
-31. ``6.51`` **Yatagarasu** by EpicaLanced [12373259837] [https://www.youtube.com/watch?v=fggzacqKuwM]
+31. ``6.50`` **The Escape : Nuclear Toxicity** by ivosander [6937092299] [https://www.youtube.com/watch?v=H-NXuRYP_qQ]
 
 32. ``6.48`` **Phantasm** by SkullerySkuffling [7118747757] [https://youtu.be/Fng07Pw5IGc]
 
