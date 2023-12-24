@@ -43,15 +43,15 @@ And since the map is a divine it will be 6 which gives us:
 
 Then the map gets put into a category of
 
->Bottom: .0 - .2
+>Bottom: .0 - .19
 
->Low: .21 - .4
+>Low: .2 - .39
 
->Middle: .41 - .6
+>Middle: .4 - .59
 
->High: .61 - 8
+>High: .6 - .79
 
->Peak: .81 - 99
+>Peak: .8 - .99
 
 Since our example map is .84 it would be Peak, this brings our final map classification as
 Peak 6.48
@@ -60,22 +60,16 @@ Peak 6.48
 1. Maps must not be a buff to an already existing map.
 2. No joke maps.
 3. The admins have the right to reject your submissions based on varying factors.
-4. If a map is currently broken/bugged and is seeking fixes but still beatable, please label the map as [!] infront of the map name, also **bold** formatted. Do not list a map that is not planning to be fixed.
+4. If a map is currently broken/bugged but still beatable, please label the map as [!] infront of the map name, also **bold** formatted. Do not list a map that is not planning to be fixed.
 
 Example: **[!] Kneeling Shore**
 
-6. If the bug is map breaking (Its impossible to beat the map because of it) label the map as [!!!] infront of the map name, also **bold** formatted.
+6. If the bug is map breaking (Its impossible to beat the map because of it) label the map as [!!!] infront of the map name, also **bold** formatted. If a map contains [!!!] for 2 months, it will be removed and only readded after a fix.
 
 Example: **[!!!] Kneeling Shore**
 
 7. Reach out to us in the official Discord should you be unsure of a map's worthiness, or if you would like to switch the placement of a map.
 8. All maps listed be Divine or harder (aside from Public map list).
-9. All Lists have a sub-guideline accoridng to its respective list, look at the bottom of this file to see them.
-
-> **FORMAT GUIDELINES**
-1. If there are multiple creators, please list your team name instead.
-2. If your map does not have a team name, list the main creator/host instead.
-3. If the map has a custom ID (Generally found in featured maps), please list in the ID as `numerical ID/custom ID`. 
 
 Example: `10148804609/kneeling`
 
@@ -86,4 +80,6 @@ Example: `10148804609/kneeling`
 
 The point of this list is to give players a fun enjoyable list of hard maps to play, that have variety, to improve their skill in a orderly fashion.
 
-1. All maps here must be agreed upon quality enjoyable maps (this bar has recently been adjusted to be any map greater than or equal to Eternal Punishment quality after some community merging and so as to avoid [potential removals through bias alone)
+1. All maps here must be agreed upon quality enjoyable maps (this bar has recently been adjusted to be any map greater than or equal to Eternal Punishment quality after some community merging and so as to avoid potential removals through bias alone)
+2.  "If your map has been added to the list for a month or has 3+ victors, it is considered locked in, and any changes to your map for the sole reason of buffing or making the map artificially more difficult puts your map at risk of being blacklisted."
+3.  Maps may need an extra victor after verification to gauge if it has met the quality threshold for gameplay.
