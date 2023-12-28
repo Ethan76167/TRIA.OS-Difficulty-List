@@ -8,13 +8,13 @@
 
 3. ``7.08`` **Hyper Speed** by S_D1am0nd [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
-4. ``7.05`` **Agitato 3.0** by alex28901 [14568951404] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
+4. ``7.04`` **Agitato 3.0** by alex28901 [14568951404] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
 
 5. ``7.00`` **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
 
 > **Divine**
 
-6. ``6.99`` **Eternal Punishment** by midlecs [6717933469] [https://www.youtube.com/watch?v=qSwJ6ItPugE]
+6. ``6.94`` **Eternal Punishment** by midlecs [6717933469] [https://www.youtube.com/watch?v=qSwJ6ItPugE]
 
 7. ``6.93`` **Derelict Industry** by CN08_ [10738856300] [https://www.youtube.com/watch?v=Jd2jlFv4YYk]
 
@@ -58,9 +58,9 @@
 
 27. ``6.54`` **Cyber Cypher** by its_ven1 [11850893033] [https://www.youtube.com/watch?v=pZwoft5BvXM]
 
-28. ``6.52`` **Cubic Ruins** by not_grif [7859838563] [https://www.youtube.com/watch?v=ZBhJoNfEcJM]
+28. ``6.53`` **Yatagarasu** by EpicaLanced [12373259837] [https://www.youtube.com/watch?v=fggzacqKuwM]
 
-29. ``6.51`` **Yatagarasu** by EpicaLanced [12373259837] [https://www.youtube.com/watch?v=fggzacqKuwM]
+29. ``6.52`` **Cubic Ruins** by not_grif [7859838563] [https://www.youtube.com/watch?v=ZBhJoNfEcJM]
 
 30. ``6.50`` **The Escape : Nuclear Toxicity** by ivosander [6937092299] [https://www.youtube.com/watch?v=H-NXuRYP_qQ]
 
