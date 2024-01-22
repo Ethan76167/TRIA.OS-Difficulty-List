@@ -22,7 +22,7 @@
 
 9. ``6.86`` **Backburner** by Accurate_Abilities [14827716361] [https://www.youtube.com/watch?v=3y9V18KJryw]
 
-10. ``6.84`` **Layers** by Enszo [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
+10. ``6.84`` **Layers** by Enszo, TWB_92 [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
 
 11. ``6.82`` **DISTORTION** by ssgam_eR [12555344855] [https://www.youtube.com/watch?v=nchdYslFl6o]
 
@@ -36,7 +36,7 @@
 
 16. ``6.69`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=znC9mcKD5QE]
 
-17. ``6.68`` **Hard Reset** by ItzJey112 [13229449398] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
+17. ``6.68`` **Hard Reset** by Cybi [13229449398] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
 
 18. ``6.65`` **White Void** by CN08_ [13684573360] [https://www.youtube.com/watch?v=jDzAVZJeFuM]
 
