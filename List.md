@@ -4,9 +4,9 @@
 
 1. ``7.54`` **The Sin** by S_D1am0nd [13832843365] [https://www.youtube.com/watch?v=TYPNKpdwha4]
 
-2. ``7.10`` **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
+2. ``7.12`` **Hyper Speed** by S_D1am0nd [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
-3. ``7.08`` **Hyper Speed** by S_D1am0nd [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
+3. ``7.08`` **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
 
 4. ``7.04`` **Agitato 3.0** by alex28901 [14568951404] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
 
