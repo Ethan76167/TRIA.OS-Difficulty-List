@@ -4,11 +4,11 @@
 
 1. ``7.54`` **The Sin** by S_D1am0nd [13832843365] [https://www.youtube.com/watch?v=TYPNKpdwha4]
 
-2. ``7.11`` **Hyper Speed** by S_D1am0nd [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
+2. ``7.11`` **Hyper Speed** by Marchionne, alex28901 & MalachiLeapYear [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
 3. ``7.08`` **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
 
-4. ``7.04`` **Agitato 3.0** by alex28901 [14568951404] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
+4. ``7.02`` **Agitato 3.0** by alex28901 [14568951404] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
 
 5. ``7.003`` **Cubic Showdown** by MalachiLeapYear [15439085747] [https://www.youtube.com/watch?v=TpS6v_5hBMM]
 
@@ -30,7 +30,7 @@
 
 13. ``6.76`` **Virus** by Rayhan [13914817715] [https://www.youtube.com/watch?v=p0O6Ow9pe2s]
 
-14. ``6.72`` **Tempestuous Blizzard** by Zerix [11573213410] [https://www.youtube.com/watch?v=ZruAoI524Ac]
+14. ``6.71`` **Tempestuous Blizzard** by Zerix [11573213410] [https://www.youtube.com/watch?v=ZruAoI524Ac]
 
 15. ``6.70`` **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
 
@@ -40,11 +40,11 @@
 
 18. ``6.65`` **White Void** by CN08_ [13684573360] [https://www.youtube.com/watch?v=jDzAVZJeFuM] 
 
-19. ``6.627`` **Overflowing Industry** by ALEXLS8 [10742566948] [https://www.youtube.com/watch?v=0SKmlLfJhig]
+19. ``6.627`` **Overflowing Industry** by Energy Team [10742566948] [https://www.youtube.com/watch?v=0SKmlLfJhig]
 
 20. ``6.625`` **Beyond** by its_ven1 [10652098390] [https://www.youtube.com/watch?v=aS-AmA4AJ48]
 
-21. ``6.60`` **Hyxla Factory** by AlexGamerPro347 [10263934212] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
+21. ``6.60`` **[!] Hyxla Factory** by AlexGamerPro347 [10263934212] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
 
 22. ``6.59`` **[!] Ascension to Heaven** by MaxingPar [10482761852] [https://www.bilibili.com/video/BV1oh4y197WQ]
 
