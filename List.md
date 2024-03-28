@@ -36,67 +36,67 @@
 
 16. ``6.69`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=znC9mcKD5QE]
 
-17. ``6.68`` **Hard Reset** by Cybi [13229449398] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
+17. ``6.688`` **Halcyon || Orange Sector 2.0** by Literal_Cow [9293714116] [https://www.youtube.com/watch?v=BAyn0JZJbLI]
 
-18. ``6.65`` **White Void** by CN08_ [13684573360] [https://www.youtube.com/watch?v=jDzAVZJeFuM] 
+18. ``6.686`` **Hard Reset** by Cybi [13229449398] [https://www.youtube.com/watch?v=ie5_UvI-Emg]
 
-19. ``6.627`` **Overflowing Industry** by Energy Team [10742566948] [https://www.youtube.com/watch?v=0SKmlLfJhig]
+19. ``6.65`` **White Void** by CN08_ [13684573360] [https://www.youtube.com/watch?v=jDzAVZJeFuM] 
 
-20. ``6.625`` **Beyond** by its_ven1 [10652098390] [https://www.youtube.com/watch?v=aS-AmA4AJ48]
+20. ``6.627`` **Overflowing Industry** by Energy Team [10742566948] [https://www.youtube.com/watch?v=0SKmlLfJhig]
 
-21. ``6.60`` **[!] Hyxla Factory** by AlexGamerPro347 [10263934212] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
+21. ``6.625`` **Beyond** by its_ven1 [10652098390] [https://www.youtube.com/watch?v=aS-AmA4AJ48]
 
-22. ``6.59`` **[!] Ascension to Heaven** by MaxingPar [10482761852] [https://www.bilibili.com/video/BV1oh4y197WQ]
+22. ``6.60`` **[!] Hyxla Factory** by AlexGamerPro347 [10263934212] [https://www.youtube.com/watch?v=ybl7oXjKcoY]
 
-23. ``6.58`` **Solar** by fippy505 [10681810379] [https://www.youtube.com/watch?v=LLOPXcqdRWY]
+23. ``6.59`` **[!] Ascension to Heaven** by MaxingPar [10482761852] [https://www.bilibili.com/video/BV1oh4y197WQ]
 
-24. ``6.57`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://www.youtube.com/watch?v=KzbVhvUwGZE]
+24. ``6.58`` **Solar** by fippy505 [10681810379] [https://www.youtube.com/watch?v=LLOPXcqdRWY]
 
-25. ``6.567`` **Magmatic Cove** by XxgamerkidbroxX [12321127116] [https://youtu.be/pIXUT6lDpkY]
+25. ``6.57`` **Cubic Void** by not_grif [8877269572/cubicvoid] [https://www.youtube.com/watch?v=KzbVhvUwGZE]
 
-26. ``6.561`` **Drainpipe Stream** by WhyDoIHaveNoUserName [10680367555] [https://www.youtube.com/watch?v=5KYqD71JP6I]
+26. ``6.567`` **Magmatic Cove** by XxgamerkidbroxX [12321127116] [https://youtu.be/pIXUT6lDpkY]
 
-27. ``6.55`` **Crystallized** by CN08_ [10225315067] [https://www.youtube.com/watch?v=6U-OB2AQbww]
+27. ``6.561`` **Drainpipe Stream** by WhyDoIHaveNoUserName [10680367555] [https://www.youtube.com/watch?v=5KYqD71JP6I]
 
-28. ``6.548`` **The Cave** by kanokpoldos_0987 [11482067821] [https://www.youtube.com/watch?v=PTJGQ4RIeKM]
+28. ``6.55`` **Crystallized** by CN08_ [10225315067] [https://www.youtube.com/watch?v=6U-OB2AQbww]
 
-29. ``6.543`` **Cyber Cypher** by its_ven1 [11850893033] [https://www.youtube.com/watch?v=pZwoft5BvXM]
+29. ``6.548`` **The Cave** by kanokpoldos_0987 [11482067821] [https://www.youtube.com/watch?v=PTJGQ4RIeKM]
 
-30. ``6.53`` **Yatagarasu** by EpicaLanced [12373259837] [https://www.youtube.com/watch?v=fggzacqKuwM]
+30. ``6.543`` **Cyber Cypher** by its_ven1 [11850893033] [https://www.youtube.com/watch?v=pZwoft5BvXM]
 
-31. ``6.52`` **Cubic Ruins** by not_grif [7859838563] [https://www.youtube.com/watch?v=ZBhJoNfEcJM]
+31. ``6.53`` **Yatagarasu** by EpicaLanced [12373259837] [https://www.youtube.com/watch?v=fggzacqKuwM]
 
-32. ``6.51`` **Xion** by shaimoons [12324480067] [https://www.youtube.com/watch?v=JTJjaRiaSLk]
+32. ``6.52`` **Cubic Ruins** by not_grif [7859838563] [https://www.youtube.com/watch?v=ZBhJoNfEcJM]
 
-33. ``6.50`` **The Escape : Nuclear Toxicity** by ivosander [6937092299] [https://www.youtube.com/watch?v=H-NXuRYP_qQ]
+33. ``6.51`` **Xion** by shaimoons [12324480067] [https://www.youtube.com/watch?v=JTJjaRiaSLk]
 
-34. ``6.48`` **Phantasm** by SkullerySkuffling [7118747757] [https://youtu.be/Fng07Pw5IGc]
+34. ``6.50`` **The Escape : Nuclear Toxicity** by ivosander [6937092299] [https://www.youtube.com/watch?v=H-NXuRYP_qQ]
 
-35. ``6.47`` **Asthenosphere** by TechnocraticAviation [5101052732] [https://www.youtube.com/watch?v=Cv09dFibqps]
+35. ``6.48`` **Phantasm** by SkullerySkuffling [7118747757] [https://youtu.be/Fng07Pw5IGc]
 
-36. ``6.46`` **Dystopia** by Enszo [3300287803/dystopia] [https://www.youtube.com/watch?v=EkHgt_REn1Q]
+36. ``6.47`` **Asthenosphere** by TechnocraticAviation [5101052732] [https://www.youtube.com/watch?v=Cv09dFibqps]
 
-37. ``6.45`` **The Wood** by kanokpoldos_0987 [12129198769] [https://www.youtube.com/watch?v=YW13VbPCpHU]
+37. ``6.46`` **Dystopia** by Enszo [3300287803/dystopia] [https://www.youtube.com/watch?v=EkHgt_REn1Q]
 
-38. ``6.44`` **Thanatos V2** by ssgam_eR [13638021080] [https://www.youtube.com/watch?v=v6GtDdYTCjM]
+38. ``6.45`` **The Wood** by kanokpoldos_0987 [12129198769] [https://www.youtube.com/watch?v=YW13VbPCpHU]
 
-39. ``6.439`` **Anhedonia** by MaxingPar [16013967414] [https://www.bilibili.com/video/BV1sZ421U7ZT]
+39. ``6.44`` **Thanatos V2** by ssgam_eR [13638021080] [https://www.youtube.com/watch?v=v6GtDdYTCjM]
 
-40. ``6.436`` **M.A.L.** by MalachiLeapYear [14255763064] [https://www.youtube.com/watch?v=en3IbOMmItk]
+40. ``6.439`` **Anhedonia** by MaxingPar [16013967414] [https://www.bilibili.com/video/BV1sZ421U7ZT]
 
-41. ``6.41`` **Electron Memories** by Ethan76167 [6801708781/em2] [https://www.youtube.com/watch?v=i7mry60b0O8] 
+41. ``6.436`` **M.A.L.** by MalachiLeapYear [14255763064] [https://www.youtube.com/watch?v=en3IbOMmItk]
 
-42. ``6.40`` **Sector Alpha** by ramzfgg [8217249980] [https://www.youtube.com/watch?v=LQAr_axVtNs]
+42. ``6.41`` **Electron Memories** by Ethan76167 [6801708781/em2] [https://www.youtube.com/watch?v=i7mry60b0O8] 
 
-43. ``6.366`` **Complex Sideline** by its_ven1 [10749437450] [https://www.youtube.com/watch?v=utZyaOLYdck]
+43. ``6.40`` **Sector Alpha** by ramzfgg [8217249980] [https://www.youtube.com/watch?v=LQAr_axVtNs]
 
-44. ``6.362`` **MineStrike** by aqua2power [6984901305] [https://www.youtube.com/watch?v=e0PNOajnKT0]
+44. ``6.366`` **Complex Sideline** by its_ven1 [10749437450] [https://www.youtube.com/watch?v=utZyaOLYdck]
 
-45. ``6.34`` **Atreux V1.5** by ControllerKazz [12309868074] [https://www.youtube.com/watch?v=1TCzks8cuOg]
+45. ``6.362`` **MineStrike** by aqua2power [6984901305] [https://www.youtube.com/watch?v=e0PNOajnKT0]
 
-46. ``6.335`` **Nuclear Radiation Meltdown** by ALEXLS8 [9417016366] [https://www.youtube.com/watch?v=wYCFdbMMAEM]
+46. ``6.34`` **Atreux V1.5** by ControllerKazz [12309868074] [https://www.youtube.com/watch?v=1TCzks8cuOg]
 
-47. ``6.334`` **Industrial Provision** [12859880714] by Ep1c_Gmr [https://www.youtube.com/watch?v=YHF-A_sciEY]
+47. ``6.335`` **Nuclear Radiation Meltdown** by ALEXLS8 [9417016366] [https://www.youtube.com/watch?v=wYCFdbMMAEM]
 
 48. ``6.32`` **Epsilon** by its_ven1 [10810839544] [https://www.youtube.com/watch?v=DSKKH3brOPs]
 
