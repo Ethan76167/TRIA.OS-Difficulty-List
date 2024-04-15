@@ -4,15 +4,17 @@
 
 1. ``7.54`` **The Sin** by S_D1am0nd [13832843365] [https://www.youtube.com/watch?v=TYPNKpdwha4]
 
-2. ``7.11`` **Hyper Speed** by Marchionne, alex28901 & MalachiLeapYear [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
+2. ``7.3`` **Ascension to Heaven** by S_D1am0nd [15333842734] [https://www.youtube.com/watch?v=j3IoYLGceXQ]
 
-3. ``7.08`` **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
+3. ``7.11`` **Hyper Speed** by Marchionne, alex28901 & MalachiLeapYear [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
-4. ``7.02`` **Agitato 3.0** by alex28901 [14568951404] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
+4. ``7.08`` **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
 
-5. ``7.003`` **Cubic Showdown** by MalachiLeapYear [15439085747] [https://www.youtube.com/watch?v=TpS6v_5hBMM]
+5. ``7.02`` **Agitato 3.0** by alex28901 [14568951404] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
 
-6. ``7.000`` **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
+6. ``7.003`` **Cubic Showdown** by MalachiLeapYear [15439085747] [https://www.youtube.com/watch?v=TpS6v_5hBMM]
+
+7. ``7.000`` **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
 
 > **Divine**
 
@@ -24,7 +26,7 @@
 
 10. ``6.86`` **Backburner** by Accurate_Abilities [14827716361] [https://www.youtube.com/watch?v=3y9V18KJryw]
 
-11. ``6.84`` **Layers** by Enszo, TWB_92 [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
+11. ``6.83`` **Layers** by Enszo, TWB_92 [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
 
 12. ``6.78`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=ectnMFW5cr0]
 
