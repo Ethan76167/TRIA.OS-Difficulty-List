@@ -50,7 +50,7 @@
 
 ``4.73`` **Lush Remnant** by Marz [10630559808/lush] [https://www.youtube.com/watch?v=05Pi_igT1gw]
 
-``4.52`` **Lost Conscience** by Zappy & Tac [10638540500/lost] [https://www.youtube.com/watch?v=xfBKMf-EUuQ]
+``4.52`` **Lost Conscience** by Zappy, Tac [10638540500/lost] [https://www.youtube.com/watch?v=xfBKMf-EUuQ]
 
 > **Hard**
 
@@ -62,11 +62,11 @@
 
 > **Normal**
 
-``2.69`` **Frosted Laboratory** by Flaxez & Madboss [8603004179/frosted] [https://www.youtube.com/watch?v=E2sWBmzfHNY]
+``2.69`` **Frosted Laboratory** by Flaxez, Madboss [8603004179/frosted] [https://www.youtube.com/watch?v=E2sWBmzfHNY]
 
 ``2.63`` **Acedia** by Vara [8077946143/acedia] [https://www.youtube.com/watch?v=5RL7vZ3cZOM]
 
-``2.22`` **Grind District** by Super [10701400284/grind] [https://www.youtube.com/watch?v=3NAtLrFWHGk]
+``2.22`` **Grind District** by Super, MrTdc [10701400284/grind] [https://www.youtube.com/watch?v=3NAtLrFWHGk]
 
 > **Easy**
  
