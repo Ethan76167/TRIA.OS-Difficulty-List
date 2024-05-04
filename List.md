@@ -2,19 +2,19 @@
 
 > **Eternal**
 
-1. ``7.54`` **The Sin** by S_D1am0nd [13832843365] [https://www.youtube.com/watch?v=TYPNKpdwha4]
+1. ``7.61`` **The Sin** by S_D1am0nd [13832843365] [https://www.youtube.com/watch?v=TYPNKpdwha4]
 
-2. ``7.3`` **Ascension to Heaven** by S_D1am0nd [15333842734] [https://www.youtube.com/watch?v=j3IoYLGceXQ]
+2. ``7.40`` **Ascension to Heaven** by S_D1am0nd [15333842734] [https://www.youtube.com/watch?v=j3IoYLGceXQ]
 
-3. ``7.11`` **Hyper Speed** by Marchionne, alex28901 & MalachiLeapYear [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
+3. ``7.16`` **Hyper Speed** by Marchionne, alex28901 & MalachiLeapYear [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
-4. ``7.08`` **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
+4. ``7.11`` **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
 
-5. ``7.02`` **Agitato 3.0** by alex28901 [14568951404] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
+5. ``7.04`` **Agitato 3.0** by alex28901 [14568951404] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
 
-6. ``7.003`` **Cubic Showdown** by MalachiLeapYear [15439085747] [https://www.youtube.com/watch?v=TpS6v_5hBMM]
+6. ``7.01`` **Cubic Showdown** by MalachiLeapYear [15439085747] [https://www.youtube.com/watch?v=TpS6v_5hBMM]
 
-7. ``7.000`` **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
+7. ``7.00`` **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
 
 > **Divine**
 
