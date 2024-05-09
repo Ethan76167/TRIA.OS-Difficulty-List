@@ -4,9 +4,9 @@
 
 1. ``7.61`` **The Sin** by S_D1am0nd [13832843365] [https://www.youtube.com/watch?v=TYPNKpdwha4]
 
-2. ``7.53`` **Death Corridor** by alex333111, MidnightsCrucible, ssgam_eR [9643234169] [https://www.youtube.com/watch?v=CX30PQC-tVc]
+2. ``7.53`` **Death Corridor** by alex333144, MidnightsCrucible, ssgam_eR [9643234169] [https://www.youtube.com/watch?v=CX30PQC-tVc]
 
-3. ``7.40`` **Ascension to Heaven** by S_D1am0nd [15333842734] [https://www.youtube.com/watch?v=j3IoYLGceXQ]
+3. ``7.39`` **Ascension to Heaven** by S_D1am0nd [15333842734] [https://www.youtube.com/watch?v=j3IoYLGceXQ]
 
 4. ``7.16`` **Hyper Speed** by Marchionne, alex28901 & MalachiLeapYear [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
