@@ -2,7 +2,7 @@
 
 > **Eternal**
 
-1. ``7.61`` **The Sin** by S_D1am0nd [13832843365] [https://www.youtube.com/watch?v=TYPNKpdwha4]
+1. ``7.59`` **The Sin** by S_D1am0nd [13832843365] [https://www.youtube.com/watch?v=TYPNKpdwha4]
 
 2. ``7.53`` **Death Corridor** by alex333144, MidnightsCrucible, ssgam_eR [9643234169] [https://www.youtube.com/watch?v=CX30PQC-tVc]
 
