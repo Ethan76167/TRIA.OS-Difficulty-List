@@ -16,7 +16,7 @@
 
 7. ``7.01`` **Cubic Showdown** by MalachiLeapYear [15439085747] [https://www.youtube.com/watch?v=TpS6v_5hBMM]
 
-8. ``7.00`` **Nos Astra** by Ethan76167 [12741011292/nos] [https://youtu.be/GEIhjIgeMhU]
+8. ``7.00`` **Nos Astra** by Ethan76167 [nos] [https://youtu.be/GEIhjIgeMhU]
 
 > **Divine**
 
@@ -26,17 +26,17 @@
 
 11. ``6.87`` **Rooms 2** by The Rooms Official Devs [12233103006] [https://www.youtube.com/watch?v=tcpvubF4XXM]
 
-12. ``6.86`` **Backburner** by Accurate_Abilities [14827716361] [https://www.youtube.com/watch?v=3y9V18KJryw]
+12. ``6.86`` **Backburner** by Accurate_AA [14827716361] [https://www.youtube.com/watch?v=3y9V18KJryw]
 
 13. ``6.83`` **Layers** by Enszo, TWB_92 [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
 
 14. ``6.78`` **Kneeling Shore** by tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=ectnMFW5cr0]
 
-15. ``6.76`` **Virus** by Rayhan [13914817715] [https://www.youtube.com/watch?v=p0O6Ow9pe2s]
+15. ``6.76`` **Virus** by RRayhanahyaRR [13914817715] [https://www.youtube.com/watch?v=p0O6Ow9pe2s]
 
-16. ``6.71`` **Tempestuous Blizzard** by Zerix [11573213410] [https://www.youtube.com/watch?v=ZruAoI524Ac]
+16. ``6.71`` **Tempestuous Blizzard** by Zerixilious [11573213410] [https://www.youtube.com/watch?v=ZruAoI524Ac]
 
-17. ``6.70`` **Vivid** by Enszo [9953134578/vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
+17. ``6.70`` **Vivid** by Enszo [vivid] [https://www.youtube.com/watch?v=4lzsf2e3x5A]
 
 18. ``6.69`` **Arcturus** by ALEXLS8 [10689739571] [https://www.youtube.com/watch?v=znC9mcKD5QE]
 
@@ -84,7 +84,7 @@
 
 40. ``6.47`` **Asthenosphere** by TechnocraticAviation [5101052732] [https://www.youtube.com/watch?v=Cv09dFibqps]
 
-41. ``6.46`` **Dystopia** by Enszo [3300287803/dystopia] [https://www.youtube.com/watch?v=EkHgt_REn1Q]
+41. ``6.46`` **Dystopia** by Enszo [dystopia] [https://www.youtube.com/watch?v=EkHgt_REn1Q]
 
 42. ``6.45`` **The Wood** by kanokpoldos_0987 [12129198769] [https://www.youtube.com/watch?v=YW13VbPCpHU]
 
@@ -94,7 +94,7 @@
 
 45. ``6.436`` **M.A.L.** by MalachiLeapYear [14255763064] [https://www.youtube.com/watch?v=en3IbOMmItk]
 
-46. ``6.41`` **Electron Memories** by Ethan76167 [6801708781/em2] [https://www.youtube.com/watch?v=i7mry60b0O8] 
+46. ``6.41`` **Electron Memories** by Ethan76167 [em2] [https://www.youtube.com/watch?v=i7mry60b0O8] 
 
 47. ``6.40`` **Sector Alpha** by ramzfgg [8217249980] [https://www.youtube.com/watch?v=LQAr_axVtNs]
 
@@ -118,7 +118,7 @@
 
 57. ``6.288`` **Malicious Mechanics** by MalachiLeapYear [10704586333] [https://www.youtube.com/watch?v=Omy6BDDVClo]
 
-58. ``6.285`` **Electrical Malfunction** by Ethan76167 [6618228591/em1] [https://www.youtube.com/watch?v=kQquFCls1PE]
+58. ``6.285`` **Electrical Malfunction** by Ethan76167 [em1] [https://www.youtube.com/watch?v=kQquFCls1PE]
 
 59. ``6.284`` **Mandragora 3.0** by alex28901 [14568900384] [https://www.youtube.com/watch?v=ZUFLs-8feM4]
 
@@ -128,7 +128,7 @@
 
 62. ``6.24`` **Red-Sector Facility** sakuraki_jj [10751567935] [https://www.youtube.com/watch?v=tFqTMB8b92c]
 
-63. ``6.21`` **Aurelius** by Svilar [6966714293/aurelius] [https://www.youtube.com/watch?v=-XEKXAPq9-Q]
+63. ``6.21`` **Aurelius** by Svilar [aurelius] [https://www.youtube.com/watch?v=-XEKXAPq9-Q]
 
 64. ``6.19`` **Antares** by THE MODIFIED [12352959713] [https://www.youtube.com/watch?v=BRphN1WaIzM]
 
@@ -148,13 +148,13 @@
 
 72. ``6.148`` **Zane V2** by its_ven1 [10587409362] [https://www.youtube.com/watch?v=_quSxHjGESI]
 
-73. ``6.133`` **Aurelius Reimagined** by Zappy [12299381972] [https://www.youtube.com/watch?v=t1Lxvd1OWCc]
+73. ``6.133`` **Aurelius Reimagined** by Zyanight [12299381972] [https://www.youtube.com/watch?v=t1Lxvd1OWCc]
 
 74. ``6.131`` **Unstable Presidium** by FabricioPF [10582680336] [https://www.youtube.com/watch?v=IuInEC0EVH4]
 
 75. ``6.123`` **Perpetual Shade** by anormalminer [12189709233] [https://www.youtube.com/watch?v=zy7nnBDHf5U]
 
-76. ``6.121`` **Monoscape** by Enszo [4510155155/mono2] [https://www.youtube.com/watch?v=32TfEAUHCG0]
+76. ``6.121`` **Monoscape** by Enszo [mono2] [https://www.youtube.com/watch?v=32TfEAUHCG0]
 
 77. ``6.117`` **Corroded Industries** by Robinpika87 [13591927482] [https://www.youtube.com/watch?v=JhNLUuHNJ5Y]
 
@@ -162,11 +162,11 @@
 
 79. ``6.102`` **Æ** by ore_re [13899962042] [https://www.youtube.com/watch?v=yzsc4j3eiUE]
 
-80. ``6.101`` **The Void** by Svilar [4046421693/thevoid] [https://www.youtube.com/watch?v=mwnohqEx3cI]
+80. ``6.101`` **The Void** by Svilar_r [4046421693/thevoid] [https://www.youtube.com/watch?v=mwnohqEx3cI]
 
 81. ``6.09`` **Unreal Reality** by nikitus2000 [8497317280] [https://www.youtube.com/watch?v=ceS76ECJ8RU]
 
-82. ``6.07`` **Le Calme** by Rayhan [10747064552] [https://www.youtube.com/watch?v=a3W4OKYjz3c]
+82. ``6.07`` **Le Calme** by RRayhanahyaRR [10747064552] [https://www.youtube.com/watch?v=a3W4OKYjz3c]
 
 83. ``6.06`` **Industrial Hours** by TechnocraticAviation [8468182476] [https://www.youtube.com/watch?v=M-FCZRl2Aes]
 
@@ -176,7 +176,7 @@
 
 86. ``6.053`` **Hypogean** by Dogeiified [10666368274] [https://www.youtube.com/watch?v=Xs2_X0g85vU]
 
-87. ``6.048`` **Monovoid** by Enszo [8439110516] [https://www.youtube.com/watch?v=FvzsWPFMK2Q]
+87. ``6.048`` **Monovoid** by Enszo [mono3] [https://www.youtube.com/watch?v=FvzsWPFMK2Q]
 
 88. ``6.041`` **Industrialized Heat** by The Industrialized Team [11767276048] [https://www.youtube.com/watch?v=hODLQDaGbbk] 
 
@@ -194,4 +194,4 @@
 
 95. ``6.005`` **Narurith** by BrayanRaposa [10542276214] [https://www.youtube.com/watch?v=HbipjIyv29g]
 
-96. ``6.000`` **Crimson Castle** by Enszo [6661054375/crimsoncastle] [https://www.youtube.com/watch?v=jdYqPZVXt_4]
+96. ``6.000`` **Crimson Castle** by Enszo [crimsoncastle] [https://www.youtube.com/watch?v=jdYqPZVXt_4]

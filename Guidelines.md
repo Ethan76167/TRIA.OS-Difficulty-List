@@ -3,16 +3,15 @@
 Welcome to the official TRIA.os Difficulty List, a map list dedicated 
 to listing the hardest recognized maps of TRIA.os. If you are in need
 of extra help, you can reach out in our server here:
-https://discord.gg/gzY665w2K2
+https://discord.gg/TRIA
 
-Instructions on contributing are also available in the server, at `#how-to-contribute`.
-Or you can watch this tutorial here:  https://youtu.be/AX8PWRI3ZKw
+There's also a tutorial video on how to submit maps here:  https://youtu.be/AX8PWRI3ZKw
 
 FORMAT FOR ADDING AN ENTRY:
 #.## **Map Name** by Creators [ID] [YouTube Video Link]
 
 EXAMPLE:
-6.77 **Kneeling Shore** by Tac_taillike [10148804609/kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
+6.77 **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 
 > **Map Difficulty Rating Classification Sheet**
 
