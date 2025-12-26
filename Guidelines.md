@@ -3,9 +3,10 @@
 Welcome to the official TRIA.os Difficulty List, a map list dedicated 
 to listing the hardest recognized maps of TRIA.os. If you are in need
 of extra help, you can reach out in our server here:
-https://discord.gg/TRIA
+https://discord.gg/yqUyRqQ3wJ
 
-There's also a tutorial video on how to submit maps here:  https://youtu.be/AX8PWRI3ZKw
+There's a tutorial video on how to submit maps here:  https://youtu.be/EuaQNXnqDR
+Alongside there being a guide inside of the server above in the #how-to-contribute channel.
 
 FORMAT FOR ADDING AN ENTRY:
 #.## **Map Name** by Creators [ID] [YouTube Video Link]
@@ -70,7 +71,7 @@ Example: **[!!!] Kneeling Shore**
 7. Reach out to us in the official Discord should you be unsure of a map's worthiness, or if you would like to switch the placement of a map.
 8. All maps listed be Divine or harder (aside from Public map list).
 
-Example: `10148804609/kneeling`
+Example: `kneeling`
 
 4. A YouTube video with the map completion (preferably a good quality one or the best quality you can find) has to be added.
 
