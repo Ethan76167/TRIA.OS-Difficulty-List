@@ -2,19 +2,19 @@
 
 > **Eternal**
 
-1. ``7.59`` **The Sin** by S_D1am0nd [13832843365] [https://www.youtube.com/watch?v=TYPNKpdwha4]
+1. ``7.59`` **The Sin** by S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs [fayvr] [https://www.youtube.com/watch?v=TYPNKpdwha4]
 
-2. ``7.50`` **Death Corridor** by alex333144, MidnightsCrucible, ssgam_eR [9643234169] [https://www.youtube.com/watch?v=CX30PQC-tVc]
+2. ``7.50`` **Death Corridor** by alex333144, PabloRios7, & des1red_usernam3 [tpilb] [https://www.youtube.com/watch?v=CX30PQC-tVc]
 
-3. ``7.38`` **Ascension to Heaven** by S_D1am0nd [15333842734] [https://www.youtube.com/watch?v=j3IoYLGceXQ]
+3. ``7.38`` **Ascension to Heaven** by S_D1am0nd, alex28901, ZPH03NIXX, box_3948, DevAdelso, & RedVoidMaster [ath] [https://www.youtube.com/watch?v=j3IoYLGceXQ]
 
-4. ``7.16`` **Hyper Speed** by Marchionne, alex28901 & MalachiLeapYear [13468914338] [https://www.youtube.com/watch?v=p3FuGndl5bM]
+4. ``7.16`` **Hyper Speed** by S_D1am0nd, alex28901 & MalachiLeapYear [hmfaf] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
-5. ``7.11`` **EndZone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
+5. ``7.11`` **EndZone** by S_D1am0nd, alex28901, MalachiLeapYear, fxrezful, & ZPH03NIXX [lqcgs] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
 
-6. ``7.04`` **Agitato 3.0** by alex28901 [14568951404] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
+6. ``7.04`` **Agitato (3.0)** by alex28901, S_D1am0nd, & MalachiLeapYear [mvnyv] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
 
-7. ``7.01`` **Cubic Showdown** by MalachiLeapYear [15439085747] [https://www.youtube.com/watch?v=TpS6v_5hBMM]
+7. ``7.01`` **Cubic Showdown** by MalachiLeapYear [aheja] [https://www.youtube.com/watch?v=TpS6v_5hBMM]
 
 8. ``7.00`` **Nos Astra** by Ethan76167 [nos] [https://youtu.be/GEIhjIgeMhU]
 
