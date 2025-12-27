@@ -123,3 +123,92 @@
 59. ``6.01`` **[MATRIX]** by Link_Cable [ytmda] [https://www.youtube.com/watch?v=KkqilCkjhWY]
 
 60. ``6.000`` **Crimson Castle** by Enszo, iiExoticSlayer, Ethan76167, & o6xser [crimsoncastle] [https://www.youtube.com/watch?v=jdYqPZVXt_4]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+> **To be added in no-specific-order [Eternal]**
+
+1. **RIGOR**
+2. **Heaven Gateway**
+3. **Complete Control**
+4. **ULTRADESPAIR**
+5. **DESPAIR**
+6. **Asterios Legacy**
+7. **Trial of the Sword: Kawasu**
+8. **Facility of the Dead**
+9. **The Chamber**
+10. **Oceanic Abyss**
+11. **Glacial Outpost**
+12. **NYX**
+
+> **To be added in no-specific-order [Divine]**
+
+1. **Aleph - 0**
+2. **Erebus**
+3. **Ascending Hell**
+4. **Hyper4id**
+5. **Dystopian World**
+6. **Map Function**
+7. **10000**
+8. **Venomous Vistas**
+9. **levels**
+10. **We're Finally Landing**
+11. **Ruined Heavenscape**
+12. **Icy Sector**
+13. **Motion**
+14. **Sand Pillar**
+15. **Dreamscape**
+16. **Dystopian Outpost**
+17. **Manic Steeple**
+18. **Alternate Dimension**
+19. **The Gateway [LEGACY]**
+20. **Atreux**
+21. **Deux Ex Machina**
+22. **Blockfire Heights**
+23. **Lost Sewers V2**
+24. **NightTheater**
+25. **Code Red: CCM**
+26. **EndZone Legacy**
+27. **Chilled Complex**
+28. **Geometric Complex**
+29. **Sight**
+30. **Sapphire Caverns**
+31. **Asterios**
+32. **Unhinged Facility**
+33. **Golden Zephyr**
+34. **Hardertopia**
+35. **Dreamy Lands**
+36. **Ultimatum.**
+37. **Brick Yellow**
+38. **Nuclear Lockdown 4.0**
+39. **Ignited Sanctuary**
+40. **Stardust Region**
+41. **Lightness**
+42. **Scorched Singularity**
+43. **place_item**
+44. **Sunrise**
+45. **Concealed Cave [Remake]**
+46. **Cubic Redemption**
+47. **PURPUREUS**
+48. **Cubic Memories**
+49. **Clutterfunk (Legacy)**
+50. **Lost Sewers V1**
+51. **Fated Seal**
+52. **Over-cast**
+53. **Terracorus**
+54. **Volcanic Ruins**
+55. **Shattered World**
+56. **Hypoxemia**
+57. **A Laborious Journey: Remake**
+58. **Holiday Escape (Pre 1.0 Version)**
+59. **Electro Ether Expense**
+60. **Crystalize Industry**
+61. **Deprived Dimension (ALT)**
+62. **After the Glorious**
+63. **Amethyst Base ALT**
+64. **Facility Frenzy**
+65. **[WARP_OF.TIME]**
+66. **ComiLudiCrazInPosterSensical**
+67. **Eroding Facility**
+68. **Industrial Provision**
+69. **Collapsing Corporation**
