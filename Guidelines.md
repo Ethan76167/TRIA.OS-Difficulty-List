@@ -12,7 +12,7 @@ FORMAT FOR ADDING AN ENTRY:
 #.## **Map Name** by Creators [ID] [YouTube Video Link]
 
 EXAMPLE:
-6.77 **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
+6.78 **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 
 > **Map Difficulty Rating Classification Sheet**
 
