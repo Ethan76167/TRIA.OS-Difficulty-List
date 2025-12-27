@@ -5,8 +5,8 @@ to listing the hardest recognized maps of TRIA.os. If you are in need
 of extra help, you can reach out in our server here:
 https://discord.gg/yqUyRqQ3wJ
 
-There's a tutorial video on how to submit maps here:  https://youtu.be/EuaQNXnqDR
-Alongside there being a guide inside of the server above in the #how-to-contribute channel.
+There's a tutorial video on how to submit maps here: https://youtu.be/EuaQNXnqDR
+Alongside there being a guide inside of the server above in the #how-to-contribute channel. 
 
 FORMAT FOR ADDING AN ENTRY:
 #.## **Map Name** by Creators [ID] [YouTube Video Link]
@@ -74,7 +74,6 @@ Example: **[!!!] Kneeling Shore**
 Example: `kneeling`
 
 4. A YouTube video with the map completion (preferably a good quality one or the best quality you can find) has to be added.
-
 
 > **List.md GUIDELINES**
 
