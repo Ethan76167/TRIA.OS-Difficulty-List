@@ -6,7 +6,8 @@ of extra help, you can reach out in our server here:
 https://discord.gg/yqUyRqQ3wJ
 
 There's a tutorial video on how to submit maps here: https://youtu.be/EuaQNXnqDR
-Alongside there being a guide inside of the server above in the #how-to-contribute channel. (Isn't this deprecated?)
+Alongside there being a guide inside of the server above in the #how-to-contribute channel. 
+>(Isn't this deprecated?)
 
 FORMAT FOR ADDING AN ENTRY:
 #.## **Map Name** by Creators [ID] [YouTube Video Link]
