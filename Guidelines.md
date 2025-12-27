@@ -3,7 +3,7 @@
 Welcome to the official TRIA.os Difficulty List, a map list dedicated 
 to listing the hardest recognized maps of TRIA.os. If you are in need
 of extra help, you can reach out in our server here:
-https://discord.gg/TRIA (or https://discord.gg/yqUyRqQ3wJ)
+https://discord.gg/yqUyRqQ3wJ
 
 There's a tutorial video on how to submit maps here: https://youtu.be/EuaQNXnqDR
 Alongside there being a guide inside of the server above in the #how-to-contribute channel. (Isn't this deprecated?)
