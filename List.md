@@ -18,7 +18,7 @@
 
 8. ``7.28`` **Peer Gynt** by Epi_cG, aqua2power, outcastrd, & Freshlvy [yalsv] [https://www.youtube.com/watch?v=waXZveOL0Zc]
 
-9. ``7.28`` **Trial of the Sword: Kawasu** by Kimahri0555 [ezhib] [https://www.youtube.com/watch?v=2UUmTpdS6V0]
+9. ``7.25`` **Trial of the Sword: Kawasu** by Kimahri0555 [ezhib] [https://www.youtube.com/watch?v=2UUmTpdS6V0]
 
 10. ``7.16`` **Hyper Speed** by S_D1am0nd, alex28901 & MalachiLeapYear [hmfaf] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
