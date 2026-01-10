@@ -4,19 +4,25 @@
 
 1. ``7.59`` **The Sin** by S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs [fayvr] [https://www.youtube.com/watch?v=TYPNKpdwha4]
 
-2. ``7.50`` **Death Corridor** by alex333144, PabloRios7, & des1red_usernam3 [tpilb] [https://www.youtube.com/watch?v=CX30PQC-tVc]
+2. ``7.50`` **Death Corridor** by angeldusked, PabloRios7, & des1red_usernam3 [tpilb] [https://www.youtube.com/watch?v=CX30PQC-tVc]
 
-3. ``7.38`` **Ascension to Heaven** by S_D1am0nd, alex28901, ZPH03NIXX, box_3948, DevAdelso, & RedVoidMaster [ath] [https://www.youtube.com/watch?v=j3IoYLGceXQ]
+3. ``7.47`` **RIGOR** by ziafeva, Enszo, Zerixilous, I_zcy, em0ji_9, Jack_D03AW, & angeldusked [qkrlf] [https://www.youtube.com/watch?v=RRb6HowLTMU]
 
-4. ``7.16`` **Hyper Speed** by S_D1am0nd, alex28901 & MalachiLeapYear [hmfaf] [https://www.youtube.com/watch?v=p3FuGndl5bM]
+4. ``7.43`` **Structural Conundrum** by Blengen, & Pat_WasTaken [yhkzs] [https://www.youtube.com/watch?v=pXWW3M5NA4g]
 
-5. ``7.11`` **EndZone** by S_D1am0nd, alex28901, MalachiLeapYear, fxrezful, & ZPH03NIXX [lqcgs] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
+5. ``7.33`` **ULTRADESPAIR** by ziafeva (ported by FLNoti) [rfmxc] [https://www.youtube.com/watch?v=-AujDyOQZ-c]
 
-6. ``7.04`` **Agitato (3.0)** by alex28901, S_D1am0nd, & MalachiLeapYear [mvnyv] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
+6. ``7.30`` **Ascension to Heaven** by S_D1am0nd, alex28901, ZPH03NIXX, box_3948, DevAdelso, & RedVoidMaster [ath] [https://www.youtube.com/watch?v=j3IoYLGceXQ]
 
-7. ``7.01`` **Cubic Showdown** by MalachiLeapYear [aheja] [https://www.youtube.com/watch?v=TpS6v_5hBMM]
+7. ``7.16`` **Hyper Speed** by S_D1am0nd, alex28901 & MalachiLeapYear [hmfaf] [https://www.youtube.com/watch?v=p3FuGndl5bM]
 
-8. ``7.00`` **Nos Astra** by Ethan76167 [nos] [https://youtu.be/GEIhjIgeMhU]
+8. ``7.11`` **EndZone** by S_D1am0nd, alex28901, MalachiLeapYear, fxrezful, & ZPH03NIXX [lqcgs] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
+
+9. ``7.04`` **Agitato (3.0)** by alex28901, S_D1am0nd, & MalachiLeapYear [mvnyv] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
+
+10. ``7.01`` **Cubic Showdown** by MalachiLeapYear [aheja] [https://www.youtube.com/watch?v=TpS6v_5hBMM]
+
+11. ``7.00`` **Nos Astra** by Ethan76167 [nos] [https://youtu.be/GEIhjIgeMhU]
 
 > **Divine**
 
