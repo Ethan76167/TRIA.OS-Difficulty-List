@@ -1,4 +1,4 @@
-> **Notice:** This README file is replacing the <kbd>Guidelines.md</kbd> file that originally was on this repository. Please take note to this file for info.
+> **Notice:** This README file is replacing the <kbd>Guidelines.md</kbd> file that originally was on this repository. Please take note to this file for info and updated news.
 
 <h1 align="center">The Official TRIA.OS Difficulty List</h1>
 
