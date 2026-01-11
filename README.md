@@ -23,11 +23,12 @@ Below are links to useful pieces of information for you to know all about the Di
 - [Main TRIA.OS Server](https://discord.gg/TRIA)
 - [Tutorial for adding/submitting maps](https://www.youtube.com/watch?v=AX8PWRI3ZKw) (May be semi-oudated)
 
-<hr>
-
 ## Map Guidelines
 This is something that should be looked at and taken into account for everyone, because ***no matter how many complaints the team gets these specific rules will always apply no matter the case***.
+
 <hr>
 
 1. Despite how unserious some maps may seem, if they fit the criteria of an already Verified map (aka. map is already verified into the game) they are still allowed to be put onto the list.
 2. If you think a maps rating is unclear, or a map is missing, wrong or there's an issue with the list, please report it in [#general](https://discord.com/channels/1045548615709491261/1045548615709491264) of the Discord and we'll get to it ASAP.
+
+> More rules may be added at a later date.
