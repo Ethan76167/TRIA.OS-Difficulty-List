@@ -15,7 +15,8 @@ Maps that are submitted must use a format such as:
 > Divine
   1. ``6.XX`` **Kneeling Shore** by tac_taillike [kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 
-<hr>
+## Links
+
 Below are links to useful pieces of information for you to know all about the Difficulty List and more.
 
 - [Difficulty List Discord Server](https://discord.gg/yqUyRqQ3wJ)
