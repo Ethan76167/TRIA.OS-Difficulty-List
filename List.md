@@ -146,11 +146,11 @@
 
 71. ``6.42`` **Geometric Complex** by robloxpies, & quakemic [wptwq] [https://www.youtube.com/watch?v=7Q0snQX8LwI]
 
-72. ``6.41`` **Electron Memories** by Ethan76167 [em2] [https://www.youtube.com/watch?v=i7mry60b0O8]
+72. ``6.415`` **Electron Memories** by Ethan76167 [em2] [https://www.youtube.com/watch?v=i7mry60b0O8]
 
-73. ``6.415`` **Lost Sewers V2** by deathminer0 [fkctn] [https://www.youtube.com/watch?v=w_546_IV1dk]
+73. ``6.41`` **Lost Sewers V2** by deathminer0 [fkctn] [https://www.youtube.com/watch?v=w_546_IV1dk]
 
-74. ``6.95`` **levels** by kotorxi, & Milon_viil [zclob] [https://www.youtube.com/watch?v=9QIREzqQNpM]
+74. ``6.405`` **levels** by kotorxi, & Milon_viil [zclob] [https://www.youtube.com/watch?v=9QIREzqQNpM]
 
 75. ``6.40`` **Sector Alpha** by ramzfgg [ulmwz] [https://www.youtube.com/watch?v=LQAr_axVtNs]
 
