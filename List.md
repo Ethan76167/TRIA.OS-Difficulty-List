@@ -228,7 +228,7 @@
 
 112. ``6.16`` **Apocolyptic Protocols** by aqua2power [zeyqu] [https://www.youtube.com/watch?v=Vr9UpXoAZTw]
 
-113. ``6.16`` **Maniac Steeple** by RaxdiiGames [bjotd] [https://www.youtube.com/watch?v=soN869uzTrg]
+113. ``6.16`` **Manic Steeple** by RaxdiiGames [bjotd] [https://www.youtube.com/watch?v=soN869uzTrg]
 
 114. ``6.159`` **Cubic Mechanism** by MalachiLeapYear [nabhc] [https://www.youtube.com/watch?v=s9Rt5KngM_U]
 
