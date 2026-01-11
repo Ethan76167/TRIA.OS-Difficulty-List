@@ -58,7 +58,7 @@
 
 27. ``6.85`` **Complete Control** by c_ha0 [vpnuj] [https://www.youtube.com/watch?v=o_jpS-e9iXQ]
 
-28. ``6.82`` **Chilled Complex** by Epi_cG [frhvl] [https://www.youtube.com/watch?v=5_PG-PHeS0g]
+28. ``6.82`` **Chilled Complex** by Epi_cG, elliotebest, ControllerKazz, Freshlvy, altajaajafd, & des1red_usernam3 [frhvl] [https://www.youtube.com/watch?v=5_PG-PHeS0g]
 
 29. ``6.83`` **Layers** by Enszo, iiExoticSlayer, EDNARGRANDE, grif_0, Ethan76167, & TWB_92 [layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
 
