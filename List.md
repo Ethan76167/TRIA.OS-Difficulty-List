@@ -2,7 +2,7 @@
 
 > **Eternal**
 
-1. ``7.55`` **The Sin** by S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs [fayvr] [https://www.youtube.com/watch?v=TYPNKpdwha4]
+1. ``7.55`` **The Sin** by S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs [fayvr] [(https://www.youtube.com/watch?v=uYC5YRy1d8Y)]
 
 2. ``7.50`` **Death Corridor** by angeldusked, PabloRios7, & des1red_usernam3 [tpilb] [https://www.youtube.com/watch?v=CX30PQC-tVc]
 
