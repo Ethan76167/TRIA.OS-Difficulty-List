@@ -152,13 +152,13 @@
  
 74. ``6.25`` **Aleph-0** by Co_rdinatE & Ghastflux [vlhiy] [https://www.youtube.com/watch?v=G1V-rW0SYec]
 
-75. ``6.25`` **Map Function** by re_ndical [dpeka] [https://www.youtube.com/watch?v=ZMdJ7BhLHz0]
+75. ``6.245`` **Map Function** by re_ndical [dpeka] [https://www.youtube.com/watch?v=ZMdJ7BhLHz0]
 
 76. ``6.21`` **Aurelius** by Svilar_r [aurelius] [https://www.youtube.com/watch?v=-XEKXAPq9-Q]
 
 77. ``6.2`` **Ascending Hell** by pikachicken_111 [hqzdc] [https://www.youtube.com/watch?v=n3JLApTU9Fc]
 
-78. ``6.19`` **Icy Sector** by Epi_cG [qhcvv] [https://www.youtube.com/watch?v=hG8gAE6TvRo]
+78. ``6.195`` **Icy Sector** by Epi_cG [qhcvv] [https://www.youtube.com/watch?v=hG8gAE6TvRo]
 
 79. ``6.19`` **Antares** by ahahahahahahasdasd, & mzkaj7 [crbbf] [https://www.youtube.com/watch?v=BRphN1WaIzM]
 
