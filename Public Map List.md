@@ -226,6 +226,8 @@ Irvana Sewers
 
 Octane
 
+Lighthouse
+
 Magma Overheat
 
 Portentous Wasteland
@@ -239,6 +241,8 @@ Stubway!
 The Iron Mechanism
 
 The Last Page
+
+Tower Map
 
 Trial
 
@@ -287,6 +291,8 @@ Monoscape
 
 Monovoid
 
+Motion
+
 Sector-Alpha
 
 Tempestuous Blizzard
@@ -294,6 +300,8 @@ Tempestuous Blizzard
 Virus
 
 # __Eternal__
+Agitato
+
 Ascension to Heaven
 
 Cubic Showdown
