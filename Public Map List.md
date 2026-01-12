@@ -222,6 +222,8 @@ Electro Dysfunction
 
 Ethereal Rush
 
+Focus
+
 Hyperspace
 
 Industry Ruins
@@ -314,6 +316,8 @@ Sector-Alpha
 Tempestuous Blizzard
 
 Virus
+
+Vivid
 
 Yatagarasu (Legacy)
 
