@@ -196,6 +196,8 @@ Abandoned Lava Mines : REIMAGINED
 
 Ancient Shrine
 
+Control
+
 Core: Reimagined
 
 Destination Point
@@ -236,6 +238,8 @@ Stubway!
 
 The Iron Mechanism
 
+The Last Page
+
 Trial
 
 Triroom Facility: Reimagined
@@ -258,6 +262,8 @@ Blockfire Heights
 Complete Control
 
 Cubic Ruins
+
+Cubic Void
 
 Dystopia
 
@@ -282,6 +288,8 @@ Monoscape
 Monovoid
 
 Sector-Alpha
+
+Tempestuous Blizzard
 
 Virus
 
