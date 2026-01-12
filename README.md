@@ -1,5 +1,5 @@
 > **Notice:** This README file is replacing the <kbd>Guidelines.md</kbd> file that originally was on this repository. Please take note to this file for info and updated news.
-Hwello I am a big bad evil note!!!
+
 <h1 align="center">The Official TRIA.OS Difficulty List</h1>
 
 <p align="center">
