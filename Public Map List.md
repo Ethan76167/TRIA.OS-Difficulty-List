@@ -262,6 +262,8 @@ Toxic Rush (L)
 
 Trial
 
+TRIA: RESURGO
+
 Triroom Facility: Reimagined
 
 Unwelcome
@@ -306,6 +308,8 @@ Golden Zephyr
 hue0
 
 LAYERS
+
+M.A.L.
 
 Monoscape
 
