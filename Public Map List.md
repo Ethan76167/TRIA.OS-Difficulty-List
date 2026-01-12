@@ -196,6 +196,8 @@ Abandoned Lava Mines : REIMAGINED
 
 Ancient Shrine
 
+Burlap
+
 Control
 
 Core: Reimagined
@@ -238,6 +240,8 @@ Running on a Rope
 
 Stubway!
 
+Technological Ruins
+
 The Iron Mechanism
 
 The Last Page
@@ -257,6 +261,8 @@ Vaccus
 Wipeout Whirlwind
 
 # __Divine__
+[MATRIX]
+
 Aleph - 0
 
 Blockfire Heights
@@ -292,6 +298,8 @@ Monoscape
 Monovoid
 
 Motion
+
+Ruined Heavenscape
 
 Sector-Alpha
 
