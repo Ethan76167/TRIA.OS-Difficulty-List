@@ -230,6 +230,8 @@ Octane
 
 Lighthouse
 
+Lushette
+
 Magma Overheat
 
 Portentous Wasteland
