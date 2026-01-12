@@ -250,7 +250,11 @@ The Iron Mechanism
 
 The Last Page
 
+Time Machine
+
 Tower Map
+
+Toxic Rush (L)
 
 Trial
 
@@ -310,6 +314,8 @@ Sector-Alpha
 Tempestuous Blizzard
 
 Virus
+
+Yatagarasu (Legacy)
 
 # __Eternal__
 Agitato
