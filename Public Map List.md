@@ -196,6 +196,8 @@ Abandoned Lava Mines : REIMAGINED
 
 Ancient Shrine
 
+Axumantium Base
+
 Burlap
 
 Change of Scene
@@ -334,6 +336,8 @@ Tempestuous Blizzard
 Virus
 
 Vivid
+
+White Void
 
 Yatagarasu (Legacy)
 
