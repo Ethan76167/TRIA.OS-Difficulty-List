@@ -198,6 +198,8 @@ Ancient Shrine
 
 Axumantium Base
 
+Ballistic Funk
+
 Burlap
 
 Change of Scene
@@ -222,6 +224,8 @@ Dystopia V3
 
 Easiertopia
 
+Endless
+
 Electro Dysfunction
 
 Ethereal Rush
@@ -241,6 +245,8 @@ Lighthouse
 Lushette
 
 Magma Overheat
+
+Monochrex
 
 Portentous Wasteland
 
@@ -291,7 +297,17 @@ Blockfire Heights
 
 Dreamscape
 
+Code Red: CCM
+
 Complete Control
+
+Crimson Castle
+
+Cubic Mechanism
+
+Cubic Memories
+
+Cubic Redemption
 
 Cubic Ruins
 
@@ -313,9 +329,19 @@ Golden Zephyr
 
 hue0
 
+Ignited Sanctuary
+
+Interminence
+
+Kneeling Shore
+
 LAYERS
 
 M.A.L.
+
+Malicious Mechanics
+
+Mandragora
 
 Monoscape
 
@@ -324,6 +350,8 @@ Monovoid
 Motion
 
 Mythedral
+
+NightTheater
 
 Ruined Heavenscape
 
