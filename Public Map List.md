@@ -212,6 +212,8 @@ Digitalized
 
 Digitalized [REMAKE]
 
+Delusion
+
 Dystopia V1
 
 Dystopia V3
@@ -256,6 +258,8 @@ Time Machine
 
 Tower Map
 
+Toxic Rush
+
 Toxic Rush (L)
 
 Trial
@@ -278,6 +282,8 @@ Wipeout Whirlwind
 [MATRIX]
 
 Aleph - 0
+
+Asterios
 
 Blockfire Heights
 
@@ -320,6 +326,8 @@ Mythedral
 Ruined Heavenscape
 
 Sector-Alpha
+
+Sight
 
 Tempestuous Blizzard
 
