@@ -24,6 +24,8 @@ EcoSphere 9 // GREENHOUSE SANCTUM
 
 Fiesta Plaza
 
+Flash Flood
+
 Gilded Ethereal
 
 I Was Born Here
@@ -85,6 +87,8 @@ Digital Reality
 Fantasy
 
 Haunted Fortress
+
+Journey to the Center
 
 Ocean Palace
 
