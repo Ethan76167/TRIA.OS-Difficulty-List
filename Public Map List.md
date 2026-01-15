@@ -299,6 +299,8 @@ Wipeout Whirlwind
 
 Aleph - 0
 
+Aurelius
+
 Asterios
 
 Blockfire Heights
@@ -340,6 +342,8 @@ hue0
 Hypogean
 
 Ignited Sanctuary
+
+Infiltration Divinity
 
 Interminence
 
