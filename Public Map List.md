@@ -129,6 +129,8 @@ Constellation Jumper
 
 Cubicville
 
+Dark Mechanism
+
 Datadrift
 
 Drift
@@ -334,6 +336,8 @@ Geometric Complex
 Golden Zephyr
 
 hue0
+
+Hypogean
 
 Ignited Sanctuary
 
