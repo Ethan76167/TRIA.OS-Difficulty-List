@@ -369,11 +369,15 @@ NightTheater
 
 Ruined Heavenscape
 
+Scorched Singularity
+
 Sector-Alpha
 
 Sight
 
 Tempestuous Blizzard
+
+Venomous Vistas
 
 Virus
 
