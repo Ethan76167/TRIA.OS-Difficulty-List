@@ -44,7 +44,7 @@
 
 20. ``6.9`` **Backburner** by Accurate_AA [hznqj] [https://www.youtube.com/watch?v=3y9V18KJryw]
 
-21 ``6.89`` **Alternate Dimension** by SkullerySkuffling [mbnwh] [https://www.youtube.com/watch?v=Xn2Zd4sTbzg]
+21. ``6.89`` **Alternate Dimension** by SkullerySkuffling [mbnwh] [https://www.youtube.com/watch?v=Xn2Zd4sTbzg]
 
 22. ``6.885`` **Asterios** by S_D1am0nd, alex28901, connornathan2008, MalachiLeapYear, & ZPH03NIXX [mrvpr] [https://www.youtube.com/watch?v=Y6ggQG2V0aA]
 
