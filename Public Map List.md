@@ -123,7 +123,7 @@ ARIADIS: TSBTH
 
 Boundless
 
-Buried Past
+*Buried Past* (reviewing for eligibility)
 
 Constellation Jumper
 
@@ -140,6 +140,8 @@ Dynal
 Electronic Sea
 
 Electroman Adventures
+
+雾 (Fog)
 
 Industrial Wasteland
 
@@ -322,6 +324,8 @@ Cubic Redemption
 Cubic Ruins
 
 Cubic Void
+
+Cyber Cypher
 
 Dystopia
 
