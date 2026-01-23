@@ -156,7 +156,7 @@
 
 78. ``6.40`` **Chaotic Expedition** by pikachicken_111 [pnkun] [https://www.youtube.com/watch?v=Y1uZkkYLeZk]
 
-79. ``6.395`` **PURPURES** by yzetip [xgknh] [https://www.youtube.com/watch?v=dEc2gti43iY] (Was changed to divine later)
+79. ``6.395`` **PURPUREUS** by yzetip [xgknh] [https://www.youtube.com/watch?v=dEc2gti43iY] (Was changed to divine later)
 
 80. ``6.39`` **Dreamscape** by MalachiLeapYear [iteeo] [https://www.youtube.com/watch?v=GXzhfvyiSAE]
 
