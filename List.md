@@ -112,7 +112,7 @@
 
 54. ``6.547`` **Lightness** by poataday134 [wtjgs] [https://www.youtube.com/watch?v=ZgFzFCGFzXE]
 
-55. ``6.545`` **Sapphire Caverns** by Epi_cG, & adrian23922 [fncoa] [https://www.youtube.com/watch?v=076Q3CLr2KU]
+55. ``6.546`` **Sapphire Caverns** by Epi_cG, & adrian23922 [fncoa] [https://www.youtube.com/watch?v=076Q3CLr2KU]
 
 56. ``6.545`` **Lost Sewers V1** by deathminer0 [mmnfk] [https://www.youtube.com/watch?v=JGb4UNtIIjg]
 
@@ -148,13 +148,13 @@
 
 72. ``6.41`` **Lost Sewers V2** by deathminer0 [fkctn] [https://www.youtube.com/watch?v=w_546_IV1dk]
 
-73. ``6.405`` **levels** by kotorxi, & Milon_viil [zclob] [https://www.youtube.com/watch?v=9QIREzqQNpM]
+73. ``6.407`` **Sector Alpha** by ramzfgg [ulmwz] [https://www.youtube.com/watch?v=LQAr_axVtNs]
 
-74. ``6.40`` **Sector Alpha** by ramzfgg [ulmwz] [https://www.youtube.com/watch?v=LQAr_axVtNs]
+74. ``6.405`` **levels** by kotorxi, & Milon_viil [zclob] [https://www.youtube.com/watch?v=9QIREzqQNpM]
 
-75. ``6.40`` **Deprived Dimension (ALT)** by ojccjoocjjcoojc [eogdm] [https://www.youtube.com/watch?v=W6zG_cwGt88]
+75. ``6.405`` **Deprived Dimension (ALT)** by ojccjoocjjcoojc [eogdm] [https://www.youtube.com/watch?v=W6zG_cwGt88]
 
-76. ``6.40`` **The Gateway [LEGACY]** by aqua2power [qjxza] [https://www.youtube.com/watch?v=XLXTJgtQGFM]
+76. ``6.403`` **The Gateway [LEGACY]** by aqua2power [qjxza] [https://www.youtube.com/watch?v=XLXTJgtQGFM]
 
 77. ``6.40`` **Chaotic Expedition** by pikachicken_111 [pnkun] [https://www.youtube.com/watch?v=Y1uZkkYLeZk]
 
@@ -238,7 +238,7 @@
 
 117. ``6.14`` **Terracorus** by poataday134 [gflax] [https://www.youtube.com/watch?v=nZte4vfA62Y]
 
-118. ``6.131`` **Unstable Presidium** by FabricioPF [jvtqp] [https://www.youtube.com/watch?v=IuInEC0EVH4]
+118. ``6.13`` **Unstable Presidium** by FabricioPF [jvtqp] [https://www.youtube.com/watch?v=IuInEC0EVH4]
 
 119. ``6.121`` **Monoscape** by Enszo, iiExoticSlayer, & o6xser [mono2] [https://www.youtube.com/watch?v=32TfEAUHCG0]
 
@@ -266,7 +266,7 @@
 
 131. ``6.035`` **Hexascape** by IckershackACK, & For_Alls [bbbuv] [https://www.youtube.com/watch?v=7S6r8eyqAcA]
 
-132. ``6.034`` **hue0** by RaxdiiGames, & Macr0X2 [wvvbb] [https://www.youtube.com/watch?v=XisUhfITKVY]
+132. ``6.03`` **hue0** by RaxdiiGames, & Macr0X2 [wvvbb] [https://www.youtube.com/watch?v=XisUhfITKVY]
 
 133. ``6.025`` **Mythedral** by Dzrol [mythedral] [https://www.youtube.com/watch?v=DdNVdA2EjPU&t=3600s]
 
