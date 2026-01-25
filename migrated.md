@@ -52,15 +52,63 @@ eg.
 
 // 7.59 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4
 
-0135 | 2 | Yes | Yes | Yes
+0135 | 2
 
 user1, user2, user3
 
 ---
 
-// 7.57 | Duplicate Test | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4
+// 7.50 | Death Corridor | angeldusked, PabloRios7, & des1red_usernam3 | tpilb | https://www.youtube.com/watch?v=CX30PQC-tVc
 
-0135 | 2 | Yes | Yes | Yes
+0125 | 0
+
+user1, user2, user3
+
+// 7.47 | RIGOR | ziafeva, Enszo, Zerixilous, I_zcy, em0ji_9, Jack_D03AW, & angeldusked | qkrlf | https://www.youtube.com/watch?v=RRb6HowLTMU
+
+0 | 1
+
+user1, user2, user3
+
+// 7.43 | Structural Conundrum | Blengen, & Pat_WasTaken | yhkzs | https://www.youtube.com/watch?v=pXWW3M5NA4g
+
+01 | 0
+
+user1, user2, user3
+
+// 7.35 | Oceanic Abyss | Forbage | rsogx | https://www.youtube.com/watch?v=_1Jy6L3xOTE
+
+0 | 0
+
+user1, user2, user3
+
+// 7.31 | The Empress | 3swax, & 00iJU4N | mlacd | https://www.youtube.com/watch?v=0Xld1IqeGHk
+
+015 | 0
+
+user1, user2, user3
+
+// 7.30 | Ascension to Heaven | S_D1am0nd, alex28901, ZPH03NIXX, box_3948, DevAdelso, & RedVoidMaster | ath | https://www.youtube.com/watch?v=j3IoYLGceXQ
+
+015 | 0
+
+user1, user2, user3
+
+// 7.28 | Peer Gynt | Epi_cG, aqua2power, outcastrd, & Freshlvy | yalsv | https://www.youtube.com/watch?v=waXZveOL0Zc
+
+015 | 0
+
+user1, user2, user3
+
+// 7.25 | Trial of the Sword: Kawasu | Kimahri0555 | ezhib | https://www.youtube.com/watch?v=2UUmTpdS6V0
+
+015 | 0
+
+user1, user2, user3
+
+// 7.16 | Hyper Speed | S_D1am0nd, alex28901 & MalachiLeapYear | hmfaf | https://www.youtube.com/watch?v=p3FuGndl5bM
+
+015 | 0
 
 user1, user2, user3
 
