@@ -52,15 +52,15 @@ eg.
 
 // 7.59 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4
 
-0135 | 2
+01 | 0
 
-user1, user2, user3
+EpicG Fake, user2, user3
 
 ---
 
 // 7.50 | Death Corridor | angeldusked, PabloRios7, & des1red_usernam3 | tpilb | https://www.youtube.com/watch?v=CX30PQC-tVc
 
-0125 | 0
+0123 | 0
 
 user1, user2, user3
 
@@ -68,7 +68,7 @@ user1, user2, user3
 
 // 7.47 | RIGOR | ziafeva, Enszo, Zerixilous, I_zcy, em0ji_9, Jack_D03AW, & angeldusked | qkrlf | https://www.youtube.com/watch?v=RRb6HowLTMU
 
-0 | 1
+023 | 1
 
 user1, user2, user3
 
@@ -76,7 +76,7 @@ user1, user2, user3
 
 // 7.43 | Structural Conundrum | Blengen, & Pat_WasTaken | yhkzs | https://www.youtube.com/watch?v=pXWW3M5NA4g
 
-01 | 0
+0123 | 0
 
 user1, user2, user3
 
@@ -84,7 +84,7 @@ user1, user2, user3
 
 // 7.35 | Oceanic Abyss | Forbage | rsogx | https://www.youtube.com/watch?v=_1Jy6L3xOTE
 
-0 | 0
+02 | 0
 
 user1, user2, user3
 
@@ -92,7 +92,7 @@ user1, user2, user3
 
 // 7.31 | The Empress | 3swax, & 00iJU4N | mlacd | https://www.youtube.com/watch?v=0Xld1IqeGHk
 
-015 | 0
+01235 | 0
 
 user1, user2, user3
 
@@ -108,7 +108,7 @@ user1, user2, user3
 
 // 7.28 | Peer Gynt | Epi_cG, aqua2power, outcastrd, & Freshlvy | yalsv | https://www.youtube.com/watch?v=waXZveOL0Zc
 
-015 | 0
+01235 | 0
 
 user1, user2, user3
 
@@ -116,7 +116,7 @@ user1, user2, user3
 
 // 7.25 | Trial of the Sword: Kawasu | Kimahri0555 | ezhib | https://www.youtube.com/watch?v=2UUmTpdS6V0
 
-015 | 0
+01235 | 0
 
 user1, user2, user3
 
@@ -132,7 +132,7 @@ user1, user2, user3
 
 // 7.15 | Asterios Legacy | S_D1am0nd | ztczm | https://www.youtube.com/watch?v=jBRnuFRWH_c
 
-0 | 0
+023 | 0
 
 user1, user2, user3
 
@@ -140,7 +140,7 @@ user1, user2, user3
 
 // 7.13 | Glacial Outpost | wizard062, lucaanos, & jeremiah_A2010 | xbkwj | https://www.youtube.com/watch?v=mpLgw91jub8
 
-015 | 0
+01235 | 0
 
 user1, user2, user3
 
@@ -148,7 +148,7 @@ user1, user2, user3
 
 // 7.07 | EndZone | S_D1am0nd, alex28901, MalachiLeapYear, fxrezful, & ZPH03NIXX | lqcgs | https://www.youtube.com/watch?v=UB4tNo2ShjM
 
-01 | 1
+0123 | 1
 
 user1, user2, user3
 
@@ -156,7 +156,7 @@ user1, user2, user3
 
 // 7.065 | Dreamy Lands | Forbage | egaxb | https://www.youtube.com/watch?v=t8aspgaDofY
 
-015 | 0
+0125 | 0
 
 user1, user2, user3
 
@@ -164,7 +164,7 @@ user1, user2, user3
 
 // 7.06 | The Chamber | mag_insurance, kimandre12345678, Link_Cable, kazzlinnn, For_Alls, ZPH03NIXX, PabloRios7, Dzrol, ahahahahahahasdas | nezbi | https://www.youtube.com/watch?v=a19S8Sc4Ny4
 
-015 | 0
+01235 | 0
 
 user1, user2, user3
 
@@ -172,7 +172,7 @@ user1, user2, user3
 
 // 7.03 | Facility of the Dead | connornathan2008, Dogeifiied, tglovescats, Mawiblox2, & Jack_D03AW | mtnio | https://www.youtube.com/watch?v=qhCLN7xTfp0
 
-015 | 0
+01235 | 0
 
 user1, user2, user3
 
@@ -180,7 +180,7 @@ user1, user2, user3
 
 // 7.01 | Cubic Showdown | MalachiLeapYear | aheja | https://www.youtube.com/watch?v=TpS6v_5hBMM
 
-015 | 1
+0135 | 1
 
 user1, user2, user3
 
@@ -188,7 +188,7 @@ user1, user2, user3
 
 // 7.005 | Agitato (3.0) | alex28901, S_D1am0nd, & MalachiLeapYear | mvnyv | https://www.youtube.com/watch?v=X4fz2XGM2Uo
 
-0 | 1
+023 | 1
 
 user1, user2, user3
 
