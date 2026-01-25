@@ -16,7 +16,7 @@ Any information, ranking, or rating in this file is not representative of the ac
 
 **// 7.59 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4**
 
-0135 | 2 | Yes | Yes | Yes
+0135 | 2 | Yes
 
 user1, user2, user3
 
@@ -24,7 +24,7 @@ user1, user2, user3
 
 **BASIC INFO** --> Rating | Name | Creators (separated by commas) | ID | Youtube Link
 
-**OTHER INFO** --> Skills*** | Awards* | Medal** | Soundwave Approved** | Aquarii Approved** | Ethar67 Approved**
+**OTHER INFO** --> Skills*** | Awards* | Medal**
 
 **VICTORS** --> Victors (usernames separated by commas)
 
@@ -64,11 +64,15 @@ user1, user2, user3
 
 user1, user2, user3
 
+---
+
 // 7.47 | RIGOR | ziafeva, Enszo, Zerixilous, I_zcy, em0ji_9, Jack_D03AW, & angeldusked | qkrlf | https://www.youtube.com/watch?v=RRb6HowLTMU
 
 0 | 1
 
 user1, user2, user3
+
+---
 
 // 7.43 | Structural Conundrum | Blengen, & Pat_WasTaken | yhkzs | https://www.youtube.com/watch?v=pXWW3M5NA4g
 
@@ -76,11 +80,15 @@ user1, user2, user3
 
 user1, user2, user3
 
+---
+
 // 7.35 | Oceanic Abyss | Forbage | rsogx | https://www.youtube.com/watch?v=_1Jy6L3xOTE
 
 0 | 0
 
 user1, user2, user3
+
+---
 
 // 7.31 | The Empress | 3swax, & 00iJU4N | mlacd | https://www.youtube.com/watch?v=0Xld1IqeGHk
 
@@ -88,11 +96,15 @@ user1, user2, user3
 
 user1, user2, user3
 
+---
+
 // 7.30 | Ascension to Heaven | S_D1am0nd, alex28901, ZPH03NIXX, box_3948, DevAdelso, & RedVoidMaster | ath | https://www.youtube.com/watch?v=j3IoYLGceXQ
 
-015 | 2
+01235 | 2
 
 user1, user2, user3
+
+---
 
 // 7.28 | Peer Gynt | Epi_cG, aqua2power, outcastrd, & Freshlvy | yalsv | https://www.youtube.com/watch?v=waXZveOL0Zc
 
@@ -100,11 +112,15 @@ user1, user2, user3
 
 user1, user2, user3
 
+---
+
 // 7.25 | Trial of the Sword: Kawasu | Kimahri0555 | ezhib | https://www.youtube.com/watch?v=2UUmTpdS6V0
 
 015 | 0
 
 user1, user2, user3
+
+---
 
 // 7.16 | Hyper Speed | S_D1am0nd, alex28901 & MalachiLeapYear | hmfaf | https://www.youtube.com/watch?v=p3FuGndl5bM
 
@@ -112,11 +128,15 @@ user1, user2, user3
 
 user1, user2, user3
 
+---
+
 // 7.15 | Asterios Legacy | S_D1am0nd | ztczm | https://www.youtube.com/watch?v=jBRnuFRWH_c
 
 0 | 0
 
 user1, user2, user3
+
+---
 
 // 7.13 | Glacial Outpost | wizard062, lucaanos, & jeremiah_A2010 | xbkwj | https://www.youtube.com/watch?v=mpLgw91jub8
 
@@ -124,29 +144,39 @@ user1, user2, user3
 
 user1, user2, user3
 
+---
+
 // 7.07 | EndZone | S_D1am0nd, alex28901, MalachiLeapYear, fxrezful, & ZPH03NIXX | lqcgs | https://www.youtube.com/watch?v=UB4tNo2ShjM
 
 01 | 1
 
 user1, user2, user3
 
+---
+
 // 7.065 | Dreamy Lands | Forbage | egaxb | https://www.youtube.com/watch?v=t8aspgaDofY
 
-015 | 1
+015 | 0
 
 user1, user2, user3
+
+---
 
 // 7.06 | The Chamber | mag_insurance, kimandre12345678, Link_Cable, kazzlinnn, For_Alls, ZPH03NIXX, PabloRios7, Dzrol, ahahahahahahasdas | nezbi | https://www.youtube.com/watch?v=a19S8Sc4Ny4
 
-015 | 1
+015 | 0
 
 user1, user2, user3
+
+---
 
 // 7.03 | Facility of the Dead | connornathan2008, Dogeifiied, tglovescats, Mawiblox2, & Jack_D03AW | mtnio | https://www.youtube.com/watch?v=qhCLN7xTfp0
 
-015 | 1
+015 | 0
 
 user1, user2, user3
+
+---
 
 // 7.01 | Cubic Showdown | MalachiLeapYear | aheja | https://www.youtube.com/watch?v=TpS6v_5hBMM
 
@@ -154,39 +184,19 @@ user1, user2, user3
 
 user1, user2, user3
 
+---
+
 // 7.005 | Agitato (3.0) | alex28901, S_D1am0nd, & MalachiLeapYear | mvnyv | https://www.youtube.com/watch?v=X4fz2XGM2Uo
 
 0 | 1
 
 user1, user2, user3
 
+---
+
 // 7.00 | Nos Astra | Ethan76167, & Enszo | nos | https://www.youtube.com/watch?v=GEIhjIgeMhU
 
 01 | 2
-
-user1, user2, user3
-
----
-
-// 6.59 | Hi | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=QDcnJeGoRWU
-
-0135 | 2 | Yes | Yes | No
-
-user1, user2, user3
-
----
-
-// 5.52 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4
-
-0135 | 2 | Yes | Yes | Yes
-
-user1, user2, user3
-
----
-
-// 1.00 | The ROCKYTANKER MAP!!! | rockytankering | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4
-
-135 | 0 | Yes | Yes | Yes
 
 user1, user2, user3
 
