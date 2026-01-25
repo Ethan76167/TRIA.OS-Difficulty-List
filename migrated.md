@@ -90,7 +90,7 @@ user1, user2, user3
 
 // 7.30 | Ascension to Heaven | S_D1am0nd, alex28901, ZPH03NIXX, box_3948, DevAdelso, & RedVoidMaster | ath | https://www.youtube.com/watch?v=j3IoYLGceXQ
 
-015 | 0
+015 | 2
 
 user1, user2, user3
 
@@ -108,7 +108,61 @@ user1, user2, user3
 
 // 7.16 | Hyper Speed | S_D1am0nd, alex28901 & MalachiLeapYear | hmfaf | https://www.youtube.com/watch?v=p3FuGndl5bM
 
+015 | 1
+
+user1, user2, user3
+
+// 7.15 | Asterios Legacy | S_D1am0nd | ztczm | https://www.youtube.com/watch?v=jBRnuFRWH_c
+
+0 | 0
+
+user1, user2, user3
+
+// 7.13 | Glacial Outpost | wizard062, lucaanos, & jeremiah_A2010 | xbkwj | https://www.youtube.com/watch?v=mpLgw91jub8
+
 015 | 0
+
+user1, user2, user3
+
+// 7.07 | EndZone | S_D1am0nd, alex28901, MalachiLeapYear, fxrezful, & ZPH03NIXX | lqcgs | https://www.youtube.com/watch?v=UB4tNo2ShjM
+
+01 | 1
+
+user1, user2, user3
+
+// 7.065 | Dreamy Lands | Forbage | egaxb | https://www.youtube.com/watch?v=t8aspgaDofY
+
+015 | 1
+
+user1, user2, user3
+
+// 7.06 | The Chamber | mag_insurance, kimandre12345678, Link_Cable, kazzlinnn, For_Alls, ZPH03NIXX, PabloRios7, Dzrol, ahahahahahahasdas | nezbi | https://www.youtube.com/watch?v=a19S8Sc4Ny4
+
+015 | 1
+
+user1, user2, user3
+
+// 7.03 | Facility of the Dead | connornathan2008, Dogeifiied, tglovescats, Mawiblox2, & Jack_D03AW | mtnio | https://www.youtube.com/watch?v=qhCLN7xTfp0
+
+015 | 1
+
+user1, user2, user3
+
+// 7.01 | Cubic Showdown | MalachiLeapYear | aheja | https://www.youtube.com/watch?v=TpS6v_5hBMM
+
+015 | 1
+
+user1, user2, user3
+
+// 7.005 | Agitato (3.0) | alex28901, S_D1am0nd, & MalachiLeapYear | mvnyv | https://www.youtube.com/watch?v=X4fz2XGM2Uo
+
+0 | 1
+
+user1, user2, user3
+
+// 7.00 | Nos Astra | Ethan76167, & Enszo | nos | https://www.youtube.com/watch?v=GEIhjIgeMhU
+
+01 | 2
 
 user1, user2, user3
 
