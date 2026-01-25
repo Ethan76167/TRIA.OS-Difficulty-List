@@ -12,7 +12,7 @@
 
 5. ``7.35`` **Oceanic Abyss** by Forbage [rsogx] [https://www.youtube.com/watch?v=_1Jy6L3xOTE]
 
-6. ``7.31`` **The Empress** by 3swax, & 00iJU4N [mlacd] [https://www.youtube.com/watch?v=0Xld1IqeGHk]
+6. ``7.31`` **The Empress** by 3swax, & 00iJU4N [mlacd] [https://www.youtube.com/watch?v=ARXTnexSbp4]
 
 7. ``7.30`` **Ascension to Heaven** by S_D1am0nd, alex28901, ZPH03NIXX, box_3948, DevAdelso, & RedVoidMaster [ath] [https://www.youtube.com/watch?v=j3IoYLGceXQ]
 
