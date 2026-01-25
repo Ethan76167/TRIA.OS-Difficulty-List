@@ -130,7 +130,7 @@
 
 63. ``6.485`` **A Laborious Journey: Remake** by XyPcGamerXy, & MalachiLeapYear [kcjzh] [https://www.youtube.com/watch?v=uEAJiWdIU-s]
 
-64. ``6.48`` **Collasping Corporation** by theroryofev [kchqt] [https://www.youtube.com/watch?v=VeAYFjgLD7s]
+64. ``6.48`` **Collapsing Corporation** by theroryofev [kchqt] [https://www.youtube.com/watch?v=VeAYFjgLD7s]
 
 65. ``6.465`` **Crystalize Industry** by KitsunTori [wvdlq] [https://www.youtube.com/watch?v=MvQGPbtzcBc]
  
@@ -206,7 +206,7 @@
 
 101. ``6.24`` **Map Function** by re_ndical [dpeka] [https://www.youtube.com/watch?v=ZMdJ7BhLHz0]
 
-102. ``6.23`` **Clutterfunk (Legacy)** by aqua2power [tdblf] [https://www.youtube.com/watch?v=0CY2ruUxfgg] (Video from Pre-1.0)
+102. ``6.23`` **Clutterfunk (Legacy)** by aqua2power [tdblf] [https://www.youtube.com/watch?v=MhS4DvvYqcc&t=299s] (VIDEO UPDATED TO 1.0 | Regular path: 4:59 - 6:40, B Path: 7:00 - 8:41)
 
 103. ``6.215`` **Aurelius** by Svilar_r [aurelius] [https://www.youtube.com/watch?v=-XEKXAPq9-Q]
 
