@@ -407,3 +407,16 @@ Hyper Speed
 Nos Astra
 
 RIGOR
+
+---
+**__Total:__ 198** 
+
+**Easy:** `26` |
+**Normal:** `10` |
+**Hard:** `15` |
+**Insane:** `44` |
+**Extreme:** `48` |
+**Divine:** `47` |
+**Eternal:** `8`
+
+*Last updated:* `Jan 25, 2026 @ 9:08pm CST`
