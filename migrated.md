@@ -54,7 +54,7 @@ eg.
 
 01 | 0
 
-EpicG Fake, user2, user3
+EpicG Fake, Floogus, user3
 
 ---
 
