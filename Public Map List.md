@@ -22,6 +22,8 @@ Dense Swamp
 
 EcoSphere 9 // GREENHOUSE SANCTUM
 
+Eternal Clockwork
+
 Fiesta Plaza
 
 Flash Flood
@@ -62,8 +64,6 @@ Bayou Broschlin
 Botanic Garden
 
 Disintegrating Shore
-
-Eternal Clockwork
 
 Grind District
 
@@ -246,6 +246,8 @@ Hyperspace
 
 Industry Ruins
 
+Infiltration Divinity
+
 Irvana Sewers
 
 Octane
@@ -289,8 +291,6 @@ Triroom Facility: Reimagined
 Unwelcome
 
 U-0
-
-Vaccus
 
 Waving Facility
 
@@ -345,9 +345,7 @@ hue0
 
 Hypogean
 
-Ignited Sanctuary
-
-Infiltration Divinity
+*Ignited Sanctuary* (reviewing for eligibility)
 
 Interminence
 
@@ -380,6 +378,8 @@ Sector-Alpha
 Sight
 
 Tempestuous Blizzard
+
+Vaccus
 
 Venomous Vistas
 
