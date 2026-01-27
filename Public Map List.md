@@ -169,6 +169,8 @@ Mythereal
 
 Omitted Temple
 
+Overdrive (Old)
+
 Paranormal Tombs
 
 Portals
@@ -301,6 +303,8 @@ Wipeout Whirlwind
 
 Aleph - 0
 
+Antares
+
 Aurelius
 
 Asterios
@@ -409,14 +413,14 @@ Nos Astra
 RIGOR
 
 ---
-**__Total:__ 198** 
+**__Total:__ 200** 
 
 **Easy:** `26` |
 **Normal:** `10` |
 **Hard:** `15` |
-**Insane:** `44` |
+**Insane:** `45` |
 **Extreme:** `48` |
-**Divine:** `47` |
+**Divine:** `48` |
 **Eternal:** `8`
 
-*Last updated:* `Jan 25, 2026 @ 9:08pm CST`
+*Last updated:* `Jan 27, 2026 @ 12:14pm CST`
