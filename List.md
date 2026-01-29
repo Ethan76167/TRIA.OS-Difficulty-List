@@ -150,8 +150,6 @@
 
 73. ``6.407`` **Sector Alpha** by ramzfgg [ulmwz] [https://www.youtube.com/watch?v=LQAr_axVtNs]
 
-74. ``6.405`` **levels** by kotorxi, & Milon_viil [zclob] [https://www.youtube.com/watch?v=9QIREzqQNpM]
-
 75. ``6.405`` **Deprived Dimension (ALT)** by ojccjoocjjcoojc [eogdm] [https://www.youtube.com/watch?v=W6zG_cwGt88]
 
 76. ``6.403`` **The Gateway [LEGACY]** by aqua2power [qjxza] [https://www.youtube.com/watch?v=XLXTJgtQGFM]
