@@ -12,8 +12,6 @@
 
 5. ``7.35`` **Oceanic Abyss** by Forbage [rsogx] [https://www.youtube.com/watch?v=_1Jy6L3xOTE]
 
-6. ``7.31`` **The Empress** by 3swax, & 00iJU4N [mlacd] [https://www.youtube.com/watch?v=ARXTnexSbp4]
-
 7. ``7.30`` **Ascension to Heaven** by S_D1am0nd, alex28901, ZPH03NIXX, box_3948, DevAdelso, & RedVoidMaster [ath] [https://www.youtube.com/watch?v=j3IoYLGceXQ]
 
 8. ``7.28`` **Peer Gynt** by Epi_cG, aqua2power, outcastrd, & Freshlvy [yalsv] [https://www.youtube.com/watch?v=waXZveOL0Zc]
@@ -24,21 +22,23 @@
 
 11. ``7.15`` **Asterios Legacy** by S_D1am0nd [ztczm] [https://www.youtube.com/watch?v=jBRnuFRWH_c]
 
-12. ``7.13`` **Glacial Outpost** by wizard062, lucaanos, & jeremiah_A2010 [xbkwj] [https://www.youtube.com/watch?v=mpLgw91jub8]
+12. ``7.15`` **The Empress** by 3swax, & 00iJU4N [mlacd] [https://www.youtube.com/watch?v=ARXTnexSbp4]
 
-13. ``7.07`` **EndZone** by S_D1am0nd, alex28901, MalachiLeapYear, fxrezful, & ZPH03NIXX [lqcgs] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
+13. ``7.13`` **Glacial Outpost** by wizard062, lucaanos, & jeremiah_A2010 [xbkwj] [https://www.youtube.com/watch?v=mpLgw91jub8]
 
-14. ``7.065`` **Dreamy Lands** by Forbage [egaxb] [https://www.youtube.com/watch?v=t8aspgaDofY]
+14. ``7.07`` **EndZone** by S_D1am0nd, alex28901, MalachiLeapYear, fxrezful, & ZPH03NIXX [lqcgs] [https://www.youtube.com/watch?v=UB4tNo2ShjM]
 
-15. ``7.06`` **The Chamber** by mag_insurance, kimandre12345678, Link_Cable, kazzlinnn, For_Alls, ZPH03NIXX, PabloRios7, Dzrol, ahahahahahahasdas [nezbi] [https://www.youtube.com/watch?v=a19S8Sc4Ny4]
+15. ``7.065`` **Dreamy Lands** by Forbage [egaxb] [https://www.youtube.com/watch?v=t8aspgaDofY]
 
-16. ``7.03`` **Facility of the Dead** by connornathan2008, Dogeifiied, tglovescats, Mawiblox2, & Jack_D03AW [mtnio] [https://www.youtube.com/watch?v=qhCLN7xTfp0]
+16. ``7.06`` **The Chamber** by mag_insurance, kimandre12345678, Link_Cable, kazzlinnn, For_Alls, ZPH03NIXX, PabloRios7, Dzrol, ahahahahahahasdas [nezbi] [https://www.youtube.com/watch?v=a19S8Sc4Ny4]
 
-17. ``7.01`` **Cubic Showdown** by MalachiLeapYear [aheja] [https://www.youtube.com/watch?v=TpS6v_5hBMM]
+17. ``7.03`` **Facility of the Dead** by connornathan2008, Dogeifiied, tglovescats, Mawiblox2, & Jack_D03AW [mtnio] [https://www.youtube.com/watch?v=qhCLN7xTfp0]
 
-18. ``7.005`` **Agitato (3.0)** by alex28901, S_D1am0nd, & MalachiLeapYear [mvnyv] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
+18. ``7.01`` **Cubic Showdown** by MalachiLeapYear [aheja] [https://www.youtube.com/watch?v=TpS6v_5hBMM]
 
-19. ``7.00`` **Nos Astra** by Ethan76167 & Enszo [nos] [https://youtu.be/GEIhjIgeMhU]
+19. ``7.005`` **Agitato (3.0)** by alex28901, S_D1am0nd, & MalachiLeapYear [mvnyv] [https://www.youtube.com/watch?v=X4fz2XGM2Uo]
+
+20. ``7.00`` **Nos Astra** by Ethan76167 & Enszo [nos] [https://youtu.be/GEIhjIgeMhU]
 
 > **Divine**
 
