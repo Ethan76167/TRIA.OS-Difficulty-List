@@ -7,6 +7,7 @@ Any information, ranking, or rating in this file is not representative of the ac
 [Current mirror to the difficulty list webpage](https://rockytanker.net/tria/difficulty-list)
 
 *"this is the worst thing ever made. soundwave superior" \- rockytanker*
+*we'll be fine, lock in . - cametized*
 
 ---
 
@@ -90,14 +91,6 @@ user1, user2, user3
 
 ---
 
-// 7.31 | The Empress | 3swax, & 00iJU4N | mlacd | https://www.youtube.com/watch?v=ARXTnexSbp4
-
-01235 | 0
-
-user1, user2, user3
-
----
-
 // 7.30 | Ascension to Heaven | S_D1am0nd, alex28901, ZPH03NIXX, box_3948, DevAdelso, & RedVoidMaster | ath | https://www.youtube.com/watch?v=j3IoYLGceXQ
 
 01235 | 2
@@ -133,6 +126,14 @@ user1, user2, user3
 // 7.15 | Asterios Legacy | S_D1am0nd | ztczm | https://www.youtube.com/watch?v=jBRnuFRWH_c
 
 023 | 0
+
+user1, user2, user3
+
+---
+
+// 7.31 | The Empress | 3swax, & 00iJU4N | mlacd | https://www.youtube.com/watch?v=ARXTnexSbp4
+
+01235 | 0
 
 user1, user2, user3
 
