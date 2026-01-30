@@ -7,6 +7,7 @@ Any information, ranking, or rating in this file is not representative of the ac
 [Current mirror to the difficulty list webpage](https://rockytanker.net/tria/difficulty-list)
 
 *"this is the worst thing ever made. soundwave superior" \- rockytanker*
+*we'll be fine, lock in . - cametized*
 
 ---
 
@@ -54,7 +55,7 @@ eg.
 
 01 | 0
 
-EpicG Fake, user2, user3
+EpicG Fake, Floogus, user3
 
 ---
 
@@ -85,14 +86,6 @@ user1, user2, user3
 // 7.35 | Oceanic Abyss | Forbage | rsogx | https://www.youtube.com/watch?v=_1Jy6L3xOTE
 
 02 | 0
-
-user1, user2, user3
-
----
-
-// 7.31 | The Empress | 3swax, & 00iJU4N | mlacd | https://www.youtube.com/watch?v=ARXTnexSbp4
-
-01235 | 0
 
 user1, user2, user3
 
@@ -138,9 +131,25 @@ user1, user2, user3
 
 ---
 
+// 7.15 | The Empress | 3swax, & 00iJU4N | mlacd | https://www.youtube.com/watch?v=ARXTnexSbp4
+
+01235 | 0
+
+user1, user2, user3
+
+---
+
 // 7.13 | Glacial Outpost | wizard062, lucaanos, & jeremiah_A2010 | xbkwj | https://www.youtube.com/watch?v=mpLgw91jub8
 
 01235 | 0
+
+user1, user2, user3
+
+---
+
+// 7.095 | Moonview | ultramex3 & httpsloaf | efauo | https://www.youtube.com/watch?v=6QvliOH3J8o
+
+023 | 0
 
 user1, user2, user3
 
