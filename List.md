@@ -36,11 +36,9 @@
 
 17. `7.01` **Cubic Showdown** by MalachiLeapYear [aheja] [[https://www.youtube.com/watch?v=TpS6v_5hBMM](https://www.youtube.com/watch?v=TpS6v_5hBMM)]
 
-18. `7.095` **Moonview** by ultramex3 & httpsloaf [efauo] [[https://www.youtube.com/watch?v=6QvliOH3J8o](https://www.youtube.com/watch?v=6QvliOH3J8o)]
+18. `7.005` **Agitato (3.0)** by alex28901, S_D1am0nd & MalachiLeapYear [mvnyv] [[https://www.youtube.com/watch?v=X4fz2XGM2Uo](https://www.youtube.com/watch?v=X4fz2XGM2Uo)]
 
-19. `7.005` **Agitato (3.0)** by alex28901, S_D1am0nd & MalachiLeapYear [mvnyv] [[https://www.youtube.com/watch?v=X4fz2XGM2Uo](https://www.youtube.com/watch?v=X4fz2XGM2Uo)]
-
-20. `7.00` **Nos Astra** by Ethan76167 & Enszo [nos] [[https://youtu.be/GEIhjIgeMhU](https://youtu.be/GEIhjIgeMhU)]
+19. `7.00` **Nos Astra** by Ethan76167 & Enszo [nos] [[https://youtu.be/GEIhjIgeMhU](https://youtu.be/GEIhjIgeMhU)]
 
 > **Divine**
 
