@@ -2,7 +2,7 @@
 
 Welcome to the new and experimental version of the difficulty list, reformatted for easier data reading in an unofficial visualizer webpage.
 
-Any information, ranking, or rating in this file is not representative of the actual difficulty list. Until everything is finished and ready to go, this list will not be used in the meantime. DO NOT TAKE THIS SERIOUSLY! 
+Any information, ranking, or rating in this file is not representative of the actual difficulty list. Until everything is finished and ready to go, this list will not be used in the meantime. 
 
 [Current mirror to the difficulty list webpage](https://rockytanker.net/tria/difficulty-list)
 
@@ -17,7 +17,9 @@ Any information, ranking, or rating in this file is not representative of the ac
 
 **// 7.59 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4**
 
-0135 | 2 | Yes
+0135 | 2 | Yes | 2:02 | 17776 | The Sin Music | August 6, 2025
+
+This map is awesome. Hello
 
 user1, user2, user3
 
@@ -25,9 +27,11 @@ user1, user2, user3
 
 **BASIC INFO** --> Rating | Name | Creators (separated by commas) | ID | Youtube Link
 
-**OTHER INFO** --> Skills*** | Awards* | Medal**
+**OTHER INFO** --> Skills*** | Awards* | Medal** | Map Length | Instances | Buttons | Music | Date Published
 
-**VICTORS** --> Victors (usernames separated by commas)
+**DESCRIPTION** --> A one liner description that can either me judge's notes, editor's notes, or the description of the map. If there's no description, put N/A and continue to the next section.
+
+**VICTORS** --> Victors (usernames separated by commas) (If the map isn't being placed in the top 10 of the hardest of its difficulty, you can ignore this section.)
 
 ```
 *(0: None, 1: Featured, 2: Revolutionary)
