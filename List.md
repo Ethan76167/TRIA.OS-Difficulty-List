@@ -158,8 +158,6 @@
 
 76. `6.40` **Chaotic Expedition** by pikachicken_111 [pnkun] [[https://www.youtube.com/watch?v=Y1uZkkYLeZk](https://www.youtube.com/watch?v=Y1uZkkYLeZk)]
 
-77. `6.395` **PURPUREUS** by yzetip [xgknh] [[https://www.youtube.com/watch?v=dEc2gti43iY](https://www.youtube.com/watch?v=dEc2gti43iY)]
-
 78. `6.39` **Dreamscape** by MalachiLeapYear [iteeo] [[https://www.youtube.com/watch?v=GXzhfvyiSAE](https://www.youtube.com/watch?v=GXzhfvyiSAE)]
 
 79. `6.366` **Complex Sideline** by its_ven1 [svszo] [[https://www.youtube.com/watch?v=utZyaOLYdck](https://www.youtube.com/watch?v=utZyaOLYdck)]
