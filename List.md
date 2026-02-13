@@ -34,13 +34,11 @@
 
 16. `7.06` **The Chamber** by mag_insurance, kimandre12345678, Link_Cable, kazzlinnn, For_Alls, ZPH03NIXX, PabloRios7, Dzrol & ahahahahahahasdas [nezbi] [[https://www.youtube.com/watch?v=a19S8Sc4Ny4](https://www.youtube.com/watch?v=a19S8Sc4Ny4)]
 
-17. `7.03` **Facility of the Dead** by connornathan2008, Dogeifiied, tglovescats, Mawiblox2 & Jack_D03AW [mtnio] [[https://www.youtube.com/watch?v=qhCLN7xTfp0](https://www.youtube.com/watch?v=qhCLN7xTfp0)]
+17. `7.01` **Cubic Showdown** by MalachiLeapYear [aheja] [[https://www.youtube.com/watch?v=TpS6v_5hBMM](https://www.youtube.com/watch?v=TpS6v_5hBMM)]
 
-18. `7.01` **Cubic Showdown** by MalachiLeapYear [aheja] [[https://www.youtube.com/watch?v=TpS6v_5hBMM](https://www.youtube.com/watch?v=TpS6v_5hBMM)]
+18. `7.005` **Agitato (3.0)** by alex28901, S_D1am0nd & MalachiLeapYear [mvnyv] [[https://www.youtube.com/watch?v=X4fz2XGM2Uo](https://www.youtube.com/watch?v=X4fz2XGM2Uo)]
 
-19. `7.005` **Agitato (3.0)** by alex28901, S_D1am0nd & MalachiLeapYear [mvnyv] [[https://www.youtube.com/watch?v=X4fz2XGM2Uo](https://www.youtube.com/watch?v=X4fz2XGM2Uo)]
-
-20. `7.00` **Nos Astra** by Ethan76167 & Enszo [nos] [[https://youtu.be/GEIhjIgeMhU](https://youtu.be/GEIhjIgeMhU)]
+19. `7.00` **Nos Astra** by Ethan76167 & Enszo [nos] [[https://youtu.be/GEIhjIgeMhU](https://youtu.be/GEIhjIgeMhU)]
 
 > **Divine**
 
@@ -157,8 +155,6 @@
 75. `6.403` **The Gateway [LEGACY]** by aqua2power [qjxza] [[https://www.youtube.com/watch?v=XLXTJgtQGFM](https://www.youtube.com/watch?v=XLXTJgtQGFM)]
 
 76. `6.40` **Chaotic Expedition** by pikachicken_111 [pnkun] [[https://www.youtube.com/watch?v=Y1uZkkYLeZk](https://www.youtube.com/watch?v=Y1uZkkYLeZk)]
-
-77. `6.395` **PURPUREUS** by yzetip [xgknh] [[https://www.youtube.com/watch?v=dEc2gti43iY](https://www.youtube.com/watch?v=dEc2gti43iY)]
 
 78. `6.39` **Dreamscape** by MalachiLeapYear [iteeo] [[https://www.youtube.com/watch?v=GXzhfvyiSAE](https://www.youtube.com/watch?v=GXzhfvyiSAE)]
 

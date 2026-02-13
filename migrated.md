@@ -183,14 +183,6 @@ user1, user2, user3
 
 ---
 
-// 7.03 | Facility of the Dead | connornathan2008, Dogeifiied, tglovescats, Mawiblox2, & Jack_D03AW | mtnio | https://www.youtube.com/watch?v=qhCLN7xTfp0
-
-01235 | 0
-
-user1, user2, user3
-
----
-
 // 7.01 | Cubic Showdown | MalachiLeapYear | aheja | https://www.youtube.com/watch?v=TpS6v_5hBMM
 
 0135 | 1
@@ -215,8 +207,8 @@ user1, user2, user3
 
 ---
 
-// 6.99 | Farmland Trouble [Test Divine Entry] | Cametized | Gaming | https://www.youtube.com/signout
+// 6.94 | Hardertopia | Enszo, iiExoticSlayer, EDNARGRANDE, Ethan76167 & TWB_92 | lfnee | https://www.youtube.com/watch?v=1u5tuxF7nWQ
 
-012345 | 2
+0 | 0
 
 Cametized, Cametized, Cametized
