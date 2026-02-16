@@ -34,11 +34,13 @@
 
 16. `7.06` **The Chamber** by mag_insurance, kimandre12345678, Link_Cable, kazzlinnn, For_Alls, ZPH03NIXX, PabloRios7, Dzrol & ahahahahahahasdas [nezbi] [[https://www.youtube.com/watch?v=a19S8Sc4Ny4](https://www.youtube.com/watch?v=a19S8Sc4Ny4)]
 
-17. `7.01` **Cubic Showdown** by MalachiLeapYear [aheja] [[https://www.youtube.com/watch?v=TpS6v_5hBMM](https://www.youtube.com/watch?v=TpS6v_5hBMM)]
+17. `7.02` **BloodLust** by iLuuhdida [bubwo] [[https://www.youtube.com/watch?v=2IoG2aOpvHY](https://www.youtube.com/watch?v=2IoG2aOpvHY)]
 
-18. `7.005` **Agitato (3.0)** by alex28901, S_D1am0nd & MalachiLeapYear [mvnyv] [[https://www.youtube.com/watch?v=X4fz2XGM2Uo](https://www.youtube.com/watch?v=X4fz2XGM2Uo)]
+18. `7.01` **Cubic Showdown** by MalachiLeapYear [aheja] [[https://www.youtube.com/watch?v=TpS6v_5hBMM](https://www.youtube.com/watch?v=TpS6v_5hBMM)]
 
-19. `7.00` **Nos Astra** by Ethan76167 & Enszo [nos] [[https://youtu.be/GEIhjIgeMhU](https://youtu.be/GEIhjIgeMhU)]
+19. `7.005` **Agitato (3.0)** by alex28901, S_D1am0nd & MalachiLeapYear [mvnyv] [[https://www.youtube.com/watch?v=X4fz2XGM2Uo](https://www.youtube.com/watch?v=X4fz2XGM2Uo)]
+
+20. `7.00` **Nos Astra** by Ethan76167 & Enszo [nos] [[https://youtu.be/GEIhjIgeMhU](https://youtu.be/GEIhjIgeMhU)]
 
 > **Divine**
 

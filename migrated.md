@@ -183,6 +183,14 @@ user1, user2, user3
 
 ---
 
+// 7.02 | BloodLust | iLuuhdida | bubwo | https://www.youtube.com/watch?v=2IoG2aOpvHY
+
+01235 | 0
+
+iLuuhdida, user2, user3
+
+---
+
 // 7.01 | Cubic Showdown | MalachiLeapYear | aheja | https://www.youtube.com/watch?v=TpS6v_5hBMM
 
 0135 | 1
