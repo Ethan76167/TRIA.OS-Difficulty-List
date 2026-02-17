@@ -300,3 +300,184 @@ user1, user2, user3
 0123 | 2
 
 user1, user2, user3
+
+---
+
+// 6.78 | Code Red: CCM | Zyanight | rqfea | https://www.youtube.com/watch?v=97t1d5SJ6Rg
+
+01235 | 2
+
+user1, user2, user3
+
+---
+
+// 6.76 | Virus | RRayhanahyaRR | hrgow | https://www.youtube.com/watch?v=p0O6Ow9pe2s
+
+0235 | 1
+
+user1, user2, user3
+
+---
+
+// 6.75 | Cubic Redemption | MalachiLeapYear | fwevu | https://www.youtube.com/watch?v=qNnCscDA0Yo
+
+0125 | 1
+
+user1, user2, user3
+
+---
+
+// 6.74 | Hyper4id | piediepo, & RaxdiiGames | uoxlw | https://www.youtube.com/watch?v=ag8P1q7SsrE
+
+01235 | 0
+
+user1, user2, user3
+
+---
+
+// 6.72 | NightTheater | MaxingPar | itggx | https://www.youtube.com/watch?v=3Uz2T6A8W1k
+
+015 | 2
+
+user1, user2, user3
+
+---
+
+// 6.71 | Tempestuous Blizzard | Zerixilious | gtgnk | https://www.youtube.com/watch?v=ZruAoI524Ac
+
+023 | 1
+
+user1, user2, user3
+
+---
+
+// 6.706 | Shattered World | TheUnknownArk | sfsvc | https://www.youtube.com/watch?v=lkJFovbLksE
+
+015 | 0
+
+user1, user2, user3
+
+---
+
+// 6.705 | Sand Pillar | deathminer0 | watpa | https://www.youtube.com/watch?v=3j4GYxWgkGo
+
+03 | 0
+
+user1, user2, user3
+
+---
+
+// 6.70 | Vivid | Enszo | vivid | https://www.youtube.com/watch?v=4lzsf2e3x5A
+
+01 | 2
+
+user1, user2, user3
+
+---
+
+// 6.69 | Brick Yellow | robloxpies | gpuju | https://www.youtube.com/watch?v=e2YvIr_5tS8
+
+235 | 0
+
+user1, user2, user3
+
+---
+
+// 6.686 | Hard Reset | ItzJey112 | wgkte | https://www.youtube.com/watch?v=ie5_UvI-Emg
+
+015 | 0
+
+user1, user2, user3
+
+---
+
+// 6.68 | Over-cast | Hopeless_Misery | lvkfk | https://www.youtube.com/watch?v=g_S4yN4pyaw
+
+015 | 0
+
+user1, user2, user3
+
+---
+
+// 6.65 | White Void | connornathan2008, Dogeifiied, Link_Cable, Mawiblox2 & Jack_D03AW | mbksz | https://www.youtube.com/watch?v=jDzAVZJeFuM
+
+015 | 1
+
+user1, user2, user3
+
+---
+
+// 6.62 |  Beyond | its_ven1 | zqdnb | https://www.youtube.com/watch?v=aS-AmA4AJ48
+
+01 | 0
+
+user1, user2, user3
+
+---
+
+// 6.605 | Dystopian World | Enszo, iiExoticSlayer, grif_0, Ethan76167, Uncomfortable90zaza, fxrezful & RaxdiiGames | world | https://www.youtube.com/watch?v=sQ4j3fLx6Z4
+
+3 | 2
+
+user1, user2, user3
+
+---
+
+// 6.585 | Scorched Singularity | noetiess, & Pat_WasTaken | pxmge | https://www.youtube.com/watch?v=I1CyFhgVoHE
+
+01235 | 0
+
+user1, user2, user3
+
+---
+
+// 6.58 | ComiLudiCrazInPosterSensical | Spookytinpo_t & XDemon_Guy | iofit | https://www.youtube.com/watch?v=jfXwoVYn2fo
+
+01235 | 0
+
+user1, user2, user3
+
+---
+
+// 6.575 | [Unverified Currently] BOLTZONE: Industrial District 88 | dripperoniz | https://www.youtube.com/watch?v=AZdYiVMGDYg
+
+01235 | 2
+
+user1, user2, user3
+
+---
+
+// 6.57 | Cubic Void | not_grif | cubicvoid | https://www.youtube.com/watch?v=KzbVhvUwGZE
+
+015 | 2
+
+user1, user2, user3
+
+---
+
+// 6.567 | Magmatic Cove | ZPH03NIXX, PheenoUltra, kazzlinnn & tower_mites | vdcnd | https://www.youtube.com/watch?v=pIXUT6lDpkY
+
+01 | 0
+
+user1, user2, user3
+
+---
+
+// 6.561 | Drainpipe Stream 💀 | Macr0X2 | zcffo | https://www.youtube.com/watch?v=5KYqD71JP6I
+
+0 | 0
+
+user1, user2, user3
+
+---
+
+// 6.55 | Crystallized | connornathan2008 & Jack_D03AW | xsbxz | https://www.youtube.com/watch?v=6U-OB2AQbww
+
+01 | 0
+
+user1, user2, user3
+
+---
+
+// 6.547 | Lightness | poataday134 | wtjgs | https://www.youtube.com/watch?v=ZgFzFCGFzXE
+
