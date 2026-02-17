@@ -247,3 +247,56 @@ user1, user2, user3
 
 ---
 
+// 6.88 | Motion | MalachiLeapYear | yjojg | https://www.youtube.com/watch?v=-mndK4eM3g8
+
+0235 | 2
+
+user1, user2, user3
+
+---
+
+/// 6.87 | Derelict Industry | connornathan2008 | kshjp | https://www.youtube.com/watch?v=Jd2jlFv4YYk
+
+013 | 0
+
+user1, user2, user3
+
+---
+
+// 6.855 | Nuclear Lockdown 4.0 | Kimahri0555 & Jumbullbubblehead | hjgur | https://www.youtube.com/watch?v=ENdjovdaCJM
+
+01235 | 0
+
+user1, user2, user3
+
+---
+
+// 6.85 | Complete Control | c_ha0 | vpnuj | https://www.youtube.com/watch?v=o_jpS-e9iXQ
+
+05 | 0
+
+user1, user2, user3
+
+---
+
+// 6.83 | LAYERS | Enszo, iiExoticSlayer, EDNARGRANDE, grif_0, Ethan76167 & TWB_92 | layers | https://www.youtube.com/watch?v=Yja6SpZVU_U
+
+01 | 2
+
+user1, user2, user3
+
+---
+
+// 6.82 | Chilled Complex | Epi_cG, elliotebest, ControllerKazz, Freshlvy, altajaajafd & des1red_usernam3 | frhvl | https://www.youtube.com/watch?v=5_PG-PHeS0g
+
+0125 | 0
+
+user1, user2, user3
+
+---
+
+// 6.785 | Kneeling Shore | tac_taiIIike, Zyanight, n4kt & SolarMagnetic | kneeling | https://www.youtube.com/watch?v=ectnMFW5cr0
+
+0123 | 2
+
+user1, user2, user3
