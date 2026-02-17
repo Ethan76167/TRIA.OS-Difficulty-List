@@ -255,7 +255,7 @@ user1, user2, user3
 
 ---
 
-/// 6.87 | Derelict Industry | connornathan2008 | kshjp | https://www.youtube.com/watch?v=Jd2jlFv4YYk
+// 6.87 | Derelict Industry | connornathan2008 | kshjp | https://www.youtube.com/watch?v=Jd2jlFv4YYk
 
 013 | 0
 
@@ -439,7 +439,7 @@ user1, user2, user3
 
 ---
 
-// 6.575 | [Unverified Currently] BOLTZONE: Industrial District 88 | dripperoniz | https://www.youtube.com/watch?v=AZdYiVMGDYg
+// 6.575 | (Unverified Currently) BOLTZONE: Industrial District 88 | dripperoniz | boltzone | https://www.youtube.com/watch?v=AZdYiVMGDYg
 
 01235 | 2
 
