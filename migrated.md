@@ -220,3 +220,30 @@ user1, user2, user3
 0 | 0
 
 Cametized, Cametized, Cametized
+
+---
+
+// 6.90 | Backburner | Accurate_AA | hznqj | https://www.youtube.com/watch?v=3y9V18KJryw
+
+0135 | 0
+
+user1, user2, user3
+
+---
+
+// 6.89 | Alternate Dimension | SkullerySkuffling | mbnwh | https://www.youtube.com/watch?v=Xn2Zd4sTbzg
+
+235 | 0
+
+user1, user2, user3
+
+---
+
+// 6.885 | Asterios | S_D1am0nd, alex28901, connornathan2008, MalachiLeapYear & ZPH03NIXX | mrvpr | https://www.youtube.com/watch?v=Y6ggQG2V0aA
+
+023 | 1
+
+user1, user2, user3
+
+---
+
