@@ -55,7 +55,7 @@ eg.
 
 ## List
 
-// 7.59 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4
+// 7.55 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=uYC5YRy1d8Y
 
 01 | 0
 
