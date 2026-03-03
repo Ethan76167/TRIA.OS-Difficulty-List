@@ -40,4 +40,7 @@ Example: **[!] Kneeling Shore**
 Example: **[!!!] Kneeling Shore**
 
 6. All maps listed be Divine or harder (aside from Public map list).
+
+
+7. Legacy maps will ONLY be added to the list if they do not have a new version yet. Said map will be removed once (or if) it gets a new version.
 > More rules may be added at a later date.
