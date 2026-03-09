@@ -1,4 +1,4 @@
-<img width="810" height="56" alt="image" src="https://github.com/user-attachments/assets/22984954-1a73-4af6-bdd4-d58d4d0f0128" />> **THE OFFICIAL TRIA.OS DIFFICULTY LIST**
+> **THE OFFICIAL TRIA.OS DIFFICULTY LIST**
 
 > **Eternal**
 
