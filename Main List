@@ -8,28 +8,28 @@
       "video": "https://www.youtube.com/watch?v=ACphu5esj2o"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "10/08/2025",
+      "music": "vfxdraco - The Beast I Worship Remix",
+      "length": "1:18",
+      "instances": "12816",
+      "buttons": "0"
     },
     "selection": {
       "skills": {
-        "walljumps": false,
+        "walljumps": true,
         "wallruns": false,
         "dive": false,
         "linearSliding": false,
         "momentumSliding": false,
-        "orbs": false
+        "orbs": true
       },
       "awards": {
         "featured": false,
         "revolutionary": false
       },
-      "medal": false
+      "medal": true
     },
-    "description": "No description provided."
+    "description": "There is only one throne reserved for the greatest who rises triumphant against the Beast."
   },
   {
     "overview": {
@@ -40,15 +40,15 @@
       "video": "https://www.youtube.com/watch?v=uYC5YRy1d8Y"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "10/01/2023",
+      "music": "[1] JerryStuff (Ro) & BrandonPlaysStuff - In Your Heart Lies Hope; [2] Dai / 7th Expansion | Umimeko - The Sin",
+      "length": "4:42",
+      "instances": "9804",
+      "buttons": "5"
     },
     "selection": {
       "skills": {
-        "walljumps": false,
+        "walljumps": true,
         "wallruns": false,
         "dive": false,
         "linearSliding": false,
@@ -72,11 +72,11 @@
       "video": "https://www.youtube.com/watch?v=CX30PQC-tVc"
     },
     "other": {
-      "published": "N/A",
+      "published": "04/04/2024",
       "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "length": "2:47",
+      "instances": "?",
+      "buttons": "?"
     },
     "selection": {
       "skills": {
@@ -104,20 +104,20 @@
       "video": "https://www.youtube.com/watch?v=GmD6nNxg2Vs"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "01/03/2025",
+      "music": "Camellia - ΩΩPARTS",
+      "length": "5:30",
+      "instances": "43896",
+      "buttons": "16"
     },
     "selection": {
       "skills": {
-        "walljumps": false,
+        "walljumps": true,
         "wallruns": false,
         "dive": false,
         "linearSliding": false,
         "momentumSliding": false,
-        "orbs": false
+        "orbs": true
       },
       "awards": {
         "featured": false,
@@ -125,26 +125,26 @@
       },
       "medal": false
     },
-    "description": "No description provided."
+    "description": "A 3rd megacollab map of the 'Rooms' series."
   },
   {
     "overview": {
       "name": "RIGOR",
       "rating": "7.47",
       "id": "qkrlf",
-      "creators": "ziafeva, Enszo, Zerixilous, I_zcy, em0ji_9, Jack_D03AW & angeldusked",
+      "creators": "ziafeva, Enszo, Zerixilous, I_zcy, em0ji_9, Jack_D03AW, & angeldusked",
       "video": "https://www.youtube.com/watch?v=RRb6HowLTMU"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "06/10/2025",
+      "music": "FireLight (NeoKontrol Remix)",
+      "length": "4:32",
+      "instances": "18933",
+      "buttons": "0"
     },
     "selection": {
       "skills": {
-        "walljumps": false,
+        "walljumps": true,
         "wallruns": false,
         "dive": false,
         "linearSliding": false,
@@ -152,12 +152,12 @@
         "orbs": false
       },
       "awards": {
-        "featured": false,
+        "featured": true,
         "revolutionary": false
       },
       "medal": false
     },
-    "description": "No description provided."
+    "description": "Now as we know, Rob av cheese carn the beans. But crew can have tinned carn the cheese mc ghees dear me. Ohhhhhhhhhhhh cannot Change This Life For I Change This Change For Life Changing"
   },
   {
     "overview": {
@@ -168,20 +168,20 @@
       "video": "https://www.youtube.com/watch?v=woByDVP-Q3k"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "12/28/2025",
+      "music": "Camellia - ATTACK FROM MANDRAKE",
+      "length": "6:40",
+      "instances": "8395",
+      "buttons": "2"
     },
     "selection": {
       "skills": {
-        "walljumps": false,
+        "walljumps": true,
         "wallruns": false,
         "dive": false,
         "linearSliding": false,
         "momentumSliding": false,
-        "orbs": false
+        "orbs": true
       },
       "awards": {
         "featured": false,
@@ -189,7 +189,7 @@
       },
       "medal": false
     },
-    "description": "No description provided."
+    "description": "Heavily inspired by Cubic Ruins, Death Corridor and Nos Astra, will be buffed until bottom Eternal."
   },
   {
     "overview": {
@@ -200,15 +200,15 @@
       "video": "https://www.youtube.com/watch?v=pXWW3M5NA4g"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "08/17/2025",
+      "music": "NeatObbyist - Structural Conundrum OST",
+      "length": "2:50",
+      "instances": "1963",
+      "buttons": "5"
     },
     "selection": {
       "skills": {
-        "walljumps": false,
+        "walljumps": true,
         "wallruns": false,
         "dive": false,
         "linearSliding": false,
@@ -221,7 +221,7 @@
       },
       "medal": false
     },
-    "description": "No description provided."
+    "description": "Thank you @Pat_WasTaken for porting timelines! OST by NeatObbyist, with help from AxolotlsPlasma & VFXDraco"
   },
   {
     "overview": {
@@ -232,11 +232,11 @@
       "video": "https://www.youtube.com/watch?v=gTQYTIUEV-k"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "03/03/2026",
+      "music": "Sewerslvt - ultradespair",
+      "length": "4:27",
+      "instances": "980",
+      "buttons": "0"
     },
     "selection": {
       "skills": {
@@ -245,7 +245,7 @@
         "dive": false,
         "linearSliding": false,
         "momentumSliding": false,
-        "orbs": false
+        "orbs": true
       },
       "awards": {
         "featured": false,
@@ -253,7 +253,7 @@
       },
       "medal": false
     },
-    "description": "No description provided."
+    "description": "GAZOINKS!!! ULTRADESPAIR AT TIME LIKE THIS? ARE SERIOUS??????????? LOOK OUT!"
   },
   {
     "overview": {
@@ -264,15 +264,15 @@
       "video": "https://www.youtube.com/watch?v=_1Jy6L3xOTE"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "05/01/2025",
+      "music": "DM DOKURO - Open Frenzy",
+      "length": "1:05",
+      "instances": "4446",
+      "buttons": "5"
     },
     "selection": {
       "skills": {
-        "walljumps": false,
+        "walljumps": true,
         "wallruns": false,
         "dive": false,
         "linearSliding": false,
@@ -283,9 +283,9 @@
         "featured": false,
         "revolutionary": false
       },
-      "medal": false
+      "medal": true
     },
-    "description": "No description provided."
+    "description": "Current Version: 1.2. Tower detail will be coming soon."
   },
   {
     "overview": {
@@ -296,24 +296,24 @@
       "video": "https://www.youtube.com/watch?v=j3IoYLGceXQ"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "04/15/2024",
+      "music": "xi - Ascension To Heaven (Orchestral Remix)",
+      "length": "5:23",
+      "instances": "42102",
+      "buttons": "16"
     },
     "selection": {
       "skills": {
-        "walljumps": false,
+        "walljumps": true,
         "wallruns": false,
         "dive": false,
         "linearSliding": false,
         "momentumSliding": false,
-        "orbs": false
+        "orbs": true
       },
       "awards": {
         "featured": false,
-        "revolutionary": false
+        "revolutionary": true
       },
       "medal": false
     },
@@ -328,26 +328,26 @@
       "video": "https://www.youtube.com/watch?v=waXZveOL0Zc"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "12/27/2025",
+      "music": "Cysmix - Peer Gynt",
+      "length": "2:30",
+      "instances": "14308",
+      "buttons": "3"
     },
     "selection": {
       "skills": {
-        "walljumps": false,
+        "walljumps": true,
         "wallruns": false,
         "dive": false,
         "linearSliding": false,
         "momentumSliding": false,
-        "orbs": false
+        "orbs": true
       },
       "awards": {
         "featured": false,
         "revolutionary": false
       },
-      "medal": false
+      "medal": true
     },
     "description": "No description provided."
   },
@@ -360,11 +360,11 @@
       "video": "https://www.youtube.com/watch?v=2UUmTpdS6V0"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "09/01/2025",
+      "music": "Kara & Kurokotei - Valley of Voices",
+      "length": "3:00",
+      "instances": "9931",
+      "buttons": "0"
     },
     "selection": {
       "skills": {
@@ -381,7 +381,7 @@
       },
       "medal": false
     },
-    "description": "No description provided."
+    "description": "Meteors, Rocks, and Knives, will you dodge them all?"
   },
   {
     "overview": {
@@ -392,11 +392,11 @@
       "video": "https://www.youtube.com/watch?v=p3FuGndl5bM"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "10/22/2023",
+      "music": "ParagonX9 - HyperioxX",
+      "length": "3:13",
+      "instances": "22073",
+      "buttons": "23"
     },
     "selection": {
       "skills": {
@@ -408,10 +408,10 @@
         "orbs": false
       },
       "awards": {
-        "featured": false,
+        "featured": true,
         "revolutionary": false
       },
-      "medal": false
+      "medal": true
     },
     "description": "No description provided."
   },
@@ -424,11 +424,11 @@
       "video": "https://www.youtube.com/watch?v=jBRnuFRWH_c"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "12/26/2024",
+      "music": "F777 - Sonic Blaster",
+      "length": "2:29",
+      "instances": "9117",
+      "buttons": "12"
     },
     "selection": {
       "skills": {
@@ -456,11 +456,11 @@
       "video": "https://www.youtube.com/watch?v=mpLgw91jub8"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "09/12/2025",
+      "music": "Glacial Outpost OST",
+      "length": "3:00",
+      "instances": "6040",
+      "buttons": "3"
     },
     "selection": {
       "skills": {
@@ -488,11 +488,11 @@
       "video": "https://www.youtube.com/watch?v=6QvliOH3J8o"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "01/25/2026",
+      "music": "LemmyLada - Moonview OSt",
+      "length": "2:37",
+      "instances": "10956",
+      "buttons": "8"
     },
     "selection": {
       "skills": {
@@ -509,7 +509,7 @@
       },
       "medal": false
     },
-    "description": "No description provided."
+    "description": "Find your way out of this base and back to Earth. Verified by MacroX2!"
   },
   {
     "overview": {
@@ -520,11 +520,11 @@
       "video": "https://www.youtube.com/watch?v=ARXTnexSbp4"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "01/24/2025",
+      "music": "UNDEAD CORPORATION - The Empress",
+      "length": "2:20",
+      "instances": "5",
+      "buttons": "7010"
     },
     "selection": {
       "skills": {
@@ -539,9 +539,9 @@
         "featured": false,
         "revolutionary": false
       },
-      "medal": false
+      "medal": true
     },
-    "description": "No description provided."
+    "description": "Ported to TRIA by NotV0id (@00iJU4N)"
   },
   {
     "overview": {
@@ -552,11 +552,11 @@
       "video": "https://www.youtube.com/watch?v=UB4tNo2ShjM"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "12/16/2024",
+      "music": "Shinrog - Infertehno",
+      "length": "6:09",
+      "instances": "19309",
+      "buttons": "38"
     },
     "selection": {
       "skills": {
@@ -568,12 +568,12 @@
         "orbs": false
       },
       "awards": {
-        "featured": false,
+        "featured": true,
         "revolutionary": false
       },
-      "medal": false
+      "medal": true
     },
-    "description": "No description provided."
+    "description": "Patience, it's the shield of the soul."
   },
   {
     "overview": {
@@ -584,11 +584,11 @@
       "video": "https://www.youtube.com/watch?v=t8aspgaDofY"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "04/03/2025",
+      "music": "jamatar - Ghost Nova",
+      "length": "0:59",
+      "instances": "1896",
+      "buttons": "5"
     },
     "selection": {
       "skills": {
@@ -603,9 +603,9 @@
         "featured": false,
         "revolutionary": false
       },
-      "medal": false
+      "medal": true
     },
-    "description": "No description provided."
+    "description": "livin the dream"
   },
   {
     "overview": {
@@ -616,11 +616,11 @@
       "video": "https://www.youtube.com/watch?v=a19S8Sc4Ny4"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "06/10/2025",
+      "music": "Cjbeards - Silent",
+      "length": "4:11",
+      "instances": "31460",
+      "buttons": "4"
     },
     "selection": {
       "skills": {
@@ -635,7 +635,7 @@
         "featured": false,
         "revolutionary": false
       },
-      "medal": false
+      "medal": true
     },
     "description": "No description provided."
   },
@@ -648,11 +648,11 @@
       "video": "https://www.youtube.com/watch?v=2IoG2aOpvHY"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "06/19/2025",
+      "music": "Dimrain47 - At The Speed Of Light",
+      "length": "1:00",
+      "instances": "2028",
+      "buttons": "3"
     },
     "selection": {
       "skills": {
@@ -669,7 +669,7 @@
       },
       "medal": false
     },
-    "description": "No description provided."
+    "description": "Thumbnail by araken."
   },
   {
     "overview": {
@@ -680,11 +680,11 @@
       "video": "https://www.youtube.com/watch?v=TpS6v_5hBMM"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "01/01/2024",
+      "music": "PaulyBFromDa303 - Stardust Showdown",
+      "length": "5:06",
+      "instances": "13570",
+      "buttons": "26"
     },
     "selection": {
       "skills": {
@@ -696,10 +696,10 @@
         "orbs": false
       },
       "awards": {
-        "featured": false,
+        "featured": true,
         "revolutionary": false
       },
-      "medal": false
+      "medal": true
     },
     "description": "No description provided."
   },
@@ -712,11 +712,11 @@
       "video": "https://www.youtube.com/watch?v=X4fz2XGM2Uo"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "08/27/2023",
+      "music": "Yooh - Destroy -agitato---",
+      "length": "3:57",
+      "instances": "14748",
+      "buttons": "19"
     },
     "selection": {
       "skills": {
@@ -728,7 +728,7 @@
         "orbs": false
       },
       "awards": {
-        "featured": false,
+        "featured": true,
         "revolutionary": false
       },
       "medal": false
@@ -744,11 +744,11 @@
       "video": "https://youtu.be/GEIhjIgeMhU"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "08/07/2023",
+      "music": "Camellia - Light it up",
+      "length": "4:01",
+      "instances": "30306",
+      "buttons": "14"
     },
     "selection": {
       "skills": {
@@ -761,7 +761,7 @@
       },
       "awards": {
         "featured": false,
-        "revolutionary": false
+        "revolutionary": true
       },
       "medal": false
     },
@@ -776,11 +776,11 @@
       "video": "https://www.youtube.com/watch?v=1u5tuxF7nWQ"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "08/07/2023",
+      "music": "Waterflame - Running From Demons",
+      "length": "2:13",
+      "instances": "7970",
+      "buttons": "8"
     },
     "selection": {
       "skills": {
@@ -808,11 +808,11 @@
       "video": "https://www.youtube.com/watch?v=3y9V18KJryw"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "09/30/2023",
+      "music": "BoomKitty - Detour",
+      "length": "1:01",
+      "instances": "11391",
+      "buttons": "11"
     },
     "selection": {
       "skills": {
@@ -840,11 +840,11 @@
       "video": "https://www.youtube.com/watch?v=Xn2Zd4sTbzg"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "01/23/2025",
+      "music": "Creo - Exosphere",
+      "length": "3:01",
+      "instances": "15851",
+      "buttons": "3"
     },
     "selection": {
       "skills": {
@@ -859,9 +859,9 @@
         "featured": false,
         "revolutionary": false
       },
-      "medal": false
+      "medal": true
     },
-    "description": "No description provided."
+    "description": "You broke time and space. You randomly come to in a dingy, industrial facility, which mysteriously transforms into a bright, stone-wall dimension. Do you choose to explore the dimension further, or return to the facility in hopes of finding a way out?"
   },
   {
     "overview": {
@@ -872,11 +872,11 @@
       "video": "https://www.youtube.com/watch?v=Y6ggQG2V0aA"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "01/25/2025",
+      "music": "F777 - Sonic Blaster",
+      "length": "2:37",
+      "instances": "10",
+      "buttons": "15477"
     },
     "selection": {
       "skills": {
@@ -888,10 +888,10 @@
         "orbs": false
       },
       "awards": {
-        "featured": false,
+        "featured": true,
         "revolutionary": false
       },
-      "medal": false
+      "medal": true
     },
     "description": "No description provided."
   },
@@ -904,11 +904,11 @@
       "video": "https://www.youtube.com/watch?v=-mndK4eM3g8"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "01/24/2025",
+      "music": "Creo - Mantarave",
+      "length": "3:22",
+      "instances": "17062",
+      "buttons": "12"
     },
     "selection": {
       "skills": {
@@ -921,11 +921,11 @@
       },
       "awards": {
         "featured": false,
-        "revolutionary": false
+        "revolutionary": true
       },
-      "medal": false
+      "medal": true
     },
-    "description": "No description provided."
+    "description": "[ Creo - Mantarave ]"
   },
   {
     "overview": {
@@ -936,11 +936,11 @@
       "video": "https://www.youtube.com/watch?v=Jd2jlFv4YYk"
     },
     "other": {
-      "published": "N/A",
-      "music": "N/A",
-      "length": "N/A",
-      "instances": "N/A",
-      "buttons": "N/A"
+      "published": "09/11/2024",
+      "music": "Creo - Start Your Engines",
+      "length": "3:45",
+      "instances": "18425",
+      "buttons": "9"
     },
     "selection": {
       "skills": {
@@ -952,7 +952,7 @@
         "orbs": false
       },
       "awards": {
-        "featured": false,
+        "featured": true,
         "revolutionary": false
       },
       "medal": false
