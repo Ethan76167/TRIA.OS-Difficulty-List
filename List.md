@@ -1,10 +1,8 @@
 > **THE OFFICIAL TRIA.OS DIFFICULTY LIST**
 
-This has now been archived in favor of the **Main List**. You can view the new list in https://rockytanker.net/tria/difficultylist/!
-
 > **Eternal**
 
-1. `7.68` **THE BEAST I WORSHIP** by AirStrikeForces, DD3985666, Eclipso_God1, Fugisuy957, & Correctionless [fteyl] [[https://www.youtube.com/watch?v=ACphu5esj2o](https://www.youtube.com/watch?v=ACphu5esj2o)]
+1. `7.7` **THE BEAST I WORSHIP** by AirStrikeForces, DD3985666, Eclipso_God1, Fugisuy957, & Correctionless [fteyl] [[https://www.youtube.com/watch?v=ACphu5esj2o](https://www.youtube.com/watch?v=ACphu5esj2o)]
 
 2. `7.55` **The Sin** by Marchiionne, alex28901, fxrezful, vX_Soraa & Vlayrs [fayvr] [[https://www.youtube.com/watch?v=uYC5YRy1d8Y](https://www.youtube.com/watch?v=uYC5YRy1d8Y)]
 
