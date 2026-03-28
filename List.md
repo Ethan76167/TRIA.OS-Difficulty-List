@@ -4,7 +4,7 @@
 
 1. `7.70` **THE BEAST I WORSHIP** by AirStrikeForces, DD3985666, Eclipso_God1, Fugisuy957, & Correctionless [fteyl] [[https://www.youtube.com/watch?v=ACphu5esj2o](https://www.youtube.com/watch?v=ACphu5esj2o)]
 
-2. `7.61` **The Sin** by Marchiionne, alex28901, fxrezful, vX_Soraa & Vlayrs [fayvr] [[https://www.youtube.com/watch?v=uYC5YRy1d8Y](https://www.youtube.com/watch?v=uYC5YRy1d8Y)]
+2. `7.61` **The Sin** by Marchiionne, alex28901, fxrezful, vX_Soraa & Vlayrs [fayvr] [[https://www.youtube.com/watch?v=XaTb_5pXLiY](https://www.youtube.com/watch?v=XaTb_5pXLiY)]
 
 3. `7.50` **Death Corridor** by angeldusked, PabloRios7 & des1red_usernam3 [tpilb] [[https://www.youtube.com/watch?v=CX30PQC-tVc](https://www.youtube.com/watch?v=CX30PQC-tVc)]
 
