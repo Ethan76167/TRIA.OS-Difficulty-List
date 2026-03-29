@@ -46,7 +46,7 @@
 
 22. `7.01` **Cubic Showdown** by MalachiLeapYear [aheja] [[https://www.youtube.com/watch?v=TpS6v_5hBMM](https://www.youtube.com/watch?v=TpS6v_5hBMM)]
 
-23. `7.005` **Agitato (3.0)** by alex28901, Marchiionne & MalachiLeapYear [mvnyv] [[https://www.youtube.com/watch?v=X4fz2XGM2Uo](https://www.youtube.com/watch?v=X4fz2XGM2Uo)]
+23. `7.00` **Agitato (3.0)** by alex28901, Marchiionne & MalachiLeapYear [mvnyv] [[https://www.youtube.com/watch?v=X4fz2XGM2Uo](https://www.youtube.com/watch?v=X4fz2XGM2Uo)]
 
 24. `7.00` **Nos Astra** by Ethan76167 & Enszo [nos] [[https://youtu.be/GEIhjIgeMhU](https://youtu.be/GEIhjIgeMhU)]
 
