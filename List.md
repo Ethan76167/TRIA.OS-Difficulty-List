@@ -22,7 +22,7 @@
 
 10. `7.29` **Ascension to Heaven** by Marchiionne, alex28901, ZPH03NIXX, box_3948, DevAdelso & RedVoidMaster [ath] [[https://www.youtube.com/watch?v=j3IoYLGceXQ](https://www.youtube.com/watch?v=j3IoYLGceXQ)]
 
-11. `7.28` **Peer Gynt** by Epi_cG, aqua2power, outcastrd & Freshlvy [yalsv] [[https://www.youtube.com/watch?v=waXZveOL0Zc](https://www.youtube.com/watch?v=waXZveOL0Zc)]
+11. `7.28` **Peer Gynt** by Epi_cG, aqua2power, outcastrd, Freshlvy, parrotman271, & Cametized [yalsv] [[https://www.youtube.com/watch?v=hHWLYShyaCE](https://www.youtube.com/watch?v=hHWLYShyaCE)]
 
 12. `7.25` **Trial of the Sword: Kawasu** by Kimahri0555 [ezhib] [[https://www.youtube.com/watch?v=2UUmTpdS6V0](https://www.youtube.com/watch?v=2UUmTpdS6V0)]
 
