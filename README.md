@@ -11,7 +11,7 @@ The TRIA.OS Difficulty List is an official outlet for recognizing the hardest ma
 
 Maps that are submitted must use a format such as:
 > Eternal
-  1. ``7.XX`` **The Sin** by S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs [fayvr] [https://www.youtube.com/watch?v=TYPNKpdwha4]
+  1. ``7.XX`` **THE BEAST I WOSHIP** by AirStrikeForces, DD3985666, Eclipso_God1, Fugisuy957, Correctionless, & ziafeva [fteyl] [https://www.youtube.com/watch?v=ACphu5esj2o]
 > Divine
   1. ``6.XX`` **Kneeling Shore** by tac_taiIIike, Zyanight, webangelcore, & SolarMagnetic [kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 
