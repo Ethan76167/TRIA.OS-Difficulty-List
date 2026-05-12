@@ -304,27 +304,6 @@
 
 150. `6.049` **Vacuus** by Svilar_r, Uncomfortable90zaza, TechnocraticAviation, fxrezful & SkullerySkuffling [vacuus] [[https://www.youtube.com/watch?v=fz99O3nrzOo](https://www.youtube.com/watch?v=fz99O3nrzOo)]
 
-151. `6.048` **Monovoid** by Enszo, iiExoticSlayer, EDNARGRANDE, grif_0 & Krystaltinan [mono3] [[https://www.youtube.com/watch?v=FvzsWPFMK2Q](https://www.youtube.com/watch?v=FvzsWPFMK2Q)]
-
-152. `6.04` **Industrialized Heat (V2)** by MalachiLeapYear [ykbyh] [[https://www.youtube.com/watch?v=hODLQDaGbbk](https://www.youtube.com/watch?v=hODLQDaGbbk)]
-
-153. `6.035` **Hexascape** by IckershackACK & For_Alls [bbbuv] [[https://www.youtube.com/watch?v=7S6r8eyqAcA](https://www.youtube.com/watch?v=7S6r8eyqAcA)]
-
-154. `6.03` **hue0** by RaxdiiGames & Macr0X2 [wvvbb] [[https://www.youtube.com/watch?v=XisUhfITKVY](https://www.youtube.com/watch?v=XisUhfITKVY)]
-
-155. `6.028` **Crumbling Shafts** by Dogeifiied, connornathan2008, tower_Mites & its_ven1 [epmqm] [[https://www.youtube.com/watch?v=P9dFHUng6hA](https://www.youtube.com/watch?v=P9dFHUng6hA)]
-
-156. `6.027` **Blueberry Glacier** by ebingames7, CapnPhantom, DevAdelso, LUIZVAG, MarcoAntonioDreemurr, XMonochromeX_021 & blasblas1212 [jtllq] [[https://www.youtube.com/watch?v=SmkqcZb6_pY](https://www.youtube.com/watch?v=SmkqcZb6_pY)]
-
-157. `6.025` **Mythedral** by Dzrol [mythedral] [[https://www.youtube.com/watch?v=DdNVdA2EjPU](https://www.youtube.com/watch?v=DdNVdA2EjPU)]
-
-158. `6.02` **We're Finally Landing** by 484northern, shaimoons, Dogeifiied, Link_Cable & Accurate_AA [ngivl] [[https://www.youtube.com/watch?v=LwJe0uvMA1k](https://www.youtube.com/watch?v=LwJe0uvMA1k)]
-
-159. `6.015` **Eroding Facility** by Maytidis_good [bslpu] [[https://www.youtube.com/watch?v=RgFvzT83pQI](https://www.youtube.com/watch?v=RgFvzT83pQI)]
-
-160. `6.01` **[MATRIX]** by Link_Cable [ytmda] [[https://www.youtube.com/watch?v=KkqilCkjhWY](https://www.youtube.com/watch?v=KkqilCkjhWY)]
-
-
 
 ---
 
