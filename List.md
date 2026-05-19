@@ -46,7 +46,7 @@
 
 22. `7.01` **Cubic Showdown** by MalachiLeapYear [aheja] [[https://www.youtube.com/watch?v=TpS6v_5hBMM](https://www.youtube.com/watch?v=TpS6v_5hBMM)]
 
-23. `7.06` **The Chamber** by mag_insurance, kimandre12345678, Link_Cable, kazzlinnn, For_Alls, ZPH03NIXX, PabloRios7, Dzrol & ahahahahahahasdas [nezbi] [[https://www.youtube.com/watch?v=a19S8Sc4Ny4](https://www.youtube.com/watch?v=a19S8Sc4Ny4)]
+23. `7.005` **The Chamber** by mag_insurance, kimandre12345678, Link_Cable, kazzlinnn, For_Alls, ZPH03NIXX, PabloRios7, Dzrol & ahahahahahahasdas [nezbi] [[https://www.youtube.com/watch?v=a19S8Sc4Ny4](https://www.youtube.com/watch?v=a19S8Sc4Ny4)]
 
 24. `7.00` **Agitato (3.0)** by alex28901, Marchiionne & MalachiLeapYear [mvnyv] [[https://www.youtube.com/watch?v=X4fz2XGM2Uo](https://www.youtube.com/watch?v=X4fz2XGM2Uo)]
 
