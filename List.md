@@ -18,25 +18,25 @@
 
 8. `7.31` **ULTRADESPAIR (Legacy)** by ziafeva [iymqc] [[https://www.youtube.com/watch?v=gTQYTIUEV-k](https://www.youtube.com/watch?v=gTQYTIUEV-k)]
 
-9. `7.30` **Oceanic Abyss** by Forbage [rsogx] [[https://www.youtube.com/watch?v=_1Jy6L3xOTE](https://www.youtube.com/watch?v=_1Jy6L3xOTE)]
+9. `7.30` **Peer Gynt** by Epi_cG, aqua2power, outcastrd, Freshlvy, parrotman271, & Cametized [yalsv] [[https://www.youtube.com/watch?v=hHWLYShyaCE](https://www.youtube.com/watch?v=hHWLYShyaCE)]
 
 10. `7.29` **Ascension to Heaven** by Marchiionne, alex28901, ZPH03NIXX, box_3948, DevAdelso & RedVoidMaster [ath] [[https://www.youtube.com/watch?v=j3IoYLGceXQ](https://www.youtube.com/watch?v=j3IoYLGceXQ)]
 
-11. `7.28` **Peer Gynt** by Epi_cG, aqua2power, outcastrd, Freshlvy, parrotman271, & Cametized [yalsv] [[https://www.youtube.com/watch?v=hHWLYShyaCE](https://www.youtube.com/watch?v=hHWLYShyaCE)]
+11. `7.25` **Trial of the Sword: Kawasu** by Kimahri0555 [ezhib] [[https://www.youtube.com/watch?v=2UUmTpdS6V0](https://www.youtube.com/watch?v=2UUmTpdS6V0)]
 
-12. `7.25` **Trial of the Sword: Kawasu** by Kimahri0555 [ezhib] [[https://www.youtube.com/watch?v=2UUmTpdS6V0](https://www.youtube.com/watch?v=2UUmTpdS6V0)]
+12. `7.22` **Oceanic Abyss** by Forbage [rsogx] [[https://www.youtube.com/watch?v=ATF56VzKILk](https://www.youtube.com/watch?v=ATF56VzKILk)]
 
-13. `7.16` **Hyper Speed** by Marchiionne, alex28901 & MalachiLeapYear [hmfaf] [[https://www.youtube.com/watch?v=p3FuGndl5bM](https://www.youtube.com/watch?v=p3FuGndl5bM)]
+13. `7.20` **The Empress** by 3swax & 00iJU4N [mlacd] [[https://www.youtube.com/watch?v=ARXTnexSbp4](https://www.youtube.com/watch?v=ARXTnexSbp4)]
 
-14. `7.15` **Asterios Legacy** by Marchiionne [ztczm] [[https://www.youtube.com/watch?v=jBRnuFRWH_c](https://www.youtube.com/watch?v=jBRnuFRWH_c)]
+14. `7.16` **Hyper Speed** by Marchiionne, alex28901 & MalachiLeapYear [hmfaf] [[https://www.youtube.com/watch?v=p3FuGndl5bM](https://www.youtube.com/watch?v=p3FuGndl5bM)]
 
-15. `7.13` **Glacial Outpost** by wizard062, lucaanos & jeremiah_A2010 [xbkwj] [[https://www.youtube.com/watch?v=mpLgw91jub8](https://www.youtube.com/watch?v=mpLgw91jub8)]
+15. `7.15` **Asterios Legacy** by Marchiionne [ztczm] [[https://www.youtube.com/watch?v=jBRnuFRWH_c](https://www.youtube.com/watch?v=jBRnuFRWH_c)]
 
-16. `7.11` **Out this Atmosphere** by Jestive_H [xnjza] [[https://www.youtube.com/watch?v=0B4AB-GaY9k](https://www.youtube.com/watch?v=0B4AB-GaY9k)]
+16. `7.13` **Glacial Outpost** by wizard062, lucaanos & jeremiah_A2010 [xbkwj] [[https://www.youtube.com/watch?v=mpLgw91jub8](https://www.youtube.com/watch?v=mpLgw91jub8)]
 
-17. `7.10` **Moonview** by ultramex3 & httpsloaf [efauo] [[https://www.youtube.com/watch?v=6QvliOH3J8o](https://www.youtube.com/watch?v=6QvliOH3J8o)]
+17. `7.11` **Out this Atmosphere** by Jestive_H [xnjza] [[https://www.youtube.com/watch?v=0B4AB-GaY9k](https://www.youtube.com/watch?v=0B4AB-GaY9k)]
 
-18. `7.08` **The Empress** by 3swax & 00iJU4N [mlacd] [[https://www.youtube.com/watch?v=ARXTnexSbp4](https://www.youtube.com/watch?v=ARXTnexSbp4)]
+18. `7.10` **Moonview** by ultramex3 & httpsloaf [efauo] [[https://www.youtube.com/watch?v=6QvliOH3J8o](https://www.youtube.com/watch?v=6QvliOH3J8o)]
 
 19. `7.065` **Dreamy Lands** by Forbage [egaxb] [[https://www.youtube.com/watch?v=t8aspgaDofY](https://www.youtube.com/watch?v=t8aspgaDofY)]
 
