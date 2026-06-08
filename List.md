@@ -18,7 +18,7 @@
 
 8. `7.31` **ULTRADESPAIR (Legacy)** by ziafeva [iymqc] [[https://www.youtube.com/watch?v=gTQYTIUEV-k](https://www.youtube.com/watch?v=gTQYTIUEV-k)]
 
-9. `7.30` **Peer Gynt** by Epi_cG, aqua2power, outcastrd, Freshlvy, parrotman271, & Cametized [yalsv] [[[https://www.youtube.com/watch?v=hHWLYShyaCE](https://www.youtube.com/watch?v=wCZhUVlRdKQ)](https://www.youtube.com/watch?v=wCZhUVlRdKQ)]
+9. `7.30` **Peer Gynt** by Epi_cG, aqua2power, outcastrd, Freshlvy, parrotman271, & Cametized [yalsv] [[https://www.youtube.com/watch?v=wCZhUVlRdKQ](https://www.youtube.com/watch?v=wCZhUVlRdKQ)]
 
 10. `7.29` **Ascension to Heaven** by Marchiionne, alex28901, ZPH03NIXX, box_3948, DevAdelso & RedVoidMaster [ath] [[https://www.youtube.com/watch?v=j3IoYLGceXQ](https://www.youtube.com/watch?v=j3IoYLGceXQ)]
 
