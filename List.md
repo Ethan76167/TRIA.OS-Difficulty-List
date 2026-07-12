@@ -3,7 +3,7 @@
 > **Eternal**
 1. `7.56` **the wiggle i worship** by Syfline, Rohanmishrr and Aaronplays [lojib] [[https://www.youtube.com/watch?v=hZNzBxjVsyU](https://www.youtube.com/watch?v=hZNzBxjVsyU)]
 
-2. `7.50` **THE BEAST I WORSHIP** by AirStrikeForces, DD3985666, Eclipso_God1, Fugisuy957, Correctionless, & ziafeva [fteyl] [[https://www.youtube.com/watch?v=ACphu5esj2o](https://www.youtube.com/watch?v=ACphu5esj2o)] 
+2. `7.48` **THE BEAST I WORSHIP** by AirStrikeForces, DD3985666, Eclipso_God1, Fugisuy957, Correctionless, & ziafeva [fteyl] [[https://www.youtube.com/watch?v=ACphu5esj2o](https://www.youtube.com/watch?v=ACphu5esj2o)] 
 
 3. `7.45` **The Sin** by Marchiionne, alex28901, fxrezful, vX_Soraa & Vlayrs [fayvr] [[https://www.youtube.com/watch?v=XaTb_5pXLiY](https://www.youtube.com/watch?v=XaTb_5pXLiY)]
 
