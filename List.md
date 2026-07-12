@@ -143,7 +143,7 @@
 
 70. `6.555` **Slow Down** by zkdnrjf294 & Br_a41 [mqbqb] [[https://www.youtube.com/watch?v=DgwUxGBhXWU](https://www.youtube.com/watch?v=DgwUxGBhXWU)] 
 
-68 `6.547` **Lightness** by poataday134 [wtjgs] [[https://www.youtube.com/watch?v=ZgFzFCGFzXE](https://www.youtube.com/watch?v=ZgFzFCGFzXE)]
+68. `6.547` **Lightness** by poataday134 [wtjgs] [[https://www.youtube.com/watch?v=ZgFzFCGFzXE](https://www.youtube.com/watch?v=ZgFzFCGFzXE)]
 
 69. `6.546` **Sapphire Caverns** by Epi_cG & adrian23922 [fncoa] [[https://www.youtube.com/watch?v=076Q3CLr2KU](https://www.youtube.com/watch?v=076Q3CLr2KU)]
 
