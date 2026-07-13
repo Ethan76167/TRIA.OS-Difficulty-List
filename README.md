@@ -44,5 +44,4 @@ Example: **[!!!] Kneeling Shore**
 
 7. Legacy maps will ONLY be added to the list if they do not have a new version yet. Said map will be removed once (or if) it gets a new version.
 
-8. Parts of maps will not be added to the list (For Example: Heaven's Gateway or Nyx)
 > More rules may be added at a later date.
