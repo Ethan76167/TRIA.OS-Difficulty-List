@@ -1,17 +1,11 @@
-> **Notice:** This README file is replacing the <kbd>Guidelines.md</kbd> file that originally was on this repository. Please take note to this file for info and updated news.
-
 <h1 align="center">The Official TRIA.OS Difficulty List</h1>
-
-<p align="center">
-  <img width="480" height="270" alt="Difficulty List Logo" src="https://github.com/user-attachments/assets/44e4a75e-9d08-4196-9af0-708b19b11daf" />
-</p>
 
 ## Information
 The TRIA.OS Difficulty List is an official outlet for recognizing the hardest maps in TRIA, with a team working to update, review and give an accurate view of the difficulty of certain maps within the higher difficulties.
 
 Maps that are submitted must use a format such as:
 > Eternal
-  1. ``7.XX`` **THE BEAST I WOSHIP** by AirStrikeForces, DD3985666, Eclipso_God1, Fugisuy957, Correctionless, & ziafeva [fteyl] [https://www.youtube.com/watch?v=ACphu5esj2o]
+  1. ``7.XX`` **the wiggle i woshop** by Syfline, Rohanmishrr and Aaronplays [lojib] [https://www.youtube.com/watch?v=hZNzBxjVsyU]
 > Divine
   1. ``6.XX`` **Kneeling Shore** by tac_taiIIike, Zyanight, webangelcore, & SolarMagnetic [kneeling] [https://www.youtube.com/watch?v=kEGJxiDmx6Y]
 
@@ -19,8 +13,8 @@ Maps that are submitted must use a format such as:
 
 Below are links to useful pieces of information for you to know all about the Difficulty List and more.
 
-- [Difficulty List Discord Server](https://discord.gg/yqUyRqQ3wJ)
-- [Main TRIA.OS Server](https://discord.gg/TRIA)
+- [Difficulty List Server](https://discord.gg/yqUyRqQ3wJ)
+- [Main TRIA.os Server](https://discord.gg/TRIA)
 - [Tutorial for adding/submitting maps](https://www.youtube.com/watch?v=AX8PWRI3ZKw) (May be semi-oudated)
 
 ## Map Guidelines
@@ -29,17 +23,58 @@ This is something that should be looked at and taken into account for everyone, 
 <hr>
 
 1. Despite how unserious some maps may seem, if they fit the criteria of an already Verified map (aka. map is already verified into the game) they will still be allowed on the list.
-2. If you think a maps rating is unclear, or a map is missing, wrong or there's an issue with the list, please report it in [#general](https://discord.com/channels/1045548615709491261/1045548615709491264) of the Discord and we'll get to it ASAP.
-3. Your map can be a buffed version as long as it is a revival or staff map (eg. Hardertopia or Deus Ex Machina), if the map gets buffed after there are victors it will be blacklisted from the list and will only be able to come back if changes are reverted, same goes for publishing the map on a different ID after there are victors. (this is also grounds for map unverification) Slight changes like qol updates are allowed which you can change the gameplay as long as it doesn't drastically affect the map's difficulty.
+
+2. If you think a maps rating is unclear, please, let your opinion be heard in the `#objections` forum in the discord. IF a map is missing, wrong or there's an issue with the list, please report it in the `#general` channel of the Discord and we'll get to it ASAP.
+
+3. Your map can be a buffed version as long as it is a revival or staff map (eg. Hardertopia or Deus Ex Machina), if the map gets buffed after there are victors it will be blacklisted from the list and will only be able to come back if changes are reverted, same goes for publishing the map on a different ID after there are victors (this is also grounds for map unverification). Slight changes like qol updates are allowed which you can change the gameplay as long as it doesn't drastically affect the map's difficulty.
+
 4. If a map is currently broken/bugged but still beatable, it will have a [!] infront of the map name with bold formatting.
 
-Example: **[!] Kneeling Shore**
+5. If the bug is map breaking (Its impossible to beat the map because of it) the map will be promptly removed from the list. It will not return until fixed.
 
-5. If the bug is map breaking (Its impossible to beat the map because of it) the map will have a [!!!] infront of the map name with bold formatting. Make sure you report these maps to the creator(s) to get it fixed, if you cannot do this, report it to TRIA developers that way the map can be unverified. 
-
-Example: **[!!!] Kneeling Shore**
-
-6. All maps listed be Divine or harder (aside from Public map list).
-
+6. All maps on the list are Divine or harder, no exceptions.
 
 > More rules may be added at a later date.
+
+## List Moderation
+The TRIA.os Difficulty list has a decently sized team. Anyone who is apart of it is listed below.
+
+# Admins
+
+[Ethan76167](https://www.roblox.com/users/167134349/profile)
+<br>
+[Enszo](https://www.roblox.com/users/55616641/profile)
+
+# Managers
+
+[Epi_cG](https://www.roblox.com/users/109447265/profile)
+<br>
+[Cametized](https://www.roblox.com/users/7554529574/profile)
+<br>
+[ShortZaz0](https://www.roblox.com/users/119466248/profile)
+<br>
+[LegendsFusions](https://www.roblox.com/users/568076588/profile)
+<br>
+[emoji_9](https://www.roblox.com/users/563514282/profile)
+
+# Judges
+
+[Grayscale_Unknown](https://www.roblox.com/users/3512330201/profile)
+<br>
+[letgabe3](https://www.roblox.com/users/40866467/profile)
+<br>
+[skullpinkle](https://www.roblox.com/users/1009844823/profile)
+<br>
+[Blexder](https://www.roblox.com/users/505719617/profile)
+<br>
+[CatTeslaSM](https://www.roblox.com/users/750064038/profile)
+<br>
+[Trimxelarious](https://www.roblox.com/users/895540915/profile)
+<br>
+[RockyTanker](https://www.roblox.com/users/3661411313/profile)
+<br>
+[hwr](https://www.roblox.com/users/892109765/profile)
+<br>
+[MacroX2](https://www.roblox.com/users/638198482/profile)
+<br>
+[Noobie](https://www.roblox.com/users/165766406/profile)
