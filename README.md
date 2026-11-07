@@ -26,7 +26,7 @@ This is something that should be looked at and taken into account for everyone, 
 
 2. If you think a maps rating is unclear, please, let your opinion be heard in the `#objections` forum in the discord. IF a map is missing, wrong or there's an issue with the list, please report it in the `#general` channel of the Discord and we'll get to it ASAP.
 
-3. Your map can be a buffed version as long as it is a revival or staff map (eg. Hardertopia or Deus Ex Machina), if the map gets buffed after there are victors it will be blacklisted from the list and will only be able to come back if changes are reverted, same goes for publishing the map on a different ID after there are victors (this is also grounds for map unverification). Slight changes like qol updates are allowed which you can change the gameplay as long as it doesn't drastically affect the map's difficulty.
+3. If you make an update to your map and decide to put it on a different ID, in turn wiping the stats and wins of others, this is a disallowed practice and will get your map blacklisted from the Difficulty List.
 
 4. If a map is currently broken/bugged but still beatable, it will have a [!] infront of the map name with bold formatting.
 
