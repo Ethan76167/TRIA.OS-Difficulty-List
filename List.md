@@ -139,7 +139,7 @@
 
 68. `6.67` **Nightfall District** by Epi_cG, adrian23922, & aqua2power [exspm] [[https://www.youtube.com/watch?v=x7LKfyGXCd0](https://www.youtube.com/watch?v=x7LKfyGXCd0)]
 
-69. `6.66` **Shattering Sands** by Zyanight & Robinroin87 [ygjwf] [[https://www.youtube.com/watch?v=GhwKtf6_BqA](https://www.youtube.com/watch?v=GhwKtf6_BqA)]
+69. `6.66` **Shattering Sands** by Zyanight & stoppamigjunii [ygjwf] [[https://www.youtube.com/watch?v=GhwKtf6_BqA](https://www.youtube.com/watch?v=GhwKtf6_BqA)]
 
 70. `6.65` **White Void** by connornathan2008, Dogeifiied, Link_Cable, Mawiblox2 & Jack_D03AW [mbksz] [[https://www.youtube.com/watch?v=jDzAVZJeFuM](https://www.youtube.com/watch?v=jDzAVZJeFuM)]
 
