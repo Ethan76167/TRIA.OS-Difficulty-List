@@ -18,7 +18,7 @@ Below are links to useful pieces of information for you to know all about the Di
 - [Tutorial for adding/submitting maps](https://www.youtube.com/watch?v=AX8PWRI3ZKw) (May be semi-oudated)
 
 ## Map Guidelines
-This is something that should be looked at and taken into account for everyone, because ***no matter how many complaints the team gets these specific rules will always apply no matter the case***. These rules also apply if you would like to contribute to the list. Pull requests for difficulty will be taken into account by the team and will be approved if the team agrees.
+These list of guidelines should be taken into consideration by everyone no matter the circumstance, they will always apply to repository pull requests, complaints, etc.
 
 <hr>
 
@@ -72,8 +72,6 @@ The TRIA.os Difficulty list has a decently sized team. Anyone who is apart of it
 [Trimxelarious](https://www.roblox.com/users/895540915/profile)
 <br>
 [RockyTanker](https://www.roblox.com/users/3661411313/profile)
-<br>
-[hwr](https://www.roblox.com/users/892109765/profile)
 <br>
 [MacroX2](https://www.roblox.com/users/638198482/profile)
 <br>

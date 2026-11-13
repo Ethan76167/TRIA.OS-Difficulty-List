@@ -17,7 +17,7 @@
 
 8. `7.38` **Rooms III** by box_3948, tabk123, fransis119, Milkchoco0621, Zap_lve & 40+ more [jvrpx] [[https://www.youtube.com/watch?v=GmD6nNxg2Vs](https://www.youtube.com/watch?v=GmD6nNxg2Vs)]  
 
-9. `7.37` **RIGOR** by aubreylinaa, Enszo, Zerixilous, I_zcy, em0ji_9, Jack_D03AW & angeldusked [qkrlf] [[https://www.youtube.com/watch?v=RRb6HowLTMU](https://www.youtube.com/watch?v=RRb6HowLTMU)]
+9. `7.37` **RIGOR** by aubreylinaa, Enszo, Zerixilous, I_zcy, em0ji_9, Jack_D03AW, & angeldusked [qkrlf] [[https://www.youtube.com/watch?v=RRb6HowLTMU](https://www.youtube.com/watch?v=RRb6HowLTMU)]
 
 10. `7.33` **Structural Conundrum** by Blengen & Pat_WasTaken [yhkzs] [[https://www.youtube.com/watch?v=pXWW3M5NA4g](https://www.youtube.com/watch?v=pXWW3M5NA4g)]
 
@@ -25,11 +25,11 @@
 
 12. `7.31` **ULTRADESPAIR (Legacy)** by aubreylinaa [iymqc] [[https://www.youtube.com/watch?v=gTQYTIUEV-k](https://www.youtube.com/watch?v=gTQYTIUEV-k)]
 
-13. `7.30` **Peer Gynt** by Epi_cG, aqua2power, outcastrd, Freshlvy, liahparrot, & Cametized [yalsv] [[https://www.youtube.com/watch?v=wCZhUVlRdKQ](https://www.youtube.com/watch?v=wCZhUVlRdKQ)]
+13. `7.30` **Peer Gynt** by Epi_cG, aqua2power, outcastrd, Freshlvy, SOLvayda, & Cametized [yalsv] [[https://www.youtube.com/watch?v=wCZhUVlRdKQ](https://www.youtube.com/watch?v=wCZhUVlRdKQ)]
 
 14. `7.29` **Ascension to Heaven** by Marchiionne, alex28901, ZPH03NIXX, box_3948, DevAdelso & RedVoidMaster [ath] [[https://www.youtube.com/watch?v=j3IoYLGceXQ](https://www.youtube.com/watch?v=j3IoYLGceXQ)]
 
-15. `7.27` **The Golden** by Epi_cG, jellybug56, outcastrd, liahparrot, & Cametized [hhwti] [[https://www.youtube.com/watch?v=DsSHryjDzeA](https://www.youtube.com/watch?v=DsSHryjDzeA)]
+15. `7.27` **The Golden** by Epi_cG, jellybug56, outcastrd, SOLvayda, & Cametized [hhwti] [[https://www.youtube.com/watch?v=DsSHryjDzeA](https://www.youtube.com/watch?v=DsSHryjDzeA)]
 
 16. `7.22` **Oceanic Abyss** by Forbage [rsogx] [[https://www.youtube.com/watch?v=ATF56VzKILk](https://www.youtube.com/watch?v=ATF56VzKILk)]
 
@@ -127,7 +127,7 @@
 
 62. `6.70` **Vivid** by Enszo [vivid] [[https://www.youtube.com/watch?v=4lzsf2e3x5A](https://www.youtube.com/watch?v=4lzsf2e3x5A)]
 
-63. `6.695` **Isolation** by liahparrot, aqua2power, & XyPcGamerXy [hrasx] [[https://youtu.be/EGKu7grbl7I?si=ASteSVLKPoPFGpXJ](https://youtu.be/EGKu7grbl7I?si=ASteSVLKPoPFGpXJ)]
+63. `6.695` **Isolation** by SOLvayda, aqua2power, & XyPcGamerXy [hrasx] [[https://youtu.be/EGKu7grbl7I?si=ASteSVLKPoPFGpXJ](https://youtu.be/EGKu7grbl7I?si=ASteSVLKPoPFGpXJ)]
 
 64. `6.69` **Brick Yellow** by robloxpies [gpuju] [[https://www.youtube.com/watch?v=e2YvIr_5tS8](https://www.youtube.com/watch?v=e2YvIr_5tS8)]
 
@@ -139,7 +139,7 @@
 
 68. `6.67` **Nightfall District** by Epi_cG, adrian23922, & aqua2power [exspm] [[https://www.youtube.com/watch?v=x7LKfyGXCd0](https://www.youtube.com/watch?v=x7LKfyGXCd0)]
 
-69. `6.66` **Shattering Sands** by Zyanight & Robinroin87 [ygjwf] [[https://www.youtube.com/watch?v=GhwKtf6_BqA](https://www.youtube.com/watch?v=GhwKtf6_BqA)]
+69. `6.66` **Shattering Sands** by Zyanight & stoppamigjunii [ygjwf] [[https://www.youtube.com/watch?v=GhwKtf6_BqA](https://www.youtube.com/watch?v=GhwKtf6_BqA)]
 
 70. `6.65` **White Void** by connornathan2008, Dogeifiied, Link_Cable, Mawiblox2 & Jack_D03AW [mbksz] [[https://www.youtube.com/watch?v=jDzAVZJeFuM](https://www.youtube.com/watch?v=jDzAVZJeFuM)]
 
@@ -179,7 +179,7 @@
 
 88. `6.53` **Kernel Complex** by Svilar_r, iiExoticSlayer, Link_Cable, connornathan2008, Uncomfortable90zaza, fxrezful, & tower_mites [kernel] [[https://www.youtube.com/watch?v=xeZCkZ9yoyo](https://www.youtube.com/watch?v=xeZCkZ9yoyo)]
 
-89. `6.525` **LUNA** by liahparrot [lktnn] [[https://www.youtube.com/watch?v=sjp3NeckOlo](https://www.youtube.com/watch?v=sjp3NeckOlo)]
+89. `6.525` **LUNA** by SOLvayda, briangaser2353, & HiByeNowDieRightNow [lktnn] [[https://www.youtube.com/watch?v=sjp3NeckOlo](https://www.youtube.com/watch?v=sjp3NeckOlo)]
 
 90. `6.51` **[WARP_OF.TIME]** by YukiSip_SUPR3M3 [gmdgx] [[https://www.youtube.com/watch?v=DlOISNIZJjM](https://www.youtube.com/watch?v=DlOISNIZJjM)]
 
@@ -309,7 +309,7 @@
 
 153. `6.175` **Ricochet** by zkdnrjf294 [xmxdj] [[https://www.youtube.com/watch?v=m1Ey1CatjjQ](https://www.youtube.com/watch?v=m1Ey1CatjjQ)]
 
-154. `6.17` **Ominosity** by TechnocraticAviation, connornathan2008, tglovescats & SolarMagnetic [ntyze] [[https://www.youtube.com/watch?v=_pzCh_G0EjA](https://www.youtube.com/watch?v=_pzCh_G0EjA)]
+154. `6.17` **Ominosity** by Cynthie_TA, connornathan2008, tglovescats & SolarMagnetic [ntyze] [[https://www.youtube.com/watch?v=_pzCh_G0EjA](https://www.youtube.com/watch?v=_pzCh_G0EjA)]
 
 155. `6.165` **Apocolyptic Protocols** by aqua2power [zeyqu] [[https://www.youtube.com/watch?v=Vr9UpXoAZTw](https://www.youtube.com/watch?v=Vr9UpXoAZTw)]
 
@@ -351,7 +351,7 @@
 
 174. `6.08` **Water Accident** by Folly_DreamParasite [klnlp] [[https://www.youtube.com/watch?v=4erNyxc4Das](https://www.youtube.com/watch?v=4erNyxc4Das)]
 
-175. `6.075` **Le Calme** by RRayhanahyaRR & epic_flaxez [iaejz] [[https://www.youtube.com/watch?v=a3W4OKYjz3c](https://www.youtube.com/watch?v=a3W4OKYjz3c)]
+175. `6.075` **Le Calme** by RRayhanahyaRR & FFlaxez [iaejz] [[https://www.youtube.com/watch?v=a3W4OKYjz3c](https://www.youtube.com/watch?v=a3W4OKYjz3c)]
 
 176. `6.07` **Golden Zephyr** by Ghastflux [golden] [[https://www.youtube.com/watch?v=L3C48uEjbsM](https://www.youtube.com/watch?v=L3C48uEjbsM)]
 
@@ -359,7 +359,7 @@
 
 178. `6.061` **Nuclear Blizzard** by Zyanight [efbyu] [[https://www.youtube.com/watch?v=Tnpmpt8lm9M](https://www.youtube.com/watch?v=Tnpmpt8lm9M)]
 
-179. `6.06` **Industrial Hours** by TechnocraticAviation, connornathan2008 & tglovescats [hvpyv] [[https://www.youtube.com/watch?v=M-FCZRl2Aes](https://www.youtube.com/watch?v=M-FCZRl2Aes)]
+179. `6.06` **Industrial Hours** by Cynthie_TA, connornathan2008 & tglovescats [hvpyv] [[https://www.youtube.com/watch?v=M-FCZRl2Aes](https://www.youtube.com/watch?v=M-FCZRl2Aes)]
 
 180. `6.057` **vell** by shaimoons, PheenoUltra, Mawiblox2 & Accurate_AA [xqbeq] [[https://www.youtube.com/watch?v=ZZkMpWLPxD4](https://www.youtube.com/watch?v=ZZkMpWLPxD4)]
 
@@ -367,7 +367,7 @@
 
 182. `6.051` **Monoscape** by Enszo, iiExoticSlayer & o6xser [mono2] [[https://www.youtube.com/watch?v=32TfEAUHCG0](https://www.youtube.com/watch?v=32TfEAUHCG0)]
 
-183. `6.050` **Vacuus** by Svilar_r, Uncomfortable90zaza, TechnocraticAviation, fxrezful & SkullerySkuffling [vacuus] [[https://www.youtube.com/watch?v=fz99O3nrzOo](https://www.youtube.com/watch?v=fz99O3nrzOo)]
+183. `6.050` **Vacuus** by Svilar_r, Uncomfortable90zaza, Cynthie_TA, fxrezful & SkullerySkuffling [vacuus] [[https://www.youtube.com/watch?v=fz99O3nrzOo](https://www.youtube.com/watch?v=fz99O3nrzOo)]
 
 184. `6.050` **Venomous Vistas** by noetiess, cacatman123 & Pat_WasTaken [edhhe] [[https://www.youtube.com/watch?v=I4Fk82c9ACc](https://www.youtube.com/watch?v=I4Fk82c9ACc)]
 
